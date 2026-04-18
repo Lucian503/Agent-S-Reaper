@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Agent-S Requirements
         run: |
-          pip install playwright chromadb openai pyautogui python-xlib pytesseract
+          pip install playwright chromadb openai pyautogui python-xlib pytesseract backoff requests httpx numpy pillow python-dotenv
           python -m playwright install chromium
           python -m playwright install-deps chromium
 
