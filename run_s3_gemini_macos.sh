@@ -2,8 +2,8 @@
 APP_PATH=$(find . -name "cli_app.py" | head -n 1)
 export PYTHONPATH=$PYTHONPATH:$(pwd)
 
-# Updated Task: Explicitly mentioning Chromium to avoid the Firefox hunt
-TASK="Open the Chromium browser. Go to github.com. Search for tools to improve data scraping accuracy. Record what you learn in SKILLS.md."
+# Since the browser is already open to GitHub, we just give the agent its goal
+TASK="The browser is already open to your repository. Analyze the existing files, search GitHub for scraping tools, and update SKILLS.md."
 
 echo "$TASK" | python3 "$APP_PATH" \
   --provider "openai" \
