@@ -2,8 +2,8 @@ name: Autonomous Agent-S Researcher
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour automatically
-  workflow_dispatch: # Allows you to start it manually from the "Actions" tab
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-agent:
@@ -20,12 +20,13 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel # Required for agent clipboard actions
+          sudo apt-get install -y xclip xsel
 
       - name: Install Agent-S Requirements
         run: |
-          pip install playwright chromadb
+          pip install playwright chromadb openai
           python -m playwright install chromium
+          python -m playwright install-deps chromium
 
       - name: Run Agent-S Headless
         env:
@@ -33,14 +34,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           HEADLESS: "true"
           USE_PLAYWRIGHT: "true"
-      - run: |
-	  mkdir -p logs  #
+        run: |
+          mkdir -p logs
           chmod +x run_s3_gemini_macos.sh
           ./run_s3_gemini_macos.sh --task "Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md and save gathered data to results.csv."
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Agent-S-Bot"
           git config --global user.email "agent@github.com"
           git add SKILLS.md results.csv research_log.md || echo "No files to add"
-          git commit -m "Autonomous Update: Agent learned new skills and gathered data" || echo "No changes to commit"
+          git commit -m "Autonomous Update: Agent learned new skills" || echo "No changes"
           git push
