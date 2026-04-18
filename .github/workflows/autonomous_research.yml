@@ -20,11 +20,11 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev
+          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb
 
       - name: Install Agent-S Requirements
         run: |
-          pip install playwright chromadb openai pyautogui
+          pip install playwright chromadb openai pyautogui python-xlib
           python -m playwright install chromium
           python -m playwright install-deps chromium
 
@@ -34,10 +34,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           HEADLESS: "true"
           USE_PLAYWRIGHT: "true"
+          DISPLAY: :99
         run: |
           mkdir -p logs
           chmod +x run_s3_gemini_macos.sh
-          ./run_s3_gemini_macos.sh --task "Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md and save gathered data to results.csv."
+          /usr/bin/xvfb-run --server-args="-screen 0 1280x1024x24" ./run_s3_gemini_macos.sh --task "Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md and save gathered data to results.csv."
 
       - name: Commit and Push Changes
         run: |
