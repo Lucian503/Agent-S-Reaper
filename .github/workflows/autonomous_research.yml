@@ -30,7 +30,7 @@ jobs:
       - name: Run Agent-S Headless
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           HEADLESS: "true"
           USE_PLAYWRIGHT: "true"
         run: |
