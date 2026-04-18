@@ -1,23 +1,14 @@
-numpy
-backoff
-pandas
+playwright
+chromadb
 openai
 anthropic
-fastapi
-uvicorn
-paddleocr
-paddlepaddle
-together
-scikit-learn
-websockets
-tiktoken
+google-generativeai
 pyautogui
-toml
-black
+python-xlib
 pytesseract
-google-genai
-
-# Platform-specific dependencies
-pyobjc; platform_system == "Darwin"
-pywinauto; platform_system == "Windows"
-pywin32; platform_system == "Windows" 
+backoff
+requests
+httpx
+numpy
+pillow
+python-dotenv
