@@ -2,10 +2,12 @@
 APP_PATH=$(find . -name "cli_app.py" | head -n 1)
 export PYTHONPATH=$PYTHONPATH:$(pwd)
 
-# DIRECT MISSION: We send the agent straight to the file it needs to edit.
-# Replace [YOUR_BRANCH] with main
-TARGET_URL="https://github.com/Lucian503/Agent-S-Reaper/edit/main/SKILLS.md"
-TASK="The browser is open to the EDIT page of SKILLS.md. Type 'Identified Scraping Tools: Requests, Playwright, BeautifulSoup4' into the text area, scroll down, and click the 'Commit changes' button."
+# 1. HARD-FIX: We force the Python script to use our edit link as the starting point
+# We search for any URL in cli_app.py and swap it for our target
+sed -i "s|https://github.com/.*'|https://github.com/Lucian503/Agent-S-Reaper/edit/main/SKILLS.md'|g" "$APP_PATH"
+
+# 2. DEFINITIVE TASK
+TASK="You are now on the EDIT page for SKILLS.md. 1. Click inside the text editor. 2. Type 'Tools found: Playwright, Requests, OpenAI, Anthropic'. 3. Scroll to the bottom. 4. Click the green 'Commit changes' button."
 
 echo "$TASK" | python3 "$APP_PATH" \
   --provider "openai" \
