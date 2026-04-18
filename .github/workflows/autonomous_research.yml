@@ -20,7 +20,7 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb tesseract-ocr tesseract-ocr-eng libtesseract-dev libgbm1 libasound2
+          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb tesseract-ocr tesseract-ocr-eng libtesseract-dev libgbm1 libasound2t64
 
       - name: Install Agent-S Requirements
         run: |
@@ -45,5 +45,5 @@ jobs:
           git config --global user.name "Agent-S-Bot"
           git config --global user.email "agent@github.com"
           git add SKILLS.md results.csv research_log.md logs/ requirements.txt || echo "No files to add"
-          git commit -m "Autonomous Update: Final Environment Sync" || echo "No changes"
+          git commit -m "Environment: Ubuntu 24.04 library compatibility fix" || echo "No changes"
           git push
