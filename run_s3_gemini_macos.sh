@@ -3,11 +3,15 @@
 APP_PATH=$(find . -name "cli_app.py" | head -n 1)
 
 if [ -z "$APP_PATH" ]; then
-  echo "ERROR: cli_app.py not found in any directory!"
+  echo "ERROR: cli_app.py not found!"
   exit 1
 fi
 
 echo "Found cli_app.py at: $APP_PATH"
+
+# Set the Python Path to the current root directory
+# This solves the "No module named gui_agents" error
+export PYTHONPATH=$PYTHONPATH:$(pwd)
 
 python3 "$APP_PATH" \
   --provider "openai" \
