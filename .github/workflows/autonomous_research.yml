@@ -20,11 +20,11 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb
+          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb tesseract-ocr libtesseract-dev
 
       - name: Install Agent-S Requirements
         run: |
-          pip install playwright chromadb openai pyautogui python-xlib
+          pip install playwright chromadb openai pyautogui python-xlib pytesseract
           python -m playwright install chromium
           python -m playwright install-deps chromium
 
@@ -44,6 +44,6 @@ jobs:
         run: |
           git config --global user.name "Agent-S-Bot"
           git config --global user.email "agent@github.com"
-          git add SKILLS.md results.csv research_log.md || echo "No files to add"
+          git add SKILLS.md results.csv research_log.md logs/ || echo "No files to add"
           git commit -m "Autonomous Update: Agent learned new skills" || echo "No changes"
           git push
