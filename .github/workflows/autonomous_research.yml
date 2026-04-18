@@ -34,9 +34,8 @@ jobs:
           HEADLESS: "true"
           USE_PLAYWRIGHT: "true"
         run: |
-          # This command tells the agent its mission:
-          bash run_s3_gemini_macos.sh --task "Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md and save gathered data to results.csv."
-
+         chmod +x run_s3_gemini_macos.sh
+          ./run_s3_gemini_macos.sh --task "Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md and save gathered data to results.csv."
       - name: Commit and Push Changes
         run: |
           git config --global user.name "Agent-S-Bot"
