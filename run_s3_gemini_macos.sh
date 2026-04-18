@@ -1,7 +1,15 @@
 #!/bin/bash
-# Agent-S Reaper Execution Script
+# Find where cli_app.py is hiding
+APP_PATH=$(find . -name "cli_app.py" | head -n 1)
 
-python3 cli_app.py \
+if [ -z "$APP_PATH" ]; then
+  echo "ERROR: cli_app.py not found in any directory!"
+  exit 1
+fi
+
+echo "Found cli_app.py at: $APP_PATH"
+
+python3 "$APP_PATH" \
   --provider "openai" \
   --model "gpt-4o" \
   --ground_provider "openai" \
