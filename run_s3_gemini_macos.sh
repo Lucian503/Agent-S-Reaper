@@ -2,9 +2,9 @@
 APP_PATH=$(find . -name "cli_app.py" | head -n 1)
 export PYTHONPATH=$PYTHONPATH:$(pwd)
 
-TASK="Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md."
+# Updated Task: Explicitly mentioning Chromium to avoid the Firefox hunt
+TASK="Open the Chromium browser. Go to github.com. Search for tools to improve data scraping accuracy. Record what you learn in SKILLS.md."
 
-# We pipe the task in and ensure the display is active
 echo "$TASK" | python3 "$APP_PATH" \
   --provider "openai" \
   --model "gpt-4o" \

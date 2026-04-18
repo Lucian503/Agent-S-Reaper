@@ -20,7 +20,7 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb tesseract-ocr tesseract-ocr-eng libtesseract-dev libgbm1 libasound2t64 gnome-screenshot scrot
+          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb tesseract-ocr tesseract-ocr-eng libtesseract-dev libgbm1 libasound2t64 gnome-screenshot scrot wmctrl openbox
 
       - name: Install Agent-S Requirements
         run: |
@@ -39,6 +39,5 @@ jobs:
         run: |
           mkdir -p logs
           chmod +x run_s3_gemini_macos.sh
-          # We pass the API key explicitly to the shell environment
-          export OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}
-          /usr/bin/xvfb-run --server-args="-screen 0 1280x1024x24" ./run_s3_gemini_macos.sh
+          # Start a window manager in the background so windows can be maximized/controlled
+          /usr/bin/xvfb-run --server-args="-screen 0 1280x1024x24" sh -c "openbox & ./run_s3_gemini_macos.sh"
