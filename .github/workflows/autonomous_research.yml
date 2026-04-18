@@ -1,45 +1,46 @@
 name: Autonomous Agent-S Researcher
 on:
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   run-agent:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install "Omnibus" Dependencies
+      - name: Install System Deps
         run: |
           sudo apt-get update
-          sudo apt-get install -y xvfb fluxbox wmctrl xdotool gnome-screenshot scrot tesseract-ocr \
-          libgbm1 libasound2t64 libnss3 libatk-bridge2.0-0 libgtk-3-0
+          sudo apt-get install -y xvfb fluxbox wmctrl xdotool gnome-screenshot scrot chromium-browser
 
-      - name: Setup Agent Environment
+      - name: Install Python Deps
         run: |
-          pip install "Pillow>=9.2.0" -r requirements.txt
-          python -m playwright install chromium
-          python -m playwright install-deps chromium
+          pip install openai Pillow -r requirements.txt
 
-      - name: Launch Environment & Agent
+      - name: Run Agent with Watchdog
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DISPLAY: :99
         run: |
           mkdir -p logs
-          # 1. Start Xvfb with high color depth
           Xvfb :99 -screen 0 1280x1024x24 &
           sleep 3
-          # 2. Start Fluxbox to manage window focus
           fluxbox &
           sleep 2
-          # 3. Force Chromium to start exactly where the agent expects it
-          chromium-browser --no-sandbox --disable-gpu --disable-software-rasterizer \
-          --window-size=1280,1024 --window-position=0,0 \
-          --start-maximized "https://github.com/Lucian503/Agent-S-Reaper/edit/main/SKILLS.md" &
-          sleep 8
-          # 4. Run the Agent with the "Direct Instruction" bypass
+          # Run agent and pipe ALL output to log
           chmod +x run_s3_gemini_macos.sh
-          ./run_s3_gemini_macos.sh
+          ./run_s3_gemini_macos.sh > logs/agent.log 2>&1 || echo "Agent Crashed"
+
+      - name: Self-Heal on Failure
+        if: always()
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python healer.py
