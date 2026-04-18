@@ -20,11 +20,11 @@ jobs:
       - name: Install System Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel
+          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev
 
       - name: Install Agent-S Requirements
         run: |
-          pip install playwright chromadb openai
+          pip install playwright chromadb openai pyautogui
           python -m playwright install chromium
           python -m playwright install-deps chromium
 
