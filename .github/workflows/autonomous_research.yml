@@ -1,49 +1,45 @@
 name: Autonomous Agent-S Researcher
-
 on:
-  schedule:
-    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   run-agent:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install System Dependencies
+      - name: Install "Omnibus" Dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y xclip xsel libpng-dev libjpeg-dev python3-tk python3-dev xvfb tesseract-ocr tesseract-ocr-eng libtesseract-dev libgbm1 libasound2t64 gnome-screenshot scrot wmctrl fluxbox chromium-browser
+          sudo apt-get install -y xvfb fluxbox wmctrl xdotool gnome-screenshot scrot tesseract-ocr \
+          libgbm1 libasound2t64 libnss3 libatk-bridge2.0-0 libgtk-3-0
 
-      - name: Install Agent-S Requirements
+      - name: Setup Agent Environment
         run: |
-          pip install "Pillow>=9.2.0"
-          pip install -r requirements.txt
+          pip install "Pillow>=9.2.0" -r requirements.txt
           python -m playwright install chromium
           python -m playwright install-deps chromium
 
-      - name: Run Agent-S Headless
+      - name: Launch Environment & Agent
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          HEADLESS: "true"
-          USE_PLAYWRIGHT: "true"
           DISPLAY: :99
         run: |
           mkdir -p logs
+          # 1. Start Xvfb with high color depth
+          Xvfb :99 -screen 0 1280x1024x24 &
+          sleep 3
+          # 2. Start Fluxbox to manage window focus
+          fluxbox &
+          sleep 2
+          # 3. Force Chromium to start exactly where the agent expects it
+          chromium-browser --no-sandbox --disable-gpu --disable-software-rasterizer \
+          --window-size=1280,1024 --window-position=0,0 \
+          --start-maximized "https://github.com/Lucian503/Agent-S-Reaper/edit/main/SKILLS.md" &
+          sleep 8
+          # 4. Run the Agent with the "Direct Instruction" bypass
           chmod +x run_s3_gemini_macos.sh
-          # Launch Xvfb, then a Window Manager, then the Browser, THEN the Agent
-          /usr/bin/xvfb-run --server-args="-screen 0 1280x1024x24" sh -c "
-            fluxbox & 
-            sleep 2
-            chromium-browser --no-sandbox --disable-setuid-sandbox --window-size=1280,1024 --window-position=0,0 https://github.com/Lucian503/Agent-S-Reaper &
-            sleep 5
-            ./run_s3_gemini_macos.sh
-          "
+          ./run_s3_gemini_macos.sh
