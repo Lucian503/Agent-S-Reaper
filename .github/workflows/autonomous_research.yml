@@ -34,6 +34,7 @@ jobs:
           HEADLESS: "true"
           USE_PLAYWRIGHT: "true"
         run: |
+	mkdir -p logs  #
          chmod +x run_s3_gemini_macos.sh
           ./run_s3_gemini_macos.sh --task "Search GitHub for tools to improve my data scraping accuracy. Record what you learn in SKILLS.md and save gathered data to results.csv."
       - name: Commit and Push Changes
