@@ -26,6 +26,7 @@ jobs:
       - name: Run Agent with Watchdog
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SCRAPER: ${{ secrets.SCRAPER }}
           DISPLAY: :99
         run: |
           mkdir -p logs
@@ -33,7 +34,6 @@ jobs:
           sleep 3
           fluxbox &
           sleep 2
-          # Run agent and pipe ALL output to log
           chmod +x run_s3_gemini_macos.sh
           ./run_s3_gemini_macos.sh > logs/agent.log 2>&1 || echo "Agent Crashed"
 
