@@ -190,6 +190,8 @@ agent_s \
 #### Optional Parameters
 - **`--model_temperature`**: The temperature to fix all model calls to (necessary to set to 1.0 for models like o3 but can be left blank for other models)
 
+If you are using a Google Gemini OpenAI-compatible endpoint for grounding, pass the endpoint URL directly, use header-based auth, and set one of `OPENAI_API_KEY`, `GEMINI_API_KEY`, or `GOOGLE_API_KEY`. The CLI now strips any `key` or `api_key` query parameters from the grounding URL so you do not need the uppercase host workaround.
+
 #### Grounding Model Dimensions
 The grounding width and height should match the output coordinate resolution of your grounding model:
 - **UI-TARS-1.5-7B**: Use `--grounding_width 1920 --grounding_height 1080`

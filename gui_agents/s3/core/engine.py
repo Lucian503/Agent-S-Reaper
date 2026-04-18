@@ -1,6 +1,8 @@
 import os
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 import backoff
+import httpx
 from anthropic import Anthropic
 from openai import (
     AzureOpenAI,
@@ -16,6 +18,81 @@ class LMMEngine:
     pass
 
 
+def _is_google_openai_compatible_url(base_url):
+    if not base_url:
+        return False
+
+    hostname = urlparse(base_url).hostname
+    if not hostname:
+        return False
+
+    hostname = hostname.lower()
+    return hostname.endswith("googleapis.com") or hostname.endswith(
+        "generativelanguage.googleapis.com"
+    )
+
+
+def _strip_query_auth_params(base_url):
+    if not base_url:
+        return base_url
+
+    if not _is_google_openai_compatible_url(base_url):
+        return base_url
+
+    parsed_url = urlparse(base_url)
+    if not parsed_url.query:
+        return base_url
+
+    query_items = parse_qsl(parsed_url.query, keep_blank_values=True)
+    filtered_query = [
+        (key, value)
+        for key, value in query_items
+        if key.lower() not in {"key", "api_key"}
+    ]
+
+    if len(filtered_query) == len(query_items):
+        return base_url
+
+    return urlunparse(parsed_url._replace(query=urlencode(filtered_query, doseq=True)))
+
+
+def _resolve_openai_compatible_api_key(
+    base_url, api_key, default_env_name="OPENAI_API_KEY"
+):
+    if api_key:
+        return api_key
+
+    env_api_key = os.getenv(default_env_name)
+    if env_api_key:
+        return env_api_key
+
+    if _is_google_openai_compatible_url(base_url):
+        for fallback_env_name in (
+            "GEMINI_API_KEY",
+            "GOOGLE_API_KEY",
+            "OPENAI_API_KEY",
+        ):
+            env_api_key = os.getenv(fallback_env_name)
+            if env_api_key:
+                return env_api_key
+
+    return None
+
+
+def _has_authorization_header(headers):
+    if not isinstance(headers, dict):
+        return False
+
+    for header_name, header_value in headers.items():
+        if (
+            isinstance(header_name, str)
+            and header_name.lower() == "authorization"
+            and str(header_value).strip()
+        ):
+            return True
+    return False
+
+
 class LMMEngineOpenAI(LMMEngine):
     def __init__(
         self,
@@ -29,21 +106,62 @@ class LMMEngineOpenAI(LMMEngine):
     ):
         assert model is not None, "model must be provided"
         self.model = model
-        self.base_url = base_url
+        self.base_url = _strip_query_auth_params(base_url)
         self.api_key = api_key
         self.organization = organization
         self.request_interval = 0 if rate_limit == -1 else 60.0 / rate_limit
         self.llm_client = None
         self.temperature = temperature  # Can force temperature to be the same (in the case of o3 requiring temperature to be 1)
+        self.default_headers = kwargs.get("default_headers") or kwargs.get("headers")
+
+    def _generate_google_with_header_auth(
+        self, messages, auth_api_key, temperature=0.0, max_new_tokens=None, **kwargs
+    ):
+        if not self.base_url:
+            raise ValueError("base_url must be provided for Google-compatible endpoint")
+
+        request_payload = {
+            "model": self.model,
+            "messages": messages,
+            "temperature": temperature if self.temperature is None else self.temperature,
+        }
+        if max_new_tokens:
+            request_payload["max_tokens"] = max_new_tokens
+        request_payload.update(kwargs)
+
+        request_headers = {"Content-Type": "application/json"}
+        request_headers.update(self.default_headers or {})
+        if not _has_authorization_header(request_headers):
+            request_headers["Authorization"] = f"Bearer {auth_api_key}"
+
+        response = httpx.post(
+            f"{self.base_url.rstrip('/')}/chat/completions",
+            headers=request_headers,
+            json=request_payload,
+            timeout=120.0,
+        )
+        response.raise_for_status()
+        return response.json()["choices"][0]["message"]["content"]
 
     @backoff.on_exception(
         backoff.expo, (APIConnectionError, APIError, RateLimitError), max_time=60
     )
     def generate(self, messages, temperature=0.0, max_new_tokens=None, **kwargs):
-        api_key = self.api_key or os.getenv("OPENAI_API_KEY")
+        api_key = _resolve_openai_compatible_api_key(
+            self.base_url, self.api_key, default_env_name="OPENAI_API_KEY"
+        )
         if api_key is None:
             raise ValueError(
                 "An API Key needs to be provided in either the api_key parameter or as an environment variable named OPENAI_API_KEY"
+            )
+
+        if _is_google_openai_compatible_url(self.base_url):
+            return self._generate_google_with_header_auth(
+                messages=messages,
+                auth_api_key=api_key,
+                temperature=temperature,
+                max_new_tokens=max_new_tokens,
+                **kwargs,
             )
         organization = self.organization or os.getenv("OPENAI_ORG_ID")
         if not self.llm_client:
@@ -51,7 +169,10 @@ class LMMEngineOpenAI(LMMEngine):
                 self.llm_client = OpenAI(api_key=api_key, organization=organization)
             else:
                 self.llm_client = OpenAI(
-                    base_url=self.base_url, api_key=api_key, organization=organization
+                    base_url=self.base_url,
+                    api_key=api_key,
+                    organization=organization,
+                    default_headers=self.default_headers,
                 )
         return (
             self.llm_client.chat.completions.create(
@@ -164,7 +285,7 @@ class LMMEngineGemini(LMMEngine):
     ):
         assert model is not None, "model must be provided"
         self.model = model
-        self.base_url = base_url
+        self.base_url = _strip_query_auth_params(base_url)
         self.api_key = api_key
         self.request_interval = 0 if rate_limit == -1 else 60.0 / rate_limit
         self.llm_client = None
@@ -174,7 +295,9 @@ class LMMEngineGemini(LMMEngine):
         backoff.expo, (APIConnectionError, APIError, RateLimitError), max_time=60
     )
     def generate(self, messages, temperature=0.0, max_new_tokens=None, **kwargs):
-        api_key = self.api_key or os.getenv("GEMINI_API_KEY")
+        api_key = _resolve_openai_compatible_api_key(
+            self.base_url, self.api_key, default_env_name="GEMINI_API_KEY"
+        )
         if api_key is None:
             raise ValueError(
                 "An API Key needs to be provided in either the api_key parameter or as an environment variable named GEMINI_API_KEY"
