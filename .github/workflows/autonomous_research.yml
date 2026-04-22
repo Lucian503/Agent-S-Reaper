@@ -37,6 +37,7 @@ jobs:
           python -m playwright install chromium
 
       - name: Run Agent with Virtual Display
+        id: run_agent
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -49,10 +50,51 @@ jobs:
           python healer.py
 
       - name: Commit and Push Changes
+        id: auto_commit
         if: always()
         run: |
+          set -euo pipefail
           git config --global user.name "Agent-S-Bot"
           git config --global user.email "bot@users.noreply.github.com"
           git add .
-          git commit -m "Auto-update: Knowledge Base & Repairs" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "changes_pushed=false" >> "$GITHUB_OUTPUT"
+            echo "changes_summary=No repository changes were produced this run." >> "$GITHUB_OUTPUT"
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update: Knowledge Base & Repairs"
+            git push
+            echo "changes_pushed=true" >> "$GITHUB_OUTPUT"
+            echo "changes_summary=Changes were committed and pushed by Agent-S-Bot." >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish Plain-Language CHECK IN Summary
+        if: always()
+        env:
+          AGENT_RUN_OUTCOME: ${{ steps.run_agent.outcome }}
+          CHANGES_SUMMARY: ${{ steps.auto_commit.outputs.changes_summary }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          RUN_TIME_UTC="$(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          cat >> "$GITHUB_STEP_SUMMARY" <<EOF
+          ## CHECK IN
+          **Run time:** ${RUN_TIME_UTC}
+          **Trigger:** ${EVENT_NAME}
+
+          ### 1) What Agent-S Can Do Right Now
+          - Cloud repository research and maintenance: READY
+          - Desktop data collection from your Mac: BLOCKED (this workflow runs on a GitHub-hosted runner, not your desktop)
+          - Private-program form entry (example: CoverMyMeds): PARTIAL (possible only if credentials/data are intentionally provided to this workflow)
+          - CoverMyMeds final submission from cloud runner: BLOCKED by default (no direct integration configured and no local authenticated session)
+
+          ### 2) This Run's Outcome
+          - Agent execution step: ${AGENT_RUN_OUTCOME}
+          - Repository update result: ${CHANGES_SUMMARY}
+
+          ### 3) Plain-Language Limits
+          - This is cloud-only automation, so it cannot see local desktop windows, files, or browser sessions on your machine.
+          - Sensitive healthcare submissions should require explicit human confirmation before final transmission.
+
+          ### 4) Next Action
+          - If you want desktop + private portal automation, run Agent-S locally on your Mac and keep this workflow for cloud maintenance only.
+          EOF
