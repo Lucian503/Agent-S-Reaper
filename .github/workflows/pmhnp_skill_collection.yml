@@ -1,0 +1,40 @@
+name: PMHNP Skills and Tools Collection
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run PMHNP Collector
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 practice_ops/collect_skills_tools.py
+
+      - name: Commit and Push Updated Collection
+        run: |
+          set -euo pipefail
+          git config --global user.name "Agent-S-Bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add practice_ops/PMHNP_SKILLS_TOOLS_CHECKIN.md practice_ops/latest_collection.json
+          if git diff --cached --quiet; then
+            echo "No PMHNP collection changes to commit."
+            exit 0
+          fi
+          git commit -m "PMHNP collection: refresh skills and tools check-in"
+          git push

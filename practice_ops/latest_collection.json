@@ -1,0 +1,270 @@
+{
+  "generated_at_utc": "2026-04-22 05:22:27 UTC",
+  "practice_profile": "Solo PMHNP outpatient practice",
+  "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
+  "buckets": [
+    {
+      "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
+      "query": "prior authorization healthcare automation",
+      "repos": [
+        {
+          "full_name": "elenafmoseyko/Auto-Approval-Prior-Authorization-ML",
+          "html_url": "https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML",
+          "description": "ML Model for Predicting Auto-Approvals of Prior Authorization Requests",
+          "updated_at": "2026-04-17T18:03:34Z",
+          "stargazers_count": 0,
+          "language": "Jupyter Notebook"
+        },
+        {
+          "full_name": "sanjana-3002/Authflow",
+          "html_url": "https://github.com/sanjana-3002/Authflow",
+          "description": "AI-powered prior authorization and appeals automation for healthcare",
+          "updated_at": "2026-04-14T20:42:33Z",
+          "stargazers_count": 0,
+          "language": "TypeScript"
+        },
+        {
+          "full_name": "Velocity-BPA/n8n-nodes-waystar",
+          "html_url": "https://github.com/Velocity-BPA/n8n-nodes-waystar",
+          "description": "Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.",
+          "updated_at": "2026-04-02T21:27:16Z",
+          "stargazers_count": 2,
+          "language": "TypeScript"
+        },
+        {
+          "full_name": "jai2033shankar/healthx",
+          "html_url": "https://github.com/jai2033shankar/healthx",
+          "description": "HelixFlow AI is an advanced administrative automation platform targeting the $400B+ healthcare administrative sector. By combining deep clinical NLP, multi-agent reasoning, knowledge graphs, and digital twin simulations, HelixFlow actively predicts denials, accelerates prior authorizations, and uncovers revenue leakage before it disrupts hospitals",
+          "updated_at": "2026-03-31T03:33:08Z",
+          "stargazers_count": 0,
+          "language": "TypeScript"
+        },
+        {
+          "full_name": "Debrah25/Healthcare-Prior-Authorization-Request-Automation-Project",
+          "html_url": "https://github.com/Debrah25/Healthcare-Prior-Authorization-Request-Automation-Project",
+          "description": "",
+          "updated_at": "2026-03-25T11:33:59Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        }
+      ]
+    },
+    {
+      "label": "EHR / FHIR Integration Libraries",
+      "query": "fhir python ehr integration",
+      "repos": [
+        {
+          "full_name": "dotimplement/HealthChain",
+          "html_url": "https://github.com/dotimplement/HealthChain",
+          "description": "Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python \ud83d\udcab \ud83c\udfe5",
+          "updated_at": "2026-04-21T15:13:17Z",
+          "stargazers_count": 191,
+          "language": "Python"
+        },
+        {
+          "full_name": "cardonajsebas/ehr-integration-pipeline",
+          "html_url": "https://github.com/cardonajsebas/ehr-integration-pipeline",
+          "description": "Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.",
+          "updated_at": "2026-04-14T14:23:46Z",
+          "stargazers_count": 2,
+          "language": "Jupyter Notebook"
+        },
+        {
+          "full_name": "drkaushiksarkar/health-informatics-toolkit",
+          "html_url": "https://github.com/drkaushiksarkar/health-informatics-toolkit",
+          "description": "Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability",
+          "updated_at": "2026-04-05T11:57:51Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "shreyaredd/FHIR-Healthcare-Data-Integration",
+          "html_url": "https://github.com/shreyaredd/FHIR-Healthcare-Data-Integration",
+          "description": "Python-based mapping engine that transforms legacy hospital data into standardized HL7 FHIR R4 resources. Focused on healthcare data interoperability and EHR compatibility.",
+          "updated_at": "2026-03-10T07:28:57Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "Medamineelkhattabi/AIAgentsMedical",
+          "html_url": "https://github.com/Medamineelkhattabi/AIAgentsMedical",
+          "description": "Advanced Clinical Decision Support System is a Python\u2013Flask app that integrates AI with EHR (FHIR/HL7) for diagnosis, 5-level triage, and real-time patient assessment. With 90%+ accuracy, live analytics, and a modern dashboard, it demonstrates how AI enhances clinical decision-making.",
+          "updated_at": "2025-12-02T14:24:03Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        }
+      ]
+    },
+    {
+      "label": "Clinical Documentation + Dictation",
+      "query": "medical scribe clinical documentation ai",
+      "repos": [
+        {
+          "full_name": "vibeailabs-tech/medical-scribe",
+          "html_url": "https://github.com/vibeailabs-tech/medical-scribe",
+          "description": "AI-powered clinical documentation \u2014 turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper",
+          "updated_at": "2026-04-14T16:06:25Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "Abhi951197/MedScribe-AI",
+          "html_url": "https://github.com/Abhi951197/MedScribe-AI",
+          "description": "Automate clinical note-taking and triage by transcribing doctor\u2013patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.",
+          "updated_at": "2026-04-11T22:56:38Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
+        {
+          "full_name": "Joysilas389/MedScribe",
+          "html_url": "https://github.com/Joysilas389/MedScribe",
+          "description": "MedScribe is a secure, multilingual, AI-powered ambient clinical documentation platform that converts real-time doctor\u2013patient conversations into polished, structured medical notes, reducing physician burnout and improving clinical workflow efficiency.",
+          "updated_at": "2026-03-30T06:58:51Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "Sana-17-Cipher/MedScribe",
+          "html_url": "https://github.com/Sana-17-Cipher/MedScribe",
+          "description": "MedScribe AI is a full-stack application that leverages OpenAI Whisper and NLP techniques to transform medical speech into structured, exportable clinical documentation.",
+          "updated_at": "2026-03-26T00:04:18Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
+          "full_name": "shivang5432/AI-Medical-Scribe",
+          "html_url": "https://github.com/shivang5432/AI-Medical-Scribe",
+          "description": "AI-Powered Medical Scribe System, An AI-driven audio-to-documentation engine that converts doctor\u2013patient conversations directly into structured clinical notes (SOAP, Triage, Treatment Notes), ICD-10 coded, and stored securely in AWS S3 for immediate use.",
+          "updated_at": "2026-03-23T11:09:36Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        }
+      ]
+    },
+    {
+      "label": "Medical Coding + Revenue Cycle",
+      "query": "medical billing coding automation",
+      "repos": [
+        {
+          "full_name": "SandeepM-GitHub/MediCodeAgent",
+          "html_url": "https://github.com/SandeepM-GitHub/MediCodeAgent",
+          "description": "Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system",
+          "updated_at": "2026-04-04T13:38:07Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "saydainsk/medical-coding-automation",
+          "html_url": "https://github.com/saydainsk/medical-coding-automation",
+          "description": "ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.",
+          "updated_at": "2026-03-05T20:20:14Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
+        {
+          "full_name": "Rishiparasa21/medical-coding-automation",
+          "html_url": "https://github.com/Rishiparasa21/medical-coding-automation",
+          "description": "CrewAI-based medical coding and billing automation",
+          "updated_at": "2025-03-01T18:14:58Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "sudipbayenofficial/medical_billing",
+          "html_url": "https://github.com/sudipbayenofficial/medical_billing",
+          "description": "This repository provides resources for healthcare professionals and students to enhance their knowledge of medical billing. It includes educational materials on coding systems, sample code for automation, workflow diagrams, and best practices for efficient billing processes. Contributions are welcome to improve this valuable resource!",
+          "updated_at": "2026-03-27T21:51:47Z",
+          "stargazers_count": 1,
+          "language": "Unknown"
+        }
+      ]
+    },
+    {
+      "label": "Patient Intake + Forms Automation",
+      "query": "patient intake form automation healthcare",
+      "repos": []
+    },
+    {
+      "label": "Scheduling + No-Show Reduction",
+      "query": "medical appointment scheduling reminders",
+      "repos": [
+        {
+          "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
+          "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
+          "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
+          "updated_at": "2026-04-19T16:57:27Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "troy-miller0824/angular-dotnet9-clinic-scheduling",
+          "html_url": "https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling",
+          "description": "Medical appointment platform for clinics and therapy centers\u2014Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.",
+          "updated_at": "2026-04-06T16:07:20Z",
+          "stargazers_count": 1,
+          "language": "C#"
+        },
+        {
+          "full_name": "KamujuHemasri098/Smart-Doctor-Appointment-Management-System",
+          "html_url": "https://github.com/KamujuHemasri098/Smart-Doctor-Appointment-Management-System",
+          "description": "A comprehensive web/mobile application designed to streamline healthcare scheduling. Features include real-time slot booking, patient/doctor dashboards, automated reminders, and secure medical record management to bridge the gap between patients and healthcare providers.",
+          "updated_at": "2026-04-04T08:36:38Z",
+          "stargazers_count": 0,
+          "language": "Jupyter Notebook"
+        },
+        {
+          "full_name": "abdoabozena7/clinic-app-nodeJS",
+          "html_url": "https://github.com/abdoabozena7/clinic-app-nodeJS",
+          "description": "A role-based medical appointment system with admin, doctor, and patient dashboards, real-time scheduling, and automated reminders.",
+          "updated_at": "2026-04-20T09:56:11Z",
+          "stargazers_count": 1,
+          "language": "JavaScript"
+        },
+        {
+          "full_name": "prince2310-97/Medical_appointment_No_Show_Analysis",
+          "html_url": "https://github.com/prince2310-97/Medical_appointment_No_Show_Analysis",
+          "description": "Medical Appointment No-Show Analysis | 110K+ Brazil healthcare records | 20% no-show rate diagnosed | Python EDA + Chi-Square validation | SMS reminders linked to 12% lower no-shows | Actionable scheduling recommendations",
+          "updated_at": "2026-03-12T04:33:18Z",
+          "stargazers_count": 0,
+          "language": "Jupyter Notebook"
+        }
+      ]
+    },
+    {
+      "label": "Telehealth Workflow Support",
+      "query": "telehealth workflow automation",
+      "repos": [
+        {
+          "full_name": "irfanalidv/AgentCare",
+          "html_url": "https://github.com/irfanalidv/AgentCare",
+          "description": "AgentCare is a library-first Python framework for building voice AI workflows: call intake, extraction, missing-data recovery, appointment orchestration, confirmation messaging, and operations analytics.",
+          "updated_at": "2026-03-28T22:11:07Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
+        {
+          "full_name": "hamzahelhafdaoui/AppointmentLinkSender",
+          "html_url": "https://github.com/hamzahelhafdaoui/AppointmentLinkSender",
+          "description": "The Doxy Link Sender is a lightweight automation tool designed to streamline telehealth workflows by automatically sending secure  video visit links to patients via SMS. It pulls appointment data from a Google Sheet, matches patients to their scheduled provider , generates the correct Doxy link, and sends it out at the appropriate moment",
+          "updated_at": "2025-12-30T00:57:11Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "agent_skill_backlog": [
+    "Remember active source application until user changes it.",
+    "Parse patient selector in LastName, FirstName format and disambiguate with DOB/MRN when needed.",
+    "Extract demographic fields required for prior authorization workflows.",
+    "Extract diagnosis and ICD-10 data relevant to the medication request.",
+    "Map extracted values to target form fields with validation checks before submit.",
+    "Use human-like input pacing and section-by-section review in portal form entry.",
+    "Require explicit user confirmation before final healthcare submission actions."
+  ],
+  "watchlist_next_actions": [
+    "Track high-signal tools with active maintenance and healthcare relevance.",
+    "Promote tools to implementation candidates only after manual review.",
+    "Prioritize workflows that reduce time to prior-auth submission and reduce charting burden."
+  ]
+}
