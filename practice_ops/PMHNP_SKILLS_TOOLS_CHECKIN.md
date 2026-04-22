@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-04-22 14:16:32 UTC
+- Generated: 2026-04-22 19:47:56 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [dotimplement/HealthChain](https://github.com/dotimplement/HealthChain) | stars=191 | lang=Python | updated=2026-04-22T09:55:09Z | Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=191 | lang=Python | updated=2026-04-22T16:38:12Z | Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python 💫 🏥
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
 - [shreyaredd/FHIR-Healthcare-Data-Integration](https://github.com/shreyaredd/FHIR-Healthcare-Data-Integration) | stars=0 | lang=Python | updated=2026-03-10T07:28:57Z | Python-based mapping engine that transforms legacy hospital data into standardized HL7 FHIR R4 resources. Focused on healthcare data interoperability and EHR compatibility.
