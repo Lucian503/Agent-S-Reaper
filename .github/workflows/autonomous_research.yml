@@ -77,24 +77,26 @@ jobs:
         run: |
           RUN_TIME_UTC="$(date -u +"%Y-%m-%d %H:%M:%S UTC")"
           cat >> "$GITHUB_STEP_SUMMARY" <<EOF
-          ## CHECK IN
+          ## CHECK IN (Cloud Agent-S)
           **Run time:** ${RUN_TIME_UTC}
           **Trigger:** ${EVENT_NAME}
 
-          ### 1) What Agent-S Can Do Right Now
-          - Cloud repository research and maintenance: READY
-          - Desktop data collection from your Mac: BLOCKED (this workflow runs on a GitHub-hosted runner, not your desktop)
-          - Private-program form entry (example: CoverMyMeds): PARTIAL (possible only if credentials/data are intentionally provided to this workflow)
-          - CoverMyMeds final submission from cloud runner: BLOCKED by default (no direct integration configured and no local authenticated session)
+          ### 1) Capability Status
+          - Cloud research, code updates, and maintenance in this repository: READY
+          - Desktop data collection from your Mac: BLOCKED
+          - Access to private programs from this cloud runner: PARTIAL
+          - CoverMyMeds prior authorization draft support: PARTIAL
+          - CoverMyMeds final submission from cloud runner: BLOCKED
 
-          ### 2) This Run's Outcome
-          - Agent execution step: ${AGENT_RUN_OUTCOME}
-          - Repository update result: ${CHANGES_SUMMARY}
+          ### 2) This Run
+          - Agent execution result: ${AGENT_RUN_OUTCOME}
+          - Repository change result: ${CHANGES_SUMMARY}
 
-          ### 3) Plain-Language Limits
-          - This is cloud-only automation, so it cannot see local desktop windows, files, or browser sessions on your machine.
-          - Sensitive healthcare submissions should require explicit human confirmation before final transmission.
+          ### 3) Healthcare Workflow Readiness
+          - When prompted with approved patient and payer data, Agent-S can prepare prior auth content and workflow notes.
+          - This cloud job cannot use your local desktop files, local browser state, or local authenticated sessions.
+          - Final healthcare submission should happen only after explicit human confirmation.
 
-          ### 4) Next Action
-          - If you want desktop + private portal automation, run Agent-S locally on your Mac and keep this workflow for cloud maintenance only.
+          ### 4) Next Best Action
+          - Keep this workflow for cloud maintenance and run a local Agent-S worker on your Mac for desktop collection and live portal actions.
           EOF
