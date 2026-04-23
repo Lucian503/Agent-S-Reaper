@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-04-23 08:20:59 UTC
+- Generated: 2026-04-23 14:19:32 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [afrapj05/Scribe-AI](https://github.com/afrapj05/Scribe-AI) | stars=0 | lang=Python | updated=2026-04-23T13:04:14Z | Scribe AI is an AI-powered clinical documentation assistant that converts doctor–patient conversations into structured medical notes in real time. It automatically generates accurate summaries, reducing manual paperwork, saving time, and improving clinical efficiency.
 - [vibeailabs-tech/medical-scribe](https://github.com/vibeailabs-tech/medical-scribe) | stars=0 | lang=Python | updated=2026-04-14T16:06:25Z | AI-powered clinical documentation — turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper
 - [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-04-11T22:56:38Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
 - [Joysilas389/MedScribe](https://github.com/Joysilas389/MedScribe) | stars=0 | lang=Python | updated=2026-03-30T06:58:51Z | MedScribe is a secure, multilingual, AI-powered ambient clinical documentation platform that converts real-time doctor–patient conversations into polished, structured medical notes, reducing physician burnout and improving clinical workflow efficiency.
 - [Sana-17-Cipher/MedScribe](https://github.com/Sana-17-Cipher/MedScribe) | stars=0 | lang=HTML | updated=2026-03-26T00:04:18Z | MedScribe AI is a full-stack application that leverages OpenAI Whisper and NLP techniques to transform medical speech into structured, exportable clinical documentation.
-- [shivang5432/AI-Medical-Scribe](https://github.com/shivang5432/AI-Medical-Scribe) | stars=0 | lang=Unknown | updated=2026-03-23T11:09:36Z | AI-Powered Medical Scribe System, An AI-driven audio-to-documentation engine that converts doctor–patient conversations directly into structured clinical notes (SOAP, Triage, Treatment Notes), ICD-10 coded, and stored securely in AWS S3 for immediate use.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-23 08:20:59 UTC",
+  "generated_at_utc": "2026-04-23 14:19:32 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "afrapj05/Scribe-AI",
+          "html_url": "https://github.com/afrapj05/Scribe-AI",
+          "description": "Scribe AI is an AI-powered clinical documentation assistant that converts doctor\u2013patient conversations into structured medical notes in real time. It automatically generates accurate summaries, reducing manual paperwork, saving time, and improving clinical efficiency.",
+          "updated_at": "2026-04-23T13:04:14Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "vibeailabs-tech/medical-scribe",
           "html_url": "https://github.com/vibeailabs-tech/medical-scribe",
           "description": "AI-powered clinical documentation \u2014 turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper",
@@ -130,14 +138,6 @@
           "updated_at": "2026-03-26T00:04:18Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "shivang5432/AI-Medical-Scribe",
-          "html_url": "https://github.com/shivang5432/AI-Medical-Scribe",
-          "description": "AI-Powered Medical Scribe System, An AI-driven audio-to-documentation engine that converts doctor\u2013patient conversations directly into structured clinical notes (SOAP, Triage, Treatment Notes), ICD-10 coded, and stored securely in AWS S3 for immediate use.",
-          "updated_at": "2026-03-23T11:09:36Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
