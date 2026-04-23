@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-23 14:19:32 UTC",
+  "generated_at_utc": "2026-04-23 19:50:41 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "Velocity-BPA/n8n-nodes-waystar",
+          "html_url": "https://github.com/Velocity-BPA/n8n-nodes-waystar",
+          "description": "Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.",
+          "updated_at": "2026-04-23T17:29:16Z",
+          "stargazers_count": 2,
+          "language": "TypeScript"
+        },
         {
           "full_name": "elenafmoseyko/Auto-Approval-Prior-Authorization-ML",
           "html_url": "https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML",
@@ -21,14 +29,6 @@
           "description": "AI-powered prior authorization and appeals automation for healthcare",
           "updated_at": "2026-04-14T20:42:33Z",
           "stargazers_count": 0,
-          "language": "TypeScript"
-        },
-        {
-          "full_name": "Velocity-BPA/n8n-nodes-waystar",
-          "html_url": "https://github.com/Velocity-BPA/n8n-nodes-waystar",
-          "description": "Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.",
-          "updated_at": "2026-04-02T21:27:16Z",
-          "stargazers_count": 2,
           "language": "TypeScript"
         },
         {
