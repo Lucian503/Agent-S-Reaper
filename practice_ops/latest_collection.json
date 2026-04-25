@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-25 13:44:20 UTC",
+  "generated_at_utc": "2026-04-25 19:27:17 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -234,14 +234,6 @@
       "label": "Telehealth Workflow Support",
       "query": "telehealth workflow automation",
       "repos": [
-        {
-          "full_name": "irfanalidv/AgentCare",
-          "html_url": "https://github.com/irfanalidv/AgentCare",
-          "description": "AgentCare is a library-first Python framework for building voice AI workflows: call intake, extraction, missing-data recovery, appointment orchestration, confirmation messaging, and operations analytics.",
-          "updated_at": "2026-03-28T22:11:07Z",
-          "stargazers_count": 1,
-          "language": "Python"
-        },
         {
           "full_name": "hamzahelhafdaoui/AppointmentLinkSender",
           "html_url": "https://github.com/hamzahelhafdaoui/AppointmentLinkSender",

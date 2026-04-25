@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-04-25 13:44:20 UTC
+- Generated: 2026-04-25 19:27:17 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -56,7 +56,6 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
-- [irfanalidv/AgentCare](https://github.com/irfanalidv/AgentCare) | stars=1 | lang=Python | updated=2026-03-28T22:11:07Z | AgentCare is a library-first Python framework for building voice AI workflows: call intake, extraction, missing-data recovery, appointment orchestration, confirmation messaging, and operations analytics.
 - [hamzahelhafdaoui/AppointmentLinkSender](https://github.com/hamzahelhafdaoui/AppointmentLinkSender) | stars=0 | lang=JavaScript | updated=2025-12-30T00:57:11Z | The Doxy Link Sender is a lightweight automation tool designed to streamline telehealth workflows by automatically sending secure  video visit links to patients via SMS. It pulls appointment data from a Google Sheet, matches patients to their scheduled provider , generates the correct Doxy link, and sends it out at the appropriate moment
 
 ## 4) Agent-S Skill Backlog for Solo PMHNP
