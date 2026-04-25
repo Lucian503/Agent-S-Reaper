@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-24 14:14:10 UTC",
+  "generated_at_utc": "2026-04-25 03:40:42 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,7 +57,7 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-04-24T10:17:51Z",
+          "updated_at": "2026-04-24T17:02:26Z",
           "stargazers_count": 191,
           "language": "Python"
         },
@@ -192,7 +192,7 @@
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
           "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
           "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
-          "updated_at": "2026-04-19T16:57:27Z",
+          "updated_at": "2026-04-24T16:28:30Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
