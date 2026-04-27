@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-04-27 14:34:58 UTC
+- Generated: 2026-04-27 19:54:54 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,11 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
-- [saydainsk/medical-coding-automation](https://github.com/saydainsk/medical-coding-automation) | stars=1 | lang=Python | updated=2026-03-05T20:20:14Z | ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.
-- [Rishiparasa21/medical-coding-automation](https://github.com/Rishiparasa21/medical-coding-automation) | stars=0 | lang=Python | updated=2025-03-01T18:14:58Z | CrewAI-based medical coding and billing automation
-- [sudipbayenofficial/medical_billing](https://github.com/sudipbayenofficial/medical_billing) | stars=1 | lang=Unknown | updated=2026-03-27T21:51:47Z | This repository provides resources for healthcare professionals and students to enhance their knowledge of medical billing. It includes educational materials on coding systems, sample code for automation, workflow diagrams, and best practices for efficient billing processes. Contributions are welcome to improve this valuable resource!
-
+- No repositories returned this run.
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
 - No repositories returned this run.
