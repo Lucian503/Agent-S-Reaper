@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-29 08:38:53 UTC",
+  "generated_at_utc": "2026-04-29 14:39:20 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -189,6 +189,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "knarayanareddy/CareBinder",
+          "html_url": "https://github.com/knarayanareddy/CareBinder",
+          "description": "A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders",
+          "updated_at": "2026-04-29T10:34:28Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
           "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
           "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
@@ -219,14 +227,6 @@
           "updated_at": "2026-04-20T09:56:11Z",
           "stargazers_count": 1,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "prince2310-97/Medical_appointment_No_Show_Analysis",
-          "html_url": "https://github.com/prince2310-97/Medical_appointment_No_Show_Analysis",
-          "description": "Medical Appointment No-Show Analysis | 110K+ Brazil healthcare records | 20% no-show rate diagnosed | Python EDA + Chi-Square validation | SMS reminders linked to 12% lower no-shows | Actionable scheduling recommendations",
-          "updated_at": "2026-03-12T04:33:18Z",
-          "stargazers_count": 0,
-          "language": "Jupyter Notebook"
         }
       ]
     },
