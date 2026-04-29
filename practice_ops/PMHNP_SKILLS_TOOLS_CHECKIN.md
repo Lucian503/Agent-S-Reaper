@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-04-29 14:39:20 UTC
+- Generated: 2026-04-29 20:00:10 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,6 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
+- [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Unknown | updated=2026-04-29T19:57:28Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
 - [saydainsk/medical-coding-automation](https://github.com/saydainsk/medical-coding-automation) | stars=1 | lang=Python | updated=2026-03-05T20:20:14Z | ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.
 - [Rishiparasa21/medical-coding-automation](https://github.com/Rishiparasa21/medical-coding-automation) | stars=0 | lang=Python | updated=2025-03-01T18:14:58Z | CrewAI-based medical coding and billing automation
