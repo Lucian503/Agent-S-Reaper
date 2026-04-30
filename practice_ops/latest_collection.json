@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-29 20:00:10 UTC",
+  "generated_at_utc": "2026-04-30 04:11:50 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -149,9 +149,9 @@
           "full_name": "zzzDavis/medical-document-automation",
           "html_url": "https://github.com/zzzDavis/medical-document-automation",
           "description": "Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.",
-          "updated_at": "2026-04-29T19:57:28Z",
+          "updated_at": "2026-04-30T01:42:46Z",
           "stargazers_count": 0,
-          "language": "Unknown"
+          "language": "Python"
         },
         {
           "full_name": "SandeepM-GitHub/MediCodeAgent",
@@ -200,9 +200,9 @@
           "full_name": "knarayanareddy/CareBinder",
           "html_url": "https://github.com/knarayanareddy/CareBinder",
           "description": "A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders",
-          "updated_at": "2026-04-29T10:34:28Z",
+          "updated_at": "2026-04-29T21:51:25Z",
           "stargazers_count": 0,
-          "language": "Unknown"
+          "language": "TypeScript"
         },
         {
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
