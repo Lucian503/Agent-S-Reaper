@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-01 14:00:11 UTC",
+  "generated_at_utc": "2026-05-01 19:48:10 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -56,8 +56,8 @@
         {
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
-          "description": "Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-05-01T11:17:19Z",
+          "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
+          "updated_at": "2026-05-01T17:33:44Z",
           "stargazers_count": 192,
           "language": "Python"
         },
