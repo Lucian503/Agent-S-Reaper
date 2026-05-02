@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-02 08:09:01 UTC
+- Generated: 2026-05-02 13:53:33 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -49,8 +49,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-01T13:39:28Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
-- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Unknown | updated=2026-04-25T11:33:54Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
+- [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T13:50:53Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
+- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-02T10:43:50Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [troy-miller0824/angular-dotnet9-clinic-scheduling](https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling) | stars=1 | lang=C# | updated=2026-04-06T16:07:20Z | Medical appointment platform for clinics and therapy centers—Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.
 - [KamujuHemasri098/Smart-Doctor-Appointment-Management-System](https://github.com/KamujuHemasri098/Smart-Doctor-Appointment-Management-System) | stars=0 | lang=Jupyter Notebook | updated=2026-04-04T08:36:38Z | A comprehensive web/mobile application designed to streamline healthcare scheduling. Features include real-time slot booking, patient/doctor dashboards, automated reminders, and secure medical record management to bridge the gap between patients and healthcare providers.
 - [abdoabozena7/clinic-app-nodeJS](https://github.com/abdoabozena7/clinic-app-nodeJS) | stars=1 | lang=JavaScript | updated=2026-04-20T09:56:11Z | A role-based medical appointment system with admin, doctor, and patient dashboards, real-time scheduling, and automated reminders.

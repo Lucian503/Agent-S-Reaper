@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-02 08:09:01 UTC",
+  "generated_at_utc": "2026-05-02 13:53:33 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -200,7 +200,7 @@
           "full_name": "knarayanareddy/CareBinder",
           "html_url": "https://github.com/knarayanareddy/CareBinder",
           "description": "A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders",
-          "updated_at": "2026-05-01T13:39:28Z",
+          "updated_at": "2026-05-02T13:50:53Z",
           "stargazers_count": 0,
           "language": "TypeScript"
         },
@@ -208,9 +208,9 @@
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
           "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
           "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
-          "updated_at": "2026-04-25T11:33:54Z",
+          "updated_at": "2026-05-02T10:43:50Z",
           "stargazers_count": 0,
-          "language": "Unknown"
+          "language": "Java"
         },
         {
           "full_name": "troy-miller0824/angular-dotnet9-clinic-scheduling",
