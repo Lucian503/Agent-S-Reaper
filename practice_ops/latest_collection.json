@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-02 13:53:33 UTC",
+  "generated_at_utc": "2026-05-02 19:35:47 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -200,7 +200,7 @@
           "full_name": "knarayanareddy/CareBinder",
           "html_url": "https://github.com/knarayanareddy/CareBinder",
           "description": "A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders",
-          "updated_at": "2026-05-02T13:50:53Z",
+          "updated_at": "2026-05-02T14:07:18Z",
           "stargazers_count": 0,
           "language": "TypeScript"
         },
