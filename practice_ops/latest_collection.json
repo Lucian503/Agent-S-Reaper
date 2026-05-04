@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-03 19:34:17 UTC",
+  "generated_at_utc": "2026-05-04 04:28:05 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -146,6 +146,22 @@
       "query": "medical billing coding automation",
       "repos": [
         {
+          "full_name": "ncreighton/9a42a82b-dental-practice-insurance-clai",
+          "html_url": "https://github.com/ncreighton/9a42a82b-dental-practice-insurance-clai",
+          "description": "A professional-grade n8n automation workflow for Dental Practice Insurance Claims and Patient Billing Automation. This n8n automation workflow gives you everything you need for Dental Practice Insurance Claims and Patient Billing Automation \u2014 ready to use in minutes, no coding required. Built for: dental practice insurance claims and patient billin",
+          "updated_at": "2026-05-04T01:17:26Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "ncreighton/276828f7-healthcare-revenue-cycle-and-m",
+          "html_url": "https://github.com/ncreighton/276828f7-healthcare-revenue-cycle-and-m",
+          "description": "An n8n workflow for medical billing companies and healthcare revenue cycle teams automating claim denial management. This n8n automation workflow gives you everything you need for Healthcare Revenue Cycle and Medical Billing Denial Management \u2014 ready to use in minutes, no coding required. Built for: healthcare revenue cycle and medical billing deni",
+          "updated_at": "2026-05-04T01:16:42Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "zzzDavis/medical-document-automation",
           "html_url": "https://github.com/zzzDavis/medical-document-automation",
           "description": "Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.",
@@ -168,22 +184,6 @@
           "updated_at": "2026-03-05T20:20:14Z",
           "stargazers_count": 1,
           "language": "Python"
-        },
-        {
-          "full_name": "Rishiparasa21/medical-coding-automation",
-          "html_url": "https://github.com/Rishiparasa21/medical-coding-automation",
-          "description": "CrewAI-based medical coding and billing automation",
-          "updated_at": "2025-03-01T18:14:58Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "sudipbayenofficial/medical_billing",
-          "html_url": "https://github.com/sudipbayenofficial/medical_billing",
-          "description": "This repository provides resources for healthcare professionals and students to enhance their knowledge of medical billing. It includes educational materials on coding systems, sample code for automation, workflow diagrams, and best practices for efficient billing processes. Contributions are welcome to improve this valuable resource!",
-          "updated_at": "2026-03-27T21:51:47Z",
-          "stargazers_count": 1,
-          "language": "Unknown"
         }
       ]
     },

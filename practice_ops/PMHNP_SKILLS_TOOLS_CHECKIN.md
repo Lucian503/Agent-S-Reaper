@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-03 19:34:17 UTC
+- Generated: 2026-05-04 04:28:05 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,11 +38,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
+- [ncreighton/9a42a82b-dental-practice-insurance-clai](https://github.com/ncreighton/9a42a82b-dental-practice-insurance-clai) | stars=0 | lang=Unknown | updated=2026-05-04T01:17:26Z | A professional-grade n8n automation workflow for Dental Practice Insurance Claims and Patient Billing Automation. This n8n automation workflow gives you everything you need for Dental Practice Insurance Claims and Patient Billing Automation — ready to use in minutes, no coding required. Built for: dental practice insurance claims and patient billin
+- [ncreighton/276828f7-healthcare-revenue-cycle-and-m](https://github.com/ncreighton/276828f7-healthcare-revenue-cycle-and-m) | stars=0 | lang=Unknown | updated=2026-05-04T01:16:42Z | An n8n workflow for medical billing companies and healthcare revenue cycle teams automating claim denial management. This n8n automation workflow gives you everything you need for Healthcare Revenue Cycle and Medical Billing Denial Management — ready to use in minutes, no coding required. Built for: healthcare revenue cycle and medical billing deni
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
 - [saydainsk/medical-coding-automation](https://github.com/saydainsk/medical-coding-automation) | stars=1 | lang=Python | updated=2026-03-05T20:20:14Z | ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.
-- [Rishiparasa21/medical-coding-automation](https://github.com/Rishiparasa21/medical-coding-automation) | stars=0 | lang=Python | updated=2025-03-01T18:14:58Z | CrewAI-based medical coding and billing automation
-- [sudipbayenofficial/medical_billing](https://github.com/sudipbayenofficial/medical_billing) | stars=1 | lang=Unknown | updated=2026-03-27T21:51:47Z | This repository provides resources for healthcare professionals and students to enhance their knowledge of medical billing. It includes educational materials on coding systems, sample code for automation, workflow diagrams, and best practices for efficient billing processes. Contributions are welcome to improve this valuable resource!
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
