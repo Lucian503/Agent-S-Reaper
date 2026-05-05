@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-05 08:33:22 UTC",
+  "generated_at_utc": "2026-05-05 14:32:01 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -54,20 +54,20 @@
       "query": "fhir python ehr integration",
       "repos": [
         {
+          "full_name": "healthchainai/HealthChain",
+          "html_url": "https://github.com/healthchainai/HealthChain",
+          "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
+          "updated_at": "2026-05-05T11:26:20Z",
+          "stargazers_count": 193,
+          "language": "Python"
+        },
+        {
           "full_name": "harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems",
           "html_url": "https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems",
           "description": "Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.",
           "updated_at": "2026-05-05T03:23:30Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "healthchainai/HealthChain",
-          "html_url": "https://github.com/healthchainai/HealthChain",
-          "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-05-02T07:23:22Z",
-          "stargazers_count": 193,
-          "language": "Python"
         },
         {
           "full_name": "cardonajsebas/ehr-integration-pipeline",
