@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-05 19:57:34 UTC
+- Generated: 2026-05-06 04:23:03 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,11 +38,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [ncreighton/9a42a82b-dental-practice-insurance-clai](https://github.com/ncreighton/9a42a82b-dental-practice-insurance-clai) | stars=0 | lang=Unknown | updated=2026-05-04T01:17:26Z | A professional-grade n8n automation workflow for Dental Practice Insurance Claims and Patient Billing Automation. This n8n automation workflow gives you everything you need for Dental Practice Insurance Claims and Patient Billing Automation — ready to use in minutes, no coding required. Built for: dental practice insurance claims and patient billin
-- [ncreighton/276828f7-healthcare-revenue-cycle-and-m](https://github.com/ncreighton/276828f7-healthcare-revenue-cycle-and-m) | stars=0 | lang=Unknown | updated=2026-05-04T01:16:42Z | An n8n workflow for medical billing companies and healthcare revenue cycle teams automating claim denial management. This n8n automation workflow gives you everything you need for Healthcare Revenue Cycle and Medical Billing Denial Management — ready to use in minutes, no coding required. Built for: healthcare revenue cycle and medical billing deni
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
 - [saydainsk/medical-coding-automation](https://github.com/saydainsk/medical-coding-automation) | stars=1 | lang=Python | updated=2026-03-05T20:20:14Z | ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.
+- [Rishiparasa21/medical-coding-automation](https://github.com/Rishiparasa21/medical-coding-automation) | stars=0 | lang=Python | updated=2025-03-01T18:14:58Z | CrewAI-based medical coding and billing automation
+- [sudipbayenofficial/medical_billing](https://github.com/sudipbayenofficial/medical_billing) | stars=1 | lang=Unknown | updated=2026-03-27T21:51:47Z | This repository provides resources for healthcare professionals and students to enhance their knowledge of medical billing. It includes educational materials on coding systems, sample code for automation, workflow diagrams, and best practices for efficient billing processes. Contributions are welcome to improve this valuable resource!
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
@@ -51,9 +51,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - Query: `medical appointment scheduling reminders`
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-03T18:23:56Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-06T00:37:56Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [troy-miller0824/angular-dotnet9-clinic-scheduling](https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling) | stars=1 | lang=C# | updated=2026-04-06T16:07:20Z | Medical appointment platform for clinics and therapy centers—Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.
 - [KamujuHemasri098/Smart-Doctor-Appointment-Management-System](https://github.com/KamujuHemasri098/Smart-Doctor-Appointment-Management-System) | stars=0 | lang=Jupyter Notebook | updated=2026-04-04T08:36:38Z | A comprehensive web/mobile application designed to streamline healthcare scheduling. Features include real-time slot booking, patient/doctor dashboards, automated reminders, and secure medical record management to bridge the gap between patients and healthcare providers.
-- [abdoabozena7/clinic-app-nodeJS](https://github.com/abdoabozena7/clinic-app-nodeJS) | stars=1 | lang=JavaScript | updated=2026-04-20T09:56:11Z | A role-based medical appointment system with admin, doctor, and patient dashboards, real-time scheduling, and automated reminders.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
