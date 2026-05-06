@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-06 09:11:43 UTC",
+  "generated_at_utc": "2026-05-06 15:12:05 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,7 +57,7 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-05-05T16:05:07Z",
+          "updated_at": "2026-05-06T14:09:36Z",
           "stargazers_count": 193,
           "language": "Python"
         },
@@ -197,10 +197,18 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-05-06T13:17:49Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
           "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
           "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
-          "updated_at": "2026-05-03T18:23:56Z",
+          "updated_at": "2026-05-06T12:21:50Z",
           "stargazers_count": 0,
           "language": "Java"
         },
@@ -211,14 +219,6 @@
           "updated_at": "2026-05-02T14:07:18Z",
           "stargazers_count": 0,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-05-06T00:37:56Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         },
         {
           "full_name": "troy-miller0824/angular-dotnet9-clinic-scheduling",

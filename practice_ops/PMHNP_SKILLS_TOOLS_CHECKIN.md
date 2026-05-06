@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-06 09:11:43 UTC
+- Generated: 2026-05-06 15:12:05 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=193 | lang=Python | updated=2026-05-05T16:05:07Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=193 | lang=Python | updated=2026-05-06T14:09:36Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -49,9 +49,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-03T18:23:56Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-06T13:17:49Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
+- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-06T12:21:50Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-06T00:37:56Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [troy-miller0824/angular-dotnet9-clinic-scheduling](https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling) | stars=1 | lang=C# | updated=2026-04-06T16:07:20Z | Medical appointment platform for clinics and therapy centers—Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.
 - [KamujuHemasri098/Smart-Doctor-Appointment-Management-System](https://github.com/KamujuHemasri098/Smart-Doctor-Appointment-Management-System) | stars=0 | lang=Jupyter Notebook | updated=2026-04-04T08:36:38Z | A comprehensive web/mobile application designed to streamline healthcare scheduling. Features include real-time slot booking, patient/doctor dashboards, automated reminders, and secure medical record management to bridge the gap between patients and healthcare providers.
 
