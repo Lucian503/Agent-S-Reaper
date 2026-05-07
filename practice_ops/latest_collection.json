@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-06 20:10:02 UTC",
+  "generated_at_utc": "2026-05-07 04:14:01 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -200,7 +200,7 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-05-06T13:17:49Z",
+          "updated_at": "2026-05-07T02:20:46Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
