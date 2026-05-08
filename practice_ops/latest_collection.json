@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-08 08:10:11 UTC",
+  "generated_at_utc": "2026-05-08 14:23:33 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,7 +57,7 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-05-07T21:00:26Z",
+          "updated_at": "2026-05-08T10:52:06Z",
           "stargazers_count": 194,
           "language": "Python"
         },
@@ -103,7 +103,7 @@
           "full_name": "dishakv8/MedSync",
           "html_url": "https://github.com/dishakv8/MedSync",
           "description": "An AI-powered medical scribe that converts doctor\u2013patient conversations into structured SOAP notes and easy-to-understand patient summaries. Using Whisper for speech-to-text and Gemini 1.5 Flash for intelligent processing, the system helps reduce clinical documentation workload while improving patient communication.",
-          "updated_at": "2026-05-08T07:37:46Z",
+          "updated_at": "2026-05-08T11:13:45Z",
           "stargazers_count": 0,
           "language": "Python"
         },
@@ -197,20 +197,20 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
+          "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
+          "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
+          "updated_at": "2026-05-08T14:09:44Z",
+          "stargazers_count": 0,
+          "language": "Java"
+        },
+        {
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
           "updated_at": "2026-05-07T13:37:08Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
-          "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
-          "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
-          "updated_at": "2026-05-06T12:21:50Z",
-          "stargazers_count": 0,
-          "language": "Java"
         },
         {
           "full_name": "knarayanareddy/CareBinder",
