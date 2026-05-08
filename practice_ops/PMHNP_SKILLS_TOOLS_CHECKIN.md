@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-07 20:02:20 UTC
+- Generated: 2026-05-08 03:59:02 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,15 +14,15 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [Doondi-Ashlesh/ClearPath](https://github.com/Doondi-Ashlesh/ClearPath) | stars=0 | lang=Unknown | updated=2026-05-07T23:13:22Z | AI-powered Prior Authorization (PA) automation system for healthcare. It is a multi-agent orchestration system where autonomous agents collaborate to process prior authorization requests end-to-end, reducing the process from days to minutes
 - [Velocity-BPA/n8n-nodes-waystar](https://github.com/Velocity-BPA/n8n-nodes-waystar) | stars=2 | lang=TypeScript | updated=2026-04-25T04:48:27Z | Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.
 - [elenafmoseyko/Auto-Approval-Prior-Authorization-ML](https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML) | stars=0 | lang=Jupyter Notebook | updated=2026-04-17T18:03:34Z | ML Model for Predicting Auto-Approvals of Prior Authorization Requests
 - [sanjana-3002/Authflow](https://github.com/sanjana-3002/Authflow) | stars=0 | lang=TypeScript | updated=2026-04-14T20:42:33Z | AI-powered prior authorization and appeals automation for healthcare
 - [jai2033shankar/healthx](https://github.com/jai2033shankar/healthx) | stars=0 | lang=TypeScript | updated=2026-03-31T03:33:08Z | HelixFlow AI is an advanced administrative automation platform targeting the $400B+ healthcare administrative sector. By combining deep clinical NLP, multi-agent reasoning, knowledge graphs, and digital twin simulations, HelixFlow actively predicts denials, accelerates prior authorizations, and uncovers revenue leakage before it disrupts hospitals
-- [Debrah25/Healthcare-Prior-Authorization-Request-Automation-Project](https://github.com/Debrah25/Healthcare-Prior-Authorization-Request-Automation-Project) | stars=0 | lang=Unknown | updated=2026-03-25T11:33:59Z | No description provided.
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=193 | lang=Python | updated=2026-05-07T11:10:58Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=194 | lang=Python | updated=2026-05-07T21:00:26Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [dishakv8/MedSync](https://github.com/dishakv8/MedSync) | stars=0 | lang=Unknown | updated=2026-05-08T03:43:32Z | An AI-powered medical scribe that converts doctor–patient conversations into structured SOAP notes and easy-to-understand patient summaries. Using Whisper for speech-to-text and Gemini 1.5 Flash for intelligent processing, the system helps reduce clinical documentation workload while improving patient communication.
 - [afrapj05/Scribe-AI](https://github.com/afrapj05/Scribe-AI) | stars=0 | lang=Python | updated=2026-04-23T13:04:14Z | Scribe AI is an AI-powered clinical documentation assistant that converts doctor–patient conversations into structured medical notes in real time. It automatically generates accurate summaries, reducing manual paperwork, saving time, and improving clinical efficiency.
 - [vibeailabs-tech/medical-scribe](https://github.com/vibeailabs-tech/medical-scribe) | stars=0 | lang=Python | updated=2026-04-14T16:06:25Z | AI-powered clinical documentation — turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper
 - [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-04-11T22:56:38Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
 - [Joysilas389/MedScribe](https://github.com/Joysilas389/MedScribe) | stars=0 | lang=Python | updated=2026-03-30T06:58:51Z | MedScribe is a secure, multilingual, AI-powered ambient clinical documentation platform that converts real-time doctor–patient conversations into polished, structured medical notes, reducing physician burnout and improving clinical workflow efficiency.
-- [Sana-17-Cipher/MedScribe](https://github.com/Sana-17-Cipher/MedScribe) | stars=0 | lang=HTML | updated=2026-03-26T00:04:18Z | MedScribe AI is a full-stack application that leverages OpenAI Whisper and NLP techniques to transform medical speech into structured, exportable clinical documentation.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
