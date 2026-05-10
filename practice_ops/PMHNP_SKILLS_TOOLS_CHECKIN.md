@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-10 08:26:50 UTC
+- Generated: 2026-05-10 14:00:25 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.
 - [Doondi-Ashlesh/ClearPath](https://github.com/Doondi-Ashlesh/ClearPath) | stars=0 | lang=Unknown | updated=2026-05-07T23:13:22Z | AI-powered Prior Authorization (PA) automation system for healthcare. It is a multi-agent orchestration system where autonomous agents collaborate to process prior authorization requests end-to-end, reducing the process from days to minutes
 - [Velocity-BPA/n8n-nodes-waystar](https://github.com/Velocity-BPA/n8n-nodes-waystar) | stars=2 | lang=TypeScript | updated=2026-04-25T04:48:27Z | Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.
 - [elenafmoseyko/Auto-Approval-Prior-Authorization-ML](https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML) | stars=0 | lang=Jupyter Notebook | updated=2026-04-17T18:03:34Z | ML Model for Predicting Auto-Approvals of Prior Authorization Requests
 - [sanjana-3002/Authflow](https://github.com/sanjana-3002/Authflow) | stars=0 | lang=TypeScript | updated=2026-04-14T20:42:33Z | AI-powered prior authorization and appeals automation for healthcare
-- [jai2033shankar/healthx](https://github.com/jai2033shankar/healthx) | stars=0 | lang=TypeScript | updated=2026-03-31T03:33:08Z | HelixFlow AI is an advanced administrative automation platform targeting the $400B+ healthcare administrative sector. By combining deep clinical NLP, multi-agent reasoning, knowledge graphs, and digital twin simulations, HelixFlow actively predicts denials, accelerates prior authorizations, and uncovers revenue leakage before it disrupts hospitals
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`

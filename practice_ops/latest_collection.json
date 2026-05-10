@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-10 08:26:50 UTC",
+  "generated_at_utc": "2026-05-10 14:00:25 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "MamathaSree47/Healthcare-Prior-Authorization-Automation",
+          "html_url": "https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation",
+          "description": "",
+          "updated_at": "2026-05-10T12:27:23Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
         {
           "full_name": "Doondi-Ashlesh/ClearPath",
           "html_url": "https://github.com/Doondi-Ashlesh/ClearPath",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/sanjana-3002/Authflow",
           "description": "AI-powered prior authorization and appeals automation for healthcare",
           "updated_at": "2026-04-14T20:42:33Z",
-          "stargazers_count": 0,
-          "language": "TypeScript"
-        },
-        {
-          "full_name": "jai2033shankar/healthx",
-          "html_url": "https://github.com/jai2033shankar/healthx",
-          "description": "HelixFlow AI is an advanced administrative automation platform targeting the $400B+ healthcare administrative sector. By combining deep clinical NLP, multi-agent reasoning, knowledge graphs, and digital twin simulations, HelixFlow actively predicts denials, accelerates prior authorizations, and uncovers revenue leakage before it disrupts hospitals",
-          "updated_at": "2026-03-31T03:33:08Z",
           "stargazers_count": 0,
           "language": "TypeScript"
         }
