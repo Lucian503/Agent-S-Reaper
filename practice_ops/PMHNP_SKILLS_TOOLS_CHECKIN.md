@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-11 04:44:41 UTC
+- Generated: 2026-05-11 10:07:19 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -49,8 +49,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-11T09:14:09Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-08T14:09:44Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-07T13:37:08Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 - [troy-miller0824/angular-dotnet9-clinic-scheduling](https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling) | stars=1 | lang=C# | updated=2026-04-06T16:07:20Z | Medical appointment platform for clinics and therapy centers—Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.
 - [KamujuHemasri098/Smart-Doctor-Appointment-Management-System](https://github.com/KamujuHemasri098/Smart-Doctor-Appointment-Management-System) | stars=0 | lang=Jupyter Notebook | updated=2026-04-04T08:36:38Z | A comprehensive web/mobile application designed to streamline healthcare scheduling. Features include real-time slot booking, patient/doctor dashboards, automated reminders, and secure medical record management to bridge the gap between patients and healthcare providers.
