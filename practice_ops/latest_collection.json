@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-11 10:07:19 UTC",
+  "generated_at_utc": "2026-05-11 15:44:49 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "Subh24ai/ai-medical-scribe",
+          "html_url": "https://github.com/Subh24ai/ai-medical-scribe",
+          "description": "AI-powered medical scribe that records doctor-patient consultations, transcribes audio using AI, and generates structured clinical documentation and prescriptions. Built with a Node.js backend, Python AI services, PostgreSQL database, and a web frontend. Supports local and cloud storage (S3, Azure, GCS).",
+          "updated_at": "2026-05-11T11:55:42Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "dishakv8/MedSync",
           "html_url": "https://github.com/dishakv8/MedSync",
           "description": "An AI-powered medical scribe that converts doctor\u2013patient conversations into structured SOAP notes and easy-to-understand patient summaries. Using Whisper for speech-to-text and Gemini 1.5 Flash for intelligent processing, the system helps reduce clinical documentation workload while improving patient communication.",
@@ -129,14 +137,6 @@
           "description": "Automate clinical note-taking and triage by transcribing doctor\u2013patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.",
           "updated_at": "2026-04-11T22:56:38Z",
           "stargazers_count": 1,
-          "language": "Python"
-        },
-        {
-          "full_name": "Joysilas389/MedScribe",
-          "html_url": "https://github.com/Joysilas389/MedScribe",
-          "description": "MedScribe is a secure, multilingual, AI-powered ambient clinical documentation platform that converts real-time doctor\u2013patient conversations into polished, structured medical notes, reducing physician burnout and improving clinical workflow efficiency.",
-          "updated_at": "2026-03-30T06:58:51Z",
-          "stargazers_count": 0,
           "language": "Python"
         }
       ]

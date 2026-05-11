@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-11 10:07:19 UTC
+- Generated: 2026-05-11 15:44:49 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [Subh24ai/ai-medical-scribe](https://github.com/Subh24ai/ai-medical-scribe) | stars=0 | lang=JavaScript | updated=2026-05-11T11:55:42Z | AI-powered medical scribe that records doctor-patient consultations, transcribes audio using AI, and generates structured clinical documentation and prescriptions. Built with a Node.js backend, Python AI services, PostgreSQL database, and a web frontend. Supports local and cloud storage (S3, Azure, GCS).
 - [dishakv8/MedSync](https://github.com/dishakv8/MedSync) | stars=0 | lang=Python | updated=2026-05-08T11:13:45Z | An AI-powered medical scribe that converts doctor–patient conversations into structured SOAP notes and easy-to-understand patient summaries. Using Whisper for speech-to-text and Gemini 1.5 Flash for intelligent processing, the system helps reduce clinical documentation workload while improving patient communication.
 - [afrapj05/Scribe-AI](https://github.com/afrapj05/Scribe-AI) | stars=0 | lang=Python | updated=2026-04-23T13:04:14Z | Scribe AI is an AI-powered clinical documentation assistant that converts doctor–patient conversations into structured medical notes in real time. It automatically generates accurate summaries, reducing manual paperwork, saving time, and improving clinical efficiency.
 - [vibeailabs-tech/medical-scribe](https://github.com/vibeailabs-tech/medical-scribe) | stars=0 | lang=Python | updated=2026-04-14T16:06:25Z | AI-powered clinical documentation — turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper
 - [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-04-11T22:56:38Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
-- [Joysilas389/MedScribe](https://github.com/Joysilas389/MedScribe) | stars=0 | lang=Python | updated=2026-03-30T06:58:51Z | MedScribe is a secure, multilingual, AI-powered ambient clinical documentation platform that converts real-time doctor–patient conversations into polished, structured medical notes, reducing physician burnout and improving clinical workflow efficiency.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
