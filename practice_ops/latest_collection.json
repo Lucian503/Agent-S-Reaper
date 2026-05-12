@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-12 04:23:54 UTC",
+  "generated_at_utc": "2026-05-12 09:19:01 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -192,7 +192,7 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-05-11T09:14:09Z",
+          "updated_at": "2026-05-12T08:57:57Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -234,6 +234,14 @@
       "label": "Telehealth Workflow Support",
       "query": "telehealth workflow automation",
       "repos": [
+        {
+          "full_name": "Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation",
+          "html_url": "https://github.com/Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation",
+          "description": "An intelligent AI assistant designed to automate telehealth form filling, assist Patient Medical Coordinators (PMC), and improve efficiency in patient data collection and healthcare workflows.",
+          "updated_at": "2026-05-12T05:30:11Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "hamzahelhafdaoui/AppointmentLinkSender",
           "html_url": "https://github.com/hamzahelhafdaoui/AppointmentLinkSender",

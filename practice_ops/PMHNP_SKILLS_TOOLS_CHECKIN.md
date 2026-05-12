@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-12 04:23:54 UTC
+- Generated: 2026-05-12 09:19:01 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -48,7 +48,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-11T09:14:09Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-12T08:57:57Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-08T14:09:44Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 - [troy-miller0824/angular-dotnet9-clinic-scheduling](https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling) | stars=1 | lang=C# | updated=2026-04-06T16:07:20Z | Medical appointment platform for clinics and therapy centers—Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.
@@ -56,6 +56,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
+- [Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation](https://github.com/Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation) | stars=0 | lang=Unknown | updated=2026-05-12T05:30:11Z | An intelligent AI assistant designed to automate telehealth form filling, assist Patient Medical Coordinators (PMC), and improve efficiency in patient data collection and healthcare workflows.
 - [hamzahelhafdaoui/AppointmentLinkSender](https://github.com/hamzahelhafdaoui/AppointmentLinkSender) | stars=0 | lang=JavaScript | updated=2025-12-30T00:57:11Z | The Doxy Link Sender is a lightweight automation tool designed to streamline telehealth workflows by automatically sending secure  video visit links to patients via SMS. It pulls appointment data from a Google Sheet, matches patients to their scheduled provider , generates the correct Doxy link, and sends it out at the appropriate moment
 
 ## 4) Agent-S Skill Backlog for Solo PMHNP
