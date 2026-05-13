@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-13 09:25:31 UTC
+- Generated: 2026-05-13 15:24:59 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=196 | lang=Python | updated=2026-05-11T16:12:43Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=197 | lang=Python | updated=2026-05-13T12:02:05Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -48,8 +48,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Amantiwari29/HealthCare_chatbot](https://github.com/Amantiwari29/HealthCare_chatbot) | stars=0 | lang=Python | updated=2026-05-13T11:19:28Z | A Healthcare Chatbot is an AI-powered virtual assistant that helps users with basic health-related queries, symptom checking, appointment scheduling, and medication reminders. It provides quick and accessible healthcare support, improving patient engagement and reducing the workload on medical staff.
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-13T09:20:35Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
-- [Amantiwari29/HealthCare_chatbot](https://github.com/Amantiwari29/HealthCare_chatbot) | stars=0 | lang=Unknown | updated=2026-05-13T09:13:06Z | A Healthcare Chatbot is an AI-powered virtual assistant that helps users with basic health-related queries, symptom checking, appointment scheduling, and medication reminders. It provides quick and accessible healthcare support, improving patient engagement and reducing the workload on medical staff.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-08T14:09:44Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 - [troy-miller0824/angular-dotnet9-clinic-scheduling](https://github.com/troy-miller0824/angular-dotnet9-clinic-scheduling) | stars=1 | lang=C# | updated=2026-04-06T16:07:20Z | Medical appointment platform for clinics and therapy centers—Angular 19 + ASP.NET Core 9 Web API + TypeScript: online booking, patient profiles, availability, reminders, and admin scheduling.
