@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-15 09:30:43 UTC
+- Generated: 2026-05-15 15:01:00 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -48,9 +48,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-15T09:35:27Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [Anandyadav04/MediTrack](https://github.com/Anandyadav04/MediTrack) | stars=0 | lang=HTML | updated=2026-05-14T14:20:08Z | MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused
 - [Amantiwari29/HealthCare_chatbot](https://github.com/Amantiwari29/HealthCare_chatbot) | stars=0 | lang=Python | updated=2026-05-13T11:19:28Z | A Healthcare Chatbot is an AI-powered virtual assistant that helps users with basic health-related queries, symptom checking, appointment scheduling, and medication reminders. It provides quick and accessible healthcare support, improving patient engagement and reducing the workload on medical staff.
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-13T09:20:35Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-08T14:09:44Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 

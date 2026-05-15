@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-15 09:30:43 UTC",
+  "generated_at_utc": "2026-05-15 15:01:00 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -189,6 +189,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-05-15T09:35:27Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Anandyadav04/MediTrack",
           "html_url": "https://github.com/Anandyadav04/MediTrack",
           "description": "MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused",
@@ -203,14 +211,6 @@
           "updated_at": "2026-05-13T11:19:28Z",
           "stargazers_count": 0,
           "language": "Python"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-05-13T09:20:35Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         },
         {
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
