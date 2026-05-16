@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-16 04:09:36 UTC
+- Generated: 2026-05-16 08:23:26 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -48,11 +48,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [25a31a4343/Medical-Appointment-Scheduler](https://github.com/25a31a4343/Medical-Appointment-Scheduler) | stars=0 | lang=Unknown | updated=2026-05-16T08:22:27Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
+- [25A31A4327/Medical-appointment-scheduler-](https://github.com/25A31A4327/Medical-appointment-scheduler-) | stars=0 | lang=Unknown | updated=2026-05-16T06:42:15Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-15T09:35:27Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [Anandyadav04/MediTrack](https://github.com/Anandyadav04/MediTrack) | stars=0 | lang=HTML | updated=2026-05-14T14:20:08Z | MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused
 - [Amantiwari29/HealthCare_chatbot](https://github.com/Amantiwari29/HealthCare_chatbot) | stars=0 | lang=Python | updated=2026-05-13T11:19:28Z | A Healthcare Chatbot is an AI-powered virtual assistant that helps users with basic health-related queries, symptom checking, appointment scheduling, and medication reminders. It provides quick and accessible healthcare support, improving patient engagement and reducing the workload on medical staff.
-- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-08T14:09:44Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
-- [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=0 | lang=TypeScript | updated=2026-05-02T14:07:18Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
