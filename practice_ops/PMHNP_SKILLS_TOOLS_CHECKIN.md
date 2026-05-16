@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-16 14:05:59 UTC
+- Generated: 2026-05-16 19:40:12 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=0 | lang=Python | updated=2026-05-16T18:21:40Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
 - [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.
 - [Doondi-Ashlesh/ClearPath](https://github.com/Doondi-Ashlesh/ClearPath) | stars=0 | lang=Unknown | updated=2026-05-07T23:13:22Z | AI-powered Prior Authorization (PA) automation system for healthcare. It is a multi-agent orchestration system where autonomous agents collaborate to process prior authorization requests end-to-end, reducing the process from days to minutes
 - [Velocity-BPA/n8n-nodes-waystar](https://github.com/Velocity-BPA/n8n-nodes-waystar) | stars=2 | lang=TypeScript | updated=2026-04-25T04:48:27Z | Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.
 - [elenafmoseyko/Auto-Approval-Prior-Authorization-ML](https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML) | stars=0 | lang=Jupyter Notebook | updated=2026-04-17T18:03:34Z | ML Model for Predicting Auto-Approvals of Prior Authorization Requests
-- [sanjana-3002/Authflow](https://github.com/sanjana-3002/Authflow) | stars=0 | lang=TypeScript | updated=2026-04-14T20:42:33Z | AI-powered prior authorization and appeals automation for healthcare
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -48,11 +48,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-16T18:16:16Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-16T09:29:34Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [25A31A4351/Medical-appointment-schedular](https://github.com/25A31A4351/Medical-appointment-schedular) | stars=0 | lang=Unknown | updated=2026-05-16T08:30:05Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
 - [25A31A4327/Medical-appointment-scheduler-](https://github.com/25A31A4327/Medical-appointment-scheduler-) | stars=0 | lang=Unknown | updated=2026-05-16T06:42:15Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
 - [Anandyadav04/MediTrack](https://github.com/Anandyadav04/MediTrack) | stars=0 | lang=HTML | updated=2026-05-14T14:20:08Z | MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused
-- [Amantiwari29/HealthCare_chatbot](https://github.com/Amantiwari29/HealthCare_chatbot) | stars=0 | lang=Python | updated=2026-05-13T11:19:28Z | A Healthcare Chatbot is an AI-powered virtual assistant that helps users with basic health-related queries, symptom checking, appointment scheduling, and medication reminders. It provides quick and accessible healthcare support, improving patient engagement and reducing the workload on medical staff.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`

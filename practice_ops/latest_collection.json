@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-16 14:05:59 UTC",
+  "generated_at_utc": "2026-05-16 19:40:12 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "ranjitnk/healthcare-auth",
+          "html_url": "https://github.com/ranjitnk/healthcare-auth",
+          "description": "Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.",
+          "updated_at": "2026-05-16T18:21:40Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
         {
           "full_name": "MamathaSree47/Healthcare-Prior-Authorization-Automation",
           "html_url": "https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation",
@@ -38,14 +46,6 @@
           "updated_at": "2026-04-17T18:03:34Z",
           "stargazers_count": 0,
           "language": "Jupyter Notebook"
-        },
-        {
-          "full_name": "sanjana-3002/Authflow",
-          "html_url": "https://github.com/sanjana-3002/Authflow",
-          "description": "AI-powered prior authorization and appeals automation for healthcare",
-          "updated_at": "2026-04-14T20:42:33Z",
-          "stargazers_count": 0,
-          "language": "TypeScript"
         }
       ]
     },
@@ -189,6 +189,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
+          "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
+          "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
+          "updated_at": "2026-05-16T18:16:16Z",
+          "stargazers_count": 0,
+          "language": "Java"
+        },
+        {
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
@@ -219,14 +227,6 @@
           "updated_at": "2026-05-14T14:20:08Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "Amantiwari29/HealthCare_chatbot",
-          "html_url": "https://github.com/Amantiwari29/HealthCare_chatbot",
-          "description": "A Healthcare Chatbot is an AI-powered virtual assistant that helps users with basic health-related queries, symptom checking, appointment scheduling, and medication reminders. It provides quick and accessible healthcare support, improving patient engagement and reducing the workload on medical staff.",
-          "updated_at": "2026-05-13T11:19:28Z",
-          "stargazers_count": 0,
-          "language": "Python"
         }
       ]
     },
