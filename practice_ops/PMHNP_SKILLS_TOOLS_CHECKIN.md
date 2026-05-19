@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-18 20:14:33 UTC
+- Generated: 2026-05-19 04:43:08 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -16,9 +16,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - Query: `prior authorization healthcare automation`
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-05-18T15:56:57Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
 - [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.
-- [Doondi-Ashlesh/ClearPath](https://github.com/Doondi-Ashlesh/ClearPath) | stars=0 | lang=Unknown | updated=2026-05-07T23:13:22Z | AI-powered Prior Authorization (PA) automation system for healthcare. It is a multi-agent orchestration system where autonomous agents collaborate to process prior authorization requests end-to-end, reducing the process from days to minutes
 - [Velocity-BPA/n8n-nodes-waystar](https://github.com/Velocity-BPA/n8n-nodes-waystar) | stars=2 | lang=TypeScript | updated=2026-04-25T04:48:27Z | Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.
 - [elenafmoseyko/Auto-Approval-Prior-Authorization-ML](https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML) | stars=0 | lang=Jupyter Notebook | updated=2026-04-17T18:03:34Z | ML Model for Predicting Auto-Approvals of Prior Authorization Requests
+- [sanjana-3002/Authflow](https://github.com/sanjana-3002/Authflow) | stars=0 | lang=TypeScript | updated=2026-04-14T20:42:33Z | AI-powered prior authorization and appeals automation for healthcare
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -48,7 +48,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - No repositories returned this run.
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-05-18T19:03:59Z | Appointment booking, calendar sync, reminders, and waitlist management. No-app-needed booking for Medical Practice Management clients.
+- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-05-18T20:54:30Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-17T09:55:50Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-17T07:55:03Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [25A31A4351/Medical-appointment-schedular](https://github.com/25A31A4351/Medical-appointment-schedular) | stars=0 | lang=Unknown | updated=2026-05-16T08:30:05Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
