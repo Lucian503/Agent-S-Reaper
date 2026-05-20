@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-20 10:01:06 UTC",
+  "generated_at_utc": "2026-05-20 16:06:28 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -189,6 +189,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "ncreighton/be29e55d-medical-practice-management-ev",
+          "html_url": "https://github.com/ncreighton/be29e55d-medical-practice-management-ev",
+          "description": "Your medical practice is drowning in no-shows and manual RSVP tracking while staff spend hours confirming appointments. Stop wasting time\u2014automate your entire event and appointment management with intelligent reminders that actually boost attendance.  Medical Practice Management Event Scheduler and RSVP Manager Bot eliminates the coordination chaos",
+          "updated_at": "2026-05-20T13:50:40Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -217,14 +225,6 @@
           "html_url": "https://github.com/25A31A4351/Medical-appointment-schedular",
           "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
           "updated_at": "2026-05-16T08:30:05Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "25A31A4327/Medical-appointment-scheduler-",
-          "html_url": "https://github.com/25A31A4327/Medical-appointment-scheduler-",
-          "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
-          "updated_at": "2026-05-16T06:42:15Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
