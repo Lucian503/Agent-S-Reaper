@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-20 16:06:28 UTC
+- Generated: 2026-05-20 20:34:22 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,6 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
+- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-05-20T17:34:31Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
 - [saydainsk/medical-coding-automation](https://github.com/saydainsk/medical-coding-automation) | stars=1 | lang=Python | updated=2026-03-05T20:20:14Z | ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.
 - [Rishiparasa21/medical-coding-automation](https://github.com/Rishiparasa21/medical-coding-automation) | stars=0 | lang=Python | updated=2025-03-01T18:14:58Z | CrewAI-based medical coding and billing automation
@@ -45,14 +46,15 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
-- No repositories returned this run.
+- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-05-20T18:40:28Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
+
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [ncreighton/be29e55d-medical-practice-management-ev](https://github.com/ncreighton/be29e55d-medical-practice-management-ev) | stars=0 | lang=Unknown | updated=2026-05-20T13:50:40Z | Your medical practice is drowning in no-shows and manual RSVP tracking while staff spend hours confirming appointments. Stop wasting time—automate your entire event and appointment management with intelligent reminders that actually boost attendance.  Medical Practice Management Event Scheduler and RSVP Manager Bot eliminates the coordination chaos
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-05-18T20:54:30Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-05-17T09:55:50Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=0 | lang=Java | updated=2026-05-17T07:55:03Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [25A31A4351/Medical-appointment-schedular](https://github.com/25A31A4351/Medical-appointment-schedular) | stars=0 | lang=Unknown | updated=2026-05-16T08:30:05Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
+- [25A31A4327/Medical-appointment-scheduler-](https://github.com/25A31A4327/Medical-appointment-scheduler-) | stars=0 | lang=Unknown | updated=2026-05-16T06:42:15Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
