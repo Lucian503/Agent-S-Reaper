@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-21 15:57:24 UTC",
+  "generated_at_utc": "2026-05-21 20:20:40 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,20 +8,20 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
+          "full_name": "ranjitnk/healthcare-auth",
+          "html_url": "https://github.com/ranjitnk/healthcare-auth",
+          "description": "Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.",
+          "updated_at": "2026-05-21T19:01:20Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
+        {
           "full_name": "ankitakarbhari/healthauth-ai",
           "html_url": "https://github.com/ankitakarbhari/healthauth-ai",
           "description": "AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.",
           "updated_at": "2026-05-19T07:21:29Z",
           "stargazers_count": 0,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "ranjitnk/healthcare-auth",
-          "html_url": "https://github.com/ranjitnk/healthcare-auth",
-          "description": "Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.",
-          "updated_at": "2026-05-18T15:56:57Z",
-          "stargazers_count": 1,
-          "language": "Python"
         },
         {
           "full_name": "MamathaSree47/Healthcare-Prior-Authorization-Automation",
