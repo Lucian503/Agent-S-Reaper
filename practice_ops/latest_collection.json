@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-21 10:09:59 UTC",
+  "generated_at_utc": "2026-05-21 15:57:24 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -206,6 +206,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Anandyadav04/MediTrack",
+          "html_url": "https://github.com/Anandyadav04/MediTrack",
+          "description": "MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused",
+          "updated_at": "2026-05-21T11:34:03Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -234,14 +242,6 @@
           "html_url": "https://github.com/25A31A4351/Medical-appointment-schedular",
           "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
           "updated_at": "2026-05-16T08:30:05Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "25A31A4327/Medical-appointment-scheduler-",
-          "html_url": "https://github.com/25A31A4327/Medical-appointment-scheduler-",
-          "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
-          "updated_at": "2026-05-16T06:42:15Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
