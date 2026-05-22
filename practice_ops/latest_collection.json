@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-22 04:45:07 UTC",
+  "generated_at_utc": "2026-05-22 09:56:55 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -206,6 +206,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "25A31A4313/Voting-system-simulator-",
+          "html_url": "https://github.com/25A31A4313/Voting-system-simulator-",
+          "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
+          "updated_at": "2026-05-22T07:19:19Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Anandyadav04/MediTrack",
           "html_url": "https://github.com/Anandyadav04/MediTrack",
           "description": "MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused",
@@ -236,14 +244,6 @@
           "updated_at": "2026-05-17T07:55:03Z",
           "stargazers_count": 0,
           "language": "Java"
-        },
-        {
-          "full_name": "25A31A4351/Medical-appointment-schedular",
-          "html_url": "https://github.com/25A31A4351/Medical-appointment-schedular",
-          "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
-          "updated_at": "2026-05-16T08:30:05Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
