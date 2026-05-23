@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-23 14:09:28 UTC
+- Generated: 2026-05-23 19:44:42 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -46,6 +46,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
+- [anisulislamkiron/healthcare-appointment-automation](https://github.com/anisulislamkiron/healthcare-appointment-automation) | stars=0 | lang=Unknown | updated=2026-05-23T14:24:21Z | A production-ready healthcare automation system built with n8n that synchronizes patient intake forms with Notion, manages bilingual communications via Gmail, and implements a high-priority emergency alert system via Telegram.
 - [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-05-20T18:40:28Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
 
 ### Scheduling + No-Show Reduction
