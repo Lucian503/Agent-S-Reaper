@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-05-25 20:09:59 UTC
+- Generated: 2026-05-26 04:45:20 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-05-26T02:26:54Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-05-21T19:01:20Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
 - [ankitakarbhari/healthauth-ai](https://github.com/ankitakarbhari/healthauth-ai) | stars=0 | lang=TypeScript | updated=2026-05-19T07:21:29Z | AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.
 - [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.
 - [Velocity-BPA/n8n-nodes-waystar](https://github.com/Velocity-BPA/n8n-nodes-waystar) | stars=2 | lang=TypeScript | updated=2026-04-25T04:48:27Z | Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.
-- [elenafmoseyko/Auto-Approval-Prior-Authorization-ML](https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML) | stars=0 | lang=Jupyter Notebook | updated=2026-04-17T18:03:34Z | ML Model for Predicting Auto-Approvals of Prior Authorization Requests
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-05-26T00:15:53Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [Subh24ai/ai-medical-scribe](https://github.com/Subh24ai/ai-medical-scribe) | stars=0 | lang=JavaScript | updated=2026-05-11T11:55:42Z | AI-powered medical scribe that records doctor-patient consultations, transcribes audio using AI, and generates structured clinical documentation and prescriptions. Built with a Node.js backend, Python AI services, PostgreSQL database, and a web frontend. Supports local and cloud storage (S3, Azure, GCS).
 - [dishakv8/MedSync](https://github.com/dishakv8/MedSync) | stars=0 | lang=Python | updated=2026-05-08T11:13:45Z | An AI-powered medical scribe that converts doctor–patient conversations into structured SOAP notes and easy-to-understand patient summaries. Using Whisper for speech-to-text and Gemini 1.5 Flash for intelligent processing, the system helps reduce clinical documentation workload while improving patient communication.
 - [afrapj05/Scribe-AI](https://github.com/afrapj05/Scribe-AI) | stars=0 | lang=Python | updated=2026-04-23T13:04:14Z | Scribe AI is an AI-powered clinical documentation assistant that converts doctor–patient conversations into structured medical notes in real time. It automatically generates accurate summaries, reducing manual paperwork, saving time, and improving clinical efficiency.
 - [vibeailabs-tech/medical-scribe](https://github.com/vibeailabs-tech/medical-scribe) | stars=0 | lang=Python | updated=2026-04-14T16:06:25Z | AI-powered clinical documentation — turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper
-- [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-04-11T22:56:38Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`

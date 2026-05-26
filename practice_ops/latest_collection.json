@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-25 20:09:59 UTC",
+  "generated_at_utc": "2026-05-26 04:45:20 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
+          "updated_at": "2026-05-26T02:26:54Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
         {
           "full_name": "ranjitnk/healthcare-auth",
           "html_url": "https://github.com/ranjitnk/healthcare-auth",
@@ -38,14 +46,6 @@
           "updated_at": "2026-04-25T04:48:27Z",
           "stargazers_count": 2,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "elenafmoseyko/Auto-Approval-Prior-Authorization-ML",
-          "html_url": "https://github.com/elenafmoseyko/Auto-Approval-Prior-Authorization-ML",
-          "description": "ML Model for Predicting Auto-Approvals of Prior Authorization Requests",
-          "updated_at": "2026-04-17T18:03:34Z",
-          "stargazers_count": 0,
-          "language": "Jupyter Notebook"
         }
       ]
     },
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "api-evangelist/augmedix",
+          "html_url": "https://github.com/api-evangelist/augmedix",
+          "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
+          "updated_at": "2026-05-26T00:15:53Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Subh24ai/ai-medical-scribe",
           "html_url": "https://github.com/Subh24ai/ai-medical-scribe",
           "description": "AI-powered medical scribe that records doctor-patient consultations, transcribes audio using AI, and generates structured clinical documentation and prescriptions. Built with a Node.js backend, Python AI services, PostgreSQL database, and a web frontend. Supports local and cloud storage (S3, Azure, GCS).",
@@ -129,14 +137,6 @@
           "description": "AI-powered clinical documentation \u2014 turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper",
           "updated_at": "2026-04-14T16:06:25Z",
           "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "Abhi951197/MedScribe-AI",
-          "html_url": "https://github.com/Abhi951197/MedScribe-AI",
-          "description": "Automate clinical note-taking and triage by transcribing doctor\u2013patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.",
-          "updated_at": "2026-04-11T22:56:38Z",
-          "stargazers_count": 1,
           "language": "Python"
         }
       ]
