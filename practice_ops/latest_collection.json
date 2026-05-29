@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-29 04:53:29 UTC",
+  "generated_at_utc": "2026-05-29 10:30:36 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "dashusujainx/medical_assistant",
+          "html_url": "https://github.com/dashusujainx/medical_assistant",
+          "description": "Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.",
+          "updated_at": "2026-05-29T10:21:33Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "leelibona/PulsePoint--Patient-Appointment-Records-System",
           "html_url": "https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System",
           "description": "A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.",
@@ -242,14 +250,6 @@
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
           "updated_at": "2026-05-18T20:54:30Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-05-17T09:55:50Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
