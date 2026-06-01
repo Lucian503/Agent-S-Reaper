@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-01 05:26:11 UTC
+- Generated: 2026-06-01 12:17:05 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,7 +51,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [dashusujainx/medical_assistant](https://github.com/dashusujainx/medical_assistant) | stars=0 | lang=Python | updated=2026-06-01T04:42:44Z | Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
+- [dashusujainx/medical_assistant](https://github.com/dashusujainx/medical_assistant) | stars=0 | lang=Python | updated=2026-06-01T11:37:52Z | Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=17 | lang=Java | updated=2026-05-31T17:57:14Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [Anandyadav04/MediTrack](https://github.com/Anandyadav04/MediTrack) | stars=0 | lang=HTML | updated=2026-05-23T09:09:45Z | MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused
 - [25A31A4313/Voting-system-simulator-](https://github.com/25A31A4313/Voting-system-simulator-) | stars=0 | lang=Unknown | updated=2026-05-22T07:19:19Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
