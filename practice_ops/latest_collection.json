@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-02 05:11:36 UTC",
+  "generated_at_utc": "2026-06-02 11:05:35 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,19 +8,19 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
+          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
+          "updated_at": "2026-06-02T05:35:09Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "ranjitnk/healthcare-auth",
           "html_url": "https://github.com/ranjitnk/healthcare-auth",
           "description": "Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.",
           "updated_at": "2026-06-01T16:14:21Z",
           "stargazers_count": 1,
-          "language": "Python"
-        },
-        {
-          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
-          "updated_at": "2026-05-26T02:26:54Z",
-          "stargazers_count": 0,
           "language": "Python"
         },
         {
@@ -259,14 +259,6 @@
       "label": "Telehealth Workflow Support",
       "query": "telehealth workflow automation",
       "repos": [
-        {
-          "full_name": "Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation",
-          "html_url": "https://github.com/Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation",
-          "description": "An intelligent AI assistant designed to automate telehealth form filling, assist Patient Medical Coordinators (PMC), and improve efficiency in patient data collection and healthcare workflows.",
-          "updated_at": "2026-05-12T05:30:11Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
         {
           "full_name": "hamzahelhafdaoui/AppointmentLinkSender",
           "html_url": "https://github.com/hamzahelhafdaoui/AppointmentLinkSender",

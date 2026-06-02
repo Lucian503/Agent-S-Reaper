@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-02 05:11:36 UTC
+- Generated: 2026-06-02 11:05:35 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,8 +14,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-06-02T05:35:09Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-06-01T16:14:21Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
-- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-05-26T02:26:54Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [ankitakarbhari/healthauth-ai](https://github.com/ankitakarbhari/healthauth-ai) | stars=0 | lang=TypeScript | updated=2026-05-19T07:21:29Z | AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.
 - [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.
 - [Velocity-BPA/n8n-nodes-waystar](https://github.com/Velocity-BPA/n8n-nodes-waystar) | stars=2 | lang=TypeScript | updated=2026-04-25T04:48:27Z | Comprehensive n8n community node for the Waystar healthcare RCM platform. Enables end-to-end billing automation including eligibility (270/271), claims processing (837P/I/D), claim status (276/277), remittance (835/ERA), denial management, prior authorization, and analytics workflows.
@@ -59,7 +59,6 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
-- [Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation](https://github.com/Sakthi-pranav/-Patient-Medical-Co-ordinator-PMC-AI-Assistant-for-Telehealth-Form-Automation) | stars=0 | lang=Unknown | updated=2026-05-12T05:30:11Z | An intelligent AI assistant designed to automate telehealth form filling, assist Patient Medical Coordinators (PMC), and improve efficiency in patient data collection and healthcare workflows.
 - [hamzahelhafdaoui/AppointmentLinkSender](https://github.com/hamzahelhafdaoui/AppointmentLinkSender) | stars=0 | lang=JavaScript | updated=2025-12-30T00:57:11Z | The Doxy Link Sender is a lightweight automation tool designed to streamline telehealth workflows by automatically sending secure  video visit links to patients via SMS. It pulls appointment data from a Google Sheet, matches patients to their scheduled provider , generates the correct Doxy link, and sends it out at the appropriate moment
 
 ## 4) Agent-S Skill Backlog for Solo PMHNP
