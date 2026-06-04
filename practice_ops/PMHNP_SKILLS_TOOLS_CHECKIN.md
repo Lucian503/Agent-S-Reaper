@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-04 15:59:59 UTC
+- Generated: 2026-06-04 20:33:06 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,8 +14,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-06-04T16:07:27Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [omesh-s/claimshield-ai](https://github.com/omesh-s/claimshield-ai) | stars=0 | lang=Python | updated=2026-06-04T01:02:13Z | AI-powered prior authorization automation for U.S. healthcare — LangGraph + Gemini + RAG + Next.js
-- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-06-02T05:35:09Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-06-01T16:14:21Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
 - [ankitakarbhari/healthauth-ai](https://github.com/ankitakarbhari/healthauth-ai) | stars=0 | lang=TypeScript | updated=2026-05-19T07:21:29Z | AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.
 - [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.

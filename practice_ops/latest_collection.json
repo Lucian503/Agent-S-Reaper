@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-04 15:59:59 UTC",
+  "generated_at_utc": "2026-06-04 20:33:06 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,18 +8,18 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
-          "full_name": "omesh-s/claimshield-ai",
-          "html_url": "https://github.com/omesh-s/claimshield-ai",
-          "description": "AI-powered prior authorization automation for U.S. healthcare \u2014 LangGraph + Gemini + RAG + Next.js",
-          "updated_at": "2026-06-04T01:02:13Z",
+          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
+          "updated_at": "2026-06-04T16:07:27Z",
           "stargazers_count": 0,
           "language": "Python"
         },
         {
-          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
-          "updated_at": "2026-06-02T05:35:09Z",
+          "full_name": "omesh-s/claimshield-ai",
+          "html_url": "https://github.com/omesh-s/claimshield-ai",
+          "description": "AI-powered prior authorization automation for U.S. healthcare \u2014 LangGraph + Gemini + RAG + Next.js",
+          "updated_at": "2026-06-04T01:02:13Z",
           "stargazers_count": 0,
           "language": "Python"
         },
