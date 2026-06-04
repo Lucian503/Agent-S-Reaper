@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-03 21:35:22 UTC
+- Generated: 2026-06-04 05:23:07 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,7 +14,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
-- [omesh-s/claimshield-ai](https://github.com/omesh-s/claimshield-ai) | stars=0 | lang=Python | updated=2026-06-03T04:22:29Z | AI-powered prior authorization automation for U.S. healthcare — LangGraph + Gemini + RAG + Next.js
+- [omesh-s/claimshield-ai](https://github.com/omesh-s/claimshield-ai) | stars=0 | lang=Python | updated=2026-06-04T01:02:13Z | AI-powered prior authorization automation for U.S. healthcare — LangGraph + Gemini + RAG + Next.js
 - [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-06-02T05:35:09Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-06-01T16:14:21Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
 - [ankitakarbhari/healthauth-ai](https://github.com/ankitakarbhari/healthauth-ai) | stars=0 | lang=TypeScript | updated=2026-05-19T07:21:29Z | AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.
@@ -51,7 +51,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows](https://github.com/RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows) | stars=0 | lang=Jupyter Notebook | updated=2026-06-03T19:42:08Z | For my project, I will predict missed medical appointments (no-shows) using patient data such as age, gender, reminders, and scheduling details. I will compare models like logistic regression and decision trees, focusing on recall, and estimate the financial impact of no-shows on clinics.
+- [RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows](https://github.com/RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows) | stars=0 | lang=Jupyter Notebook | updated=2026-06-03T21:53:57Z | This model analyzes patient information such as age, gender, appointment reminders, and scheduling details to predict whether a patient will attend or miss a medical appointment. It helps identify potential no-shows and estimates their financial impact on clinics.
 - [dashusujainx/medical_assistant](https://github.com/dashusujainx/medical_assistant) | stars=0 | lang=Python | updated=2026-06-02T04:08:42Z | Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
 - [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=17 | lang=Java | updated=2026-05-31T17:57:14Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
 - [Anandyadav04/MediTrack](https://github.com/Anandyadav04/MediTrack) | stars=0 | lang=HTML | updated=2026-05-23T09:09:45Z | MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused
