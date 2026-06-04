@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-04 10:25:37 UTC",
+  "generated_at_utc": "2026-06-04 15:59:59 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "25A31A1256/Medical-Appointment-Scheduler",
+          "html_url": "https://github.com/25A31A1256/Medical-Appointment-Scheduler",
+          "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
+          "updated_at": "2026-06-04T13:44:36Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows",
           "html_url": "https://github.com/RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows",
           "description": "This model analyzes patient information such as age, gender, appointment reminders, and scheduling details to predict whether a patient will attend or miss a medical appointment. It helps identify potential no-shows and estimates their financial impact on clinics.",
@@ -244,14 +252,6 @@
           "updated_at": "2026-05-23T09:09:45Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "25A31A4313/Voting-system-simulator-",
-          "html_url": "https://github.com/25A31A4313/Voting-system-simulator-",
-          "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
-          "updated_at": "2026-05-22T07:19:19Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
