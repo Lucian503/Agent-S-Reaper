@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-04 20:33:06 UTC
+- Generated: 2026-06-05 04:57:26 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [25A31A1255/Medical-Appointment-Scheduler](https://github.com/25A31A1255/Medical-Appointment-Scheduler) | stars=0 | lang=Unknown | updated=2026-06-05T03:48:07Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
+- [25A31A1263/Medical-Appointment-Scheduler](https://github.com/25A31A1263/Medical-Appointment-Scheduler) | stars=0 | lang=Unknown | updated=2026-06-05T03:45:47Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
 - [25A31A1256/Medical-Appointment-Scheduler](https://github.com/25A31A1256/Medical-Appointment-Scheduler) | stars=0 | lang=Unknown | updated=2026-06-04T13:44:36Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
 - [RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows](https://github.com/RahmaRBH/ML-Project--Predicting-Medical-appointment-no-shows) | stars=0 | lang=Jupyter Notebook | updated=2026-06-03T21:53:57Z | This model analyzes patient information such as age, gender, appointment reminders, and scheduling details to predict whether a patient will attend or miss a medical appointment. It helps identify potential no-shows and estimates their financial impact on clinics.
 - [dashusujainx/medical_assistant](https://github.com/dashusujainx/medical_assistant) | stars=0 | lang=Python | updated=2026-06-02T04:08:42Z | Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
-- [leelibona/PulsePoint--Patient-Appointment-Records-System](https://github.com/leelibona/PulsePoint--Patient-Appointment-Records-System) | stars=17 | lang=Java | updated=2026-05-31T17:57:14Z | A web-based healthcare platform where patients book appointments, doctors manage schedules and medical records, and admins oversee the entire system, with SMS reminders and analytics dashboards.
-- [Anandyadav04/MediTrack](https://github.com/Anandyadav04/MediTrack) | stars=0 | lang=HTML | updated=2026-05-23T09:09:45Z | MediTrack is a comprehensive healthcare management web application designed to simplify and enhance medical services for users. It features AI-powered skin disease prediction, BMI and BMR calculators, appointment scheduling with specialist doctors, personalized health reminders via email and SMS, and access to nearby blood banks and health-focused
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
