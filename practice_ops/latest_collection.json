@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-05 15:35:18 UTC",
+  "generated_at_utc": "2026-06-05 20:27:20 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "Abhi951197/MedScribe-AI",
+          "html_url": "https://github.com/Abhi951197/MedScribe-AI",
+          "description": "Automate clinical note-taking and triage by transcribing doctor\u2013patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.",
+          "updated_at": "2026-06-05T15:47:13Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
+        {
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
@@ -128,14 +136,6 @@
           "html_url": "https://github.com/afrapj05/Scribe-AI",
           "description": "Scribe AI is an AI-powered clinical documentation assistant that converts doctor\u2013patient conversations into structured medical notes in real time. It automatically generates accurate summaries, reducing manual paperwork, saving time, and improving clinical efficiency.",
           "updated_at": "2026-04-23T13:04:14Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "vibeailabs-tech/medical-scribe",
-          "html_url": "https://github.com/vibeailabs-tech/medical-scribe",
-          "description": "AI-powered clinical documentation \u2014 turns doctor-patient conversations into structured medical reports using Qwen AI and Whisper",
-          "updated_at": "2026-04-14T16:06:25Z",
           "stargazers_count": 0,
           "language": "Python"
         }
