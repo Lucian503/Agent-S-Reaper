@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-07 14:28:57 UTC",
+  "generated_at_utc": "2026-06-07 19:55:13 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -103,9 +103,9 @@
           "full_name": "ThatsKostellion/thatskostelion-medscribeai.github.io",
           "html_url": "https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io",
           "description": "Official website and landing page for MedScribe AI\u2014an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.",
-          "updated_at": "2026-06-07T09:37:25Z",
+          "updated_at": "2026-06-07T16:41:55Z",
           "stargazers_count": 0,
-          "language": "HTML"
+          "language": "PHP"
         },
         {
           "full_name": "Abhi951197/MedScribe-AI",

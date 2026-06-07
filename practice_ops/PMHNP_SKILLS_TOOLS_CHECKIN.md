@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-07 14:28:57 UTC
+- Generated: 2026-06-07 19:55:13 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,7 +30,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
-- [ThatsKostellion/thatskostelion-medscribeai.github.io](https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io) | stars=0 | lang=HTML | updated=2026-06-07T09:37:25Z | Official website and landing page for MedScribe AI—an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.
+- [ThatsKostellion/thatskostelion-medscribeai.github.io](https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io) | stars=0 | lang=PHP | updated=2026-06-07T16:41:55Z | Official website and landing page for MedScribe AI—an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.
 - [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-06-05T15:47:13Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-05-26T00:15:53Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [Subh24ai/ai-medical-scribe](https://github.com/Subh24ai/ai-medical-scribe) | stars=0 | lang=JavaScript | updated=2026-05-11T11:55:42Z | AI-powered medical scribe that records doctor-patient consultations, transcribes audio using AI, and generates structured clinical documentation and prescriptions. Built with a Node.js backend, Python AI services, PostgreSQL database, and a web frontend. Supports local and cloud storage (S3, Azure, GCS).
