@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-11 05:10:18 UTC
+- Generated: 2026-06-11 11:10:10 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [qirail/ambient-scribe---indian-players](https://github.com/qirail/ambient-scribe---indian-players) | stars=0 | lang=Unknown | updated=2026-06-11T07:24:49Z | Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market — covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.
 - [ThatsKostellion/thatskostelion-medscribeai.github.io](https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io) | stars=0 | lang=PHP | updated=2026-06-07T16:41:55Z | Official website and landing page for MedScribe AI—an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.
 - [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-06-05T15:47:13Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-05-26T00:15:53Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [Subh24ai/ai-medical-scribe](https://github.com/Subh24ai/ai-medical-scribe) | stars=0 | lang=JavaScript | updated=2026-05-11T11:55:42Z | AI-powered medical scribe that records doctor-patient consultations, transcribes audio using AI, and generates structured clinical documentation and prescriptions. Built with a Node.js backend, Python AI services, PostgreSQL database, and a web frontend. Supports local and cloud storage (S3, Azure, GCS).
-- [dishakv8/MedSync](https://github.com/dishakv8/MedSync) | stars=0 | lang=Python | updated=2026-05-08T11:13:45Z | An AI-powered medical scribe that converts doctor–patient conversations into structured SOAP notes and easy-to-understand patient summaries. Using Whisper for speech-to-text and Gemini 1.5 Flash for intelligent processing, the system helps reduce clinical documentation workload while improving patient communication.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
