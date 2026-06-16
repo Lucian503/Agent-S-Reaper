@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-15 21:33:54 UTC",
+  "generated_at_utc": "2026-06-16 06:06:56 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,18 +8,18 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
-          "full_name": "omesh-s/claimshield-ai",
-          "html_url": "https://github.com/omesh-s/claimshield-ai",
-          "description": "AI-powered prior authorization automation for U.S. healthcare \u2014 LangGraph + Gemini + RAG + Next.js",
-          "updated_at": "2026-06-06T17:12:31Z",
+          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
+          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
+          "updated_at": "2026-06-16T05:44:25Z",
           "stargazers_count": 0,
           "language": "Python"
         },
         {
-          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
-          "updated_at": "2026-06-04T16:07:27Z",
+          "full_name": "omesh-s/claimshield-ai",
+          "html_url": "https://github.com/omesh-s/claimshield-ai",
+          "description": "AI-powered prior authorization automation for U.S. healthcare \u2014 LangGraph + Gemini + RAG + Next.js",
+          "updated_at": "2026-06-06T17:12:31Z",
           "stargazers_count": 0,
           "language": "Python"
         },
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Jasmine-sd/Healthcare_appointment_system",
+          "html_url": "https://github.com/Jasmine-sd/Healthcare_appointment_system",
+          "description": "Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.",
+          "updated_at": "2026-06-16T01:48:27Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "Jasmine-sd/Healthcare_appointment_portal",
           "html_url": "https://github.com/Jasmine-sd/Healthcare_appointment_portal",
           "description": "Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.",
@@ -242,14 +250,6 @@
           "html_url": "https://github.com/25a31a4343/Medical-appointment-schedular",
           "description": "A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.",
           "updated_at": "2026-06-11T03:30:34Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "marwanayman888/Medical-App",
-          "html_url": "https://github.com/marwanayman888/Medical-App",
-          "description": "Medical App is a healthcare platform that connects patients with doctors, offers smart doctor recommendations based on symptoms, enables appointment booking with available schedules, sends medication reminders, and provides continuous follow-up after appointments and medication times to improve patient care and treatment adherence.",
-          "updated_at": "2026-06-06T13:08:14Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }

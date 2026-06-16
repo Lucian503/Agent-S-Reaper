@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-15 21:33:54 UTC
+- Generated: 2026-06-16 06:06:56 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,8 +14,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-06-16T05:44:25Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [omesh-s/claimshield-ai](https://github.com/omesh-s/claimshield-ai) | stars=0 | lang=Python | updated=2026-06-06T17:12:31Z | AI-powered prior authorization automation for U.S. healthcare — LangGraph + Gemini + RAG + Next.js
-- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-06-04T16:07:27Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-06-01T16:14:21Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
 - [ankitakarbhari/healthauth-ai](https://github.com/ankitakarbhari/healthauth-ai) | stars=1 | lang=TypeScript | updated=2026-06-14T17:14:45Z | AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.
 - [MamathaSree47/Healthcare-Prior-Authorization-Automation](https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation) | stars=0 | lang=JavaScript | updated=2026-05-10T12:27:23Z | No description provided.
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Jasmine-sd/Healthcare_appointment_system](https://github.com/Jasmine-sd/Healthcare_appointment_system) | stars=0 | lang=JavaScript | updated=2026-06-16T01:48:27Z | Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.
 - [Jasmine-sd/Healthcare_appointment_portal](https://github.com/Jasmine-sd/Healthcare_appointment_portal) | stars=0 | lang=Unknown | updated=2026-06-15T10:26:11Z | Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-14T12:52:40Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-13T10:08:11Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
 - [25a31a4343/Medical-appointment-schedular](https://github.com/25a31a4343/Medical-appointment-schedular) | stars=0 | lang=Unknown | updated=2026-06-11T03:30:34Z | A Medical Appointment Scheduler is a system that helps patients book, reschedule, or cancel doctor appointments online. It manages doctor availability, sends reminders, reduces waiting time, and improves hospital or clinic efficiency by organizing patient schedules digitally.
-- [marwanayman888/Medical-App](https://github.com/marwanayman888/Medical-App) | stars=0 | lang=Unknown | updated=2026-06-06T13:08:14Z | Medical App is a healthcare platform that connects patients with doctors, offers smart doctor recommendations based on symptoms, enables appointment booking with available schedules, sends medication reminders, and provides continuous follow-up after appointments and medication times to improve patient care and treatment adherence.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
