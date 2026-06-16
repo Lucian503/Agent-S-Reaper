@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-16 11:41:39 UTC",
+  "generated_at_utc": "2026-06-16 17:32:10 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -11,7 +11,7 @@
           "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
           "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
           "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
-          "updated_at": "2026-06-16T05:44:25Z",
+          "updated_at": "2026-06-16T15:19:19Z",
           "stargazers_count": 0,
           "language": "Python"
         },
@@ -214,6 +214,30 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Jasmine-sd/Healthcare_appointment_system",
+          "html_url": "https://github.com/Jasmine-sd/Healthcare_appointment_system",
+          "description": "Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.",
+          "updated_at": "2026-06-16T16:28:40Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
+          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
+          "updated_at": "2026-06-16T15:19:12Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-06-16T13:56:31Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Sahil02130805/Clinic-Appointment-Management-System",
           "html_url": "https://github.com/Sahil02130805/Clinic-Appointment-Management-System",
           "description": "A FastAPI application secured with JWT authentication that enables patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders.",
@@ -228,30 +252,6 @@
           "updated_at": "2026-06-16T08:14:25Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "Jasmine-sd/Healthcare_appointment_system",
-          "html_url": "https://github.com/Jasmine-sd/Healthcare_appointment_system",
-          "description": "Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.",
-          "updated_at": "2026-06-16T01:48:27Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
-        },
-        {
-          "full_name": "Jasmine-sd/Healthcare_appointment_portal",
-          "html_url": "https://github.com/Jasmine-sd/Healthcare_appointment_portal",
-          "description": "Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.",
-          "updated_at": "2026-06-15T10:26:11Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-06-14T12:52:40Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
