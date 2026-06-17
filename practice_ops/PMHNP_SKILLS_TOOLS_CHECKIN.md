@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-16 21:27:25 UTC
+- Generated: 2026-06-17 05:25:40 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=Unknown | updated=2026-06-17T04:42:19Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
 - [Jasmine-sd/Healthcare_appointment_system](https://github.com/Jasmine-sd/Healthcare_appointment_system) | stars=0 | lang=JavaScript | updated=2026-06-16T16:28:40Z | Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-16T15:19:12Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-16T13:56:31Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [Sahil02130805/Clinic-Appointment-Management-System](https://github.com/Sahil02130805/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-06-16T09:46:24Z | A FastAPI application secured with JWT authentication that enables patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders.
-- [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-16T08:14:25Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`

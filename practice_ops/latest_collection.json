@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-16 21:27:25 UTC",
+  "generated_at_utc": "2026-06-17 05:25:40 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
+          "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
+          "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
+          "updated_at": "2026-06-17T04:42:19Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Jasmine-sd/Healthcare_appointment_system",
           "html_url": "https://github.com/Jasmine-sd/Healthcare_appointment_system",
           "description": "Patients often face difficulties in finding suitable doctors, booking appointments, accessing medical records, and receiving timely reminders. Hospitals and clinics also struggle with managing appointments efficiently, leading to long waiting times and scheduling conflicts.",
@@ -244,14 +252,6 @@
           "updated_at": "2026-06-16T09:46:24Z",
           "stargazers_count": 0,
           "language": "Python"
-        },
-        {
-          "full_name": "GowthamiBolleni/medicare-plus",
-          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
-          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-16T08:14:25Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         }
       ]
     },
