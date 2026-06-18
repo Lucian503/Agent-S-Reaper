@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-18 10:54:42 UTC",
+  "generated_at_utc": "2026-06-18 15:59:47 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,7 +57,7 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-06-17T12:53:26Z",
+          "updated_at": "2026-06-18T14:34:44Z",
           "stargazers_count": 199,
           "language": "Python"
         },
@@ -214,6 +214,30 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "GowthamiBolleni/medicare-plus",
+          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
+          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
+          "updated_at": "2026-06-18T15:58:29Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
+          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
+          "updated_at": "2026-06-18T14:06:25Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-06-18T12:48:02Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Sahil02130805/Clinic-Appointment-Management-System",
           "html_url": "https://github.com/Sahil02130805/Clinic-Appointment-Management-System",
           "description": "A FastAPI application secured with JWT authentication that enables patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders.",
@@ -222,36 +246,12 @@
           "language": "Python"
         },
         {
-          "full_name": "GowthamiBolleni/medicare-plus",
-          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
-          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-18T09:56:45Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
-        },
-        {
           "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
           "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
           "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
           "updated_at": "2026-06-18T06:00:59Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "vedbadwaik/CareSoft-Clinic-Appointment-Management-System",
-          "html_url": "https://github.com/vedbadwaik/CareSoft-Clinic-Appointment-Management-System",
-          "description": "CareSoft Clinic Appointment Management System is a web-based healthcare management platform designed to streamline clinic operations. It enables secure patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders. Built with FastAPI and JWT authentication,",
-          "updated_at": "2026-06-18T05:31:56Z",
-          "stargazers_count": 0,
-          "language": "HTML"
-        },
-        {
-          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-06-17T15:54:44Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
