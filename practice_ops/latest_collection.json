@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-17 20:34:18 UTC",
+  "generated_at_utc": "2026-06-18 05:19:13 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "danidea1997-cell/clinicalscribe-ai",
+          "html_url": "https://github.com/danidea1997-cell/clinicalscribe-ai",
+          "description": "AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.",
+          "updated_at": "2026-06-17T22:02:10Z",
+          "stargazers_count": 1,
+          "language": "TypeScript"
+        },
+        {
           "full_name": "Prat-codes3/Optimised_MedScribe",
           "html_url": "https://github.com/Prat-codes3/Optimised_MedScribe",
           "description": "AI-powered medical transcription and clinical note generation system that converts doctor\u2013patient conversations into structured medical documentation.",
@@ -130,14 +138,6 @@
           "updated_at": "2026-06-05T15:47:13Z",
           "stargazers_count": 1,
           "language": "Python"
-        },
-        {
-          "full_name": "api-evangelist/augmedix",
-          "html_url": "https://github.com/api-evangelist/augmedix",
-          "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
-          "updated_at": "2026-05-26T00:15:53Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
@@ -214,6 +214,22 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
+          "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
+          "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
+          "updated_at": "2026-06-18T05:17:42Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
+          "full_name": "vedbadwaik/CareSoft-Clinic-Appointment-Management-System",
+          "html_url": "https://github.com/vedbadwaik/CareSoft-Clinic-Appointment-Management-System",
+          "description": "CareSoft Clinic Appointment Management System is a web-based healthcare management platform designed to streamline clinic operations. It enables secure patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders. Built with FastAPI and JWT authentication,",
+          "updated_at": "2026-06-18T05:07:06Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -236,22 +252,6 @@
           "updated_at": "2026-06-17T09:47:55Z",
           "stargazers_count": 0,
           "language": "Python"
-        },
-        {
-          "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
-          "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
-          "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
-          "updated_at": "2026-06-17T09:18:56Z",
-          "stargazers_count": 0,
-          "language": "HTML"
-        },
-        {
-          "full_name": "GowthamiBolleni/medicare-plus",
-          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
-          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-17T07:35:37Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         }
       ]
     },

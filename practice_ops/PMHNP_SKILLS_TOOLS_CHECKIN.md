@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-17 20:34:18 UTC
+- Generated: 2026-06-18 05:19:13 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-17T22:02:10Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
 - [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=0 | lang=Python | updated=2026-06-16T07:45:52Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
 - [qirail/ambient-scribe---indian-players](https://github.com/qirail/ambient-scribe---indian-players) | stars=0 | lang=HTML | updated=2026-06-12T03:32:37Z | Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market — covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.
 - [ThatsKostellion/thatskostelion-medscribeai.github.io](https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io) | stars=0 | lang=PHP | updated=2026-06-07T16:41:55Z | Official website and landing page for MedScribe AI—an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.
 - [Abhi951197/MedScribe-AI](https://github.com/Abhi951197/MedScribe-AI) | stars=1 | lang=Python | updated=2026-06-05T15:47:13Z | Automate clinical note-taking and triage by transcribing doctor–patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.
-- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-05-26T00:15:53Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-18T05:17:42Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
+- [vedbadwaik/CareSoft-Clinic-Appointment-Management-System](https://github.com/vedbadwaik/CareSoft-Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-18T05:07:06Z | CareSoft Clinic Appointment Management System is a web-based healthcare management platform designed to streamline clinic operations. It enables secure patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders. Built with FastAPI and JWT authentication,
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-17T15:54:44Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-17T14:35:24Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-06-17T09:47:55Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
-- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-17T09:18:56Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
-- [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-17T07:35:37Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
