@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-18 05:19:13 UTC",
+  "generated_at_utc": "2026-06-18 10:54:42 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,10 +214,26 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Sahil02130805/Clinic-Appointment-Management-System",
+          "html_url": "https://github.com/Sahil02130805/Clinic-Appointment-Management-System",
+          "description": "A FastAPI application secured with JWT authentication that enables patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders.",
+          "updated_at": "2026-06-18T10:03:20Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "GowthamiBolleni/medicare-plus",
+          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
+          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
+          "updated_at": "2026-06-18T09:56:45Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
           "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
           "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
-          "updated_at": "2026-06-18T05:17:42Z",
+          "updated_at": "2026-06-18T06:00:59Z",
           "stargazers_count": 0,
           "language": "HTML"
         },
@@ -225,7 +241,7 @@
           "full_name": "vedbadwaik/CareSoft-Clinic-Appointment-Management-System",
           "html_url": "https://github.com/vedbadwaik/CareSoft-Clinic-Appointment-Management-System",
           "description": "CareSoft Clinic Appointment Management System is a web-based healthcare management platform designed to streamline clinic operations. It enables secure patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders. Built with FastAPI and JWT authentication,",
-          "updated_at": "2026-06-18T05:07:06Z",
+          "updated_at": "2026-06-18T05:31:56Z",
           "stargazers_count": 0,
           "language": "HTML"
         },
@@ -236,22 +252,6 @@
           "updated_at": "2026-06-17T15:54:44Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-06-17T14:35:24Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "chaitanyashimpi05/Clinic-Appointment-Management-System",
-          "html_url": "https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System",
-          "description": "\"A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.\"",
-          "updated_at": "2026-06-17T09:47:55Z",
-          "stargazers_count": 0,
-          "language": "Python"
         }
       ]
     },

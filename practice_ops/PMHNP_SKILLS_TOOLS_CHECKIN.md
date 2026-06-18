@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-18 05:19:13 UTC
+- Generated: 2026-06-18 10:54:42 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-18T05:17:42Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
-- [vedbadwaik/CareSoft-Clinic-Appointment-Management-System](https://github.com/vedbadwaik/CareSoft-Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-18T05:07:06Z | CareSoft Clinic Appointment Management System is a web-based healthcare management platform designed to streamline clinic operations. It enables secure patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders. Built with FastAPI and JWT authentication,
+- [Sahil02130805/Clinic-Appointment-Management-System](https://github.com/Sahil02130805/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-06-18T10:03:20Z | A FastAPI application secured with JWT authentication that enables patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders.
+- [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-18T09:56:45Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
+- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-18T06:00:59Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
+- [vedbadwaik/CareSoft-Clinic-Appointment-Management-System](https://github.com/vedbadwaik/CareSoft-Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-18T05:31:56Z | CareSoft Clinic Appointment Management System is a web-based healthcare management platform designed to streamline clinic operations. It enables secure patient registration, doctor scheduling, appointment booking, medical record management, and automated appointment reminders. Built with FastAPI and JWT authentication,
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-17T15:54:44Z | Appointment booking, calendar sync, reminders, and waitlist management
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-17T14:35:24Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
-- [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-06-17T09:47:55Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
