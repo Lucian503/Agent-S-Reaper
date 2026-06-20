@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-20 04:52:55 UTC
+- Generated: 2026-06-20 09:49:25 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=201 | lang=Python | updated=2026-06-19T14:54:57Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=202 | lang=Python | updated=2026-06-20T09:02:30Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -31,7 +31,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-06-20T01:04:28Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
-- [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-17T22:02:10Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
+- [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-20T06:02:46Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
 - [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=0 | lang=Python | updated=2026-06-16T07:45:52Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
 - [qirail/ambient-scribe---indian-players](https://github.com/qirail/ambient-scribe---indian-players) | stars=0 | lang=HTML | updated=2026-06-12T03:32:37Z | Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market — covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.
 - [ThatsKostellion/thatskostelion-medscribeai.github.io](https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io) | stars=0 | lang=PHP | updated=2026-06-07T16:41:55Z | Official website and landing page for MedScribe AI—an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.
