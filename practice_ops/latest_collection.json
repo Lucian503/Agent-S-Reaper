@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-19 20:15:36 UTC",
+  "generated_at_utc": "2026-06-20 04:52:55 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "api-evangelist/augmedix",
+          "html_url": "https://github.com/api-evangelist/augmedix",
+          "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
+          "updated_at": "2026-06-20T01:04:28Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "danidea1997-cell/clinicalscribe-ai",
           "html_url": "https://github.com/danidea1997-cell/clinicalscribe-ai",
           "description": "AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.",
@@ -130,14 +138,6 @@
           "updated_at": "2026-06-07T16:41:55Z",
           "stargazers_count": 0,
           "language": "PHP"
-        },
-        {
-          "full_name": "Abhi951197/MedScribe-AI",
-          "html_url": "https://github.com/Abhi951197/MedScribe-AI",
-          "description": "Automate clinical note-taking and triage by transcribing doctor\u2013patient speech and detecting emergencies. Use generative AI (ASR + LLM) to produce concise medical summaries, suggest treatment plans, and immediately alert staff to red-flag symptoms (e.g. chest pain). This reduces documentation burden and speeds up emergency response.",
-          "updated_at": "2026-06-05T15:47:13Z",
-          "stargazers_count": 1,
-          "language": "Python"
         }
       ]
     },
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "yashalcoder/Clinical_AI_Agent",
+          "html_url": "https://github.com/yashalcoder/Clinical_AI_Agent",
+          "description": "ClinicFlow AI \u2014 AI-powered clinic automation platform for smart appointment scheduling, WhatsApp communication, automated reminders, medical documentation, and analytics.Clinics waste hours on calls, scheduling & paperwork \u2014 ClinicFlow AI automates it all.",
+          "updated_at": "2026-06-20T03:06:33Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -244,14 +252,6 @@
           "updated_at": "2026-06-18T10:03:20Z",
           "stargazers_count": 0,
           "language": "Python"
-        },
-        {
-          "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
-          "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
-          "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
-          "updated_at": "2026-06-18T06:00:59Z",
-          "stargazers_count": 0,
-          "language": "HTML"
         }
       ]
     },
