@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21 10:09:46 UTC",
+  "generated_at_utc": "2026-06-21 14:54:58 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "Rupasai22/prior-authorization-rules-engine",
+          "html_url": "https://github.com/Rupasai22/prior-authorization-rules-engine",
+          "description": "A rules-based prior authorization engine for healthcare automation - Spring Boot, React, PostgreSQL, DynamoDB",
+          "updated_at": "2026-06-21T12:23:48Z",
+          "stargazers_count": 0,
+          "language": "Java"
+        },
         {
           "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
           "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
@@ -38,14 +46,6 @@
           "updated_at": "2026-06-14T17:14:45Z",
           "stargazers_count": 1,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "MamathaSree47/Healthcare-Prior-Authorization-Automation",
-          "html_url": "https://github.com/MamathaSree47/Healthcare-Prior-Authorization-Automation",
-          "description": "",
-          "updated_at": "2026-05-10T12:27:23Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         }
       ]
     },
