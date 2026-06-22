@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-21 20:12:44 UTC
+- Generated: 2026-06-22 05:41:32 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=202 | lang=Python | updated=2026-06-20T09:02:30Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=203 | lang=Python | updated=2026-06-21T22:53:49Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-21T07:03:08Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
+- [dashusujainx/medical_assistant](https://github.com/dashusujainx/medical_assistant) | stars=0 | lang=Python | updated=2026-06-22T04:39:19Z | Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
+- [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-06-22T04:03:03Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
+- [Rahulmalu01/Clinic-Appointment-Management-System](https://github.com/Rahulmalu01/Clinic-Appointment-Management-System) | stars=0 | lang=HTML | updated=2026-06-21T20:41:57Z | A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.
 - [yashalcoder/Clinical_AI_Agent](https://github.com/yashalcoder/Clinical_AI_Agent) | stars=0 | lang=Unknown | updated=2026-06-20T03:06:33Z | ClinicFlow AI — AI-powered clinic automation platform for smart appointment scheduling, WhatsApp communication, automated reminders, medical documentation, and analytics.Clinics waste hours on calls, scheduling & paperwork — ClinicFlow AI automates it all.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-19T14:04:06Z | Appointment booking, calendar sync, reminders, and waitlist management
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-19T12:47:05Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
-- [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-19T08:01:42Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`

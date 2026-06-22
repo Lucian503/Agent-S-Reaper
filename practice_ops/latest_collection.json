@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21 20:12:44 UTC",
+  "generated_at_utc": "2026-06-22 05:41:32 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,8 +57,8 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-06-20T09:02:30Z",
-          "stargazers_count": 202,
+          "updated_at": "2026-06-21T22:53:49Z",
+          "stargazers_count": 203,
           "language": "Python"
         },
         {
@@ -214,10 +214,26 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "dashusujainx/medical_assistant",
+          "html_url": "https://github.com/dashusujainx/medical_assistant",
+          "description": "Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.",
+          "updated_at": "2026-06-22T04:39:19Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "chaitanyashimpi05/Clinic-Appointment-Management-System",
+          "html_url": "https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System",
+          "description": "\"A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.\"",
+          "updated_at": "2026-06-22T04:03:03Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "Rahulmalu01/Clinic-Appointment-Management-System",
           "html_url": "https://github.com/Rahulmalu01/Clinic-Appointment-Management-System",
           "description": "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.",
-          "updated_at": "2026-06-21T07:03:08Z",
+          "updated_at": "2026-06-21T20:41:57Z",
           "stargazers_count": 0,
           "language": "HTML"
         },
@@ -236,22 +252,6 @@
           "updated_at": "2026-06-19T14:04:06Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-06-19T12:47:05Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "GowthamiBolleni/medicare-plus",
-          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
-          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-19T08:01:42Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         }
       ]
     },
