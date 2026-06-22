@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-22 05:41:32 UTC",
+  "generated_at_utc": "2026-06-22 12:33:56 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "GowthamiBolleni/medicare-plus",
+          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
+          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
+          "updated_at": "2026-06-22T08:31:35Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "dashusujainx/medical_assistant",
           "html_url": "https://github.com/dashusujainx/medical_assistant",
           "description": "Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.",
@@ -242,14 +250,6 @@
           "html_url": "https://github.com/yashalcoder/Clinical_AI_Agent",
           "description": "ClinicFlow AI \u2014 AI-powered clinic automation platform for smart appointment scheduling, WhatsApp communication, automated reminders, medical documentation, and analytics.Clinics waste hours on calls, scheduling & paperwork \u2014 ClinicFlow AI automates it all.",
           "updated_at": "2026-06-20T03:06:33Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-06-19T14:04:06Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
