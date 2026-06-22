@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-22 12:33:56 UTC",
+  "generated_at_utc": "2026-06-22 21:20:17 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,8 +57,8 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-06-21T22:53:49Z",
-          "stargazers_count": 203,
+          "updated_at": "2026-06-22T20:29:05Z",
+          "stargazers_count": 206,
           "language": "Python"
         },
         {
@@ -217,7 +217,7 @@
           "full_name": "GowthamiBolleni/medicare-plus",
           "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
           "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-22T08:31:35Z",
+          "updated_at": "2026-06-22T15:56:12Z",
           "stargazers_count": 0,
           "language": "JavaScript"
         },
