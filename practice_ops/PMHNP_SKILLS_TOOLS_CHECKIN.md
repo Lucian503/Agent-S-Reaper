@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-23 15:35:14 UTC
+- Generated: 2026-06-23 20:33:53 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=207 | lang=Python | updated=2026-06-23T09:42:27Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=207 | lang=Python | updated=2026-06-23T16:38:57Z | Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -51,7 +51,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-23T15:30:48Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
+- [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-23T16:33:12Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-23T14:44:01Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-23T13:22:37Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [AqibJaveed8/ai-voice-agent-for-medical-appoimtment](https://github.com/AqibJaveed8/ai-voice-agent-for-medical-appoimtment) | stars=1 | lang=Unknown | updated=2026-06-23T10:47:03Z | AI-powered Medical Appointment Voice Agent built with n8n. Automates patient appointment booking, scheduling, reminders, and healthcare inquiries through intelligent voice conversations
