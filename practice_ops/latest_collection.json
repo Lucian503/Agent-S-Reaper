@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-24 09:57:44 UTC",
+  "generated_at_utc": "2026-06-24 15:19:10 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,18 +214,10 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
-          "full_name": "GowthamiBolleni/medicare-plus",
-          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
-          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-23T16:33:12Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
-        },
-        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-06-23T14:44:01Z",
+          "updated_at": "2026-06-24T14:11:09Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -233,9 +225,17 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-06-23T13:22:37Z",
+          "updated_at": "2026-06-24T12:49:23Z",
           "stargazers_count": 0,
           "language": "Unknown"
+        },
+        {
+          "full_name": "GowthamiBolleni/medicare-plus",
+          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
+          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
+          "updated_at": "2026-06-23T16:33:12Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
         },
         {
           "full_name": "AqibJaveed8/ai-voice-agent-for-medical-appoimtment",
