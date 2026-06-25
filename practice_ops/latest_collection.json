@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25 04:46:24 UTC",
+  "generated_at_utc": "2026-06-25 09:52:24 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "BonuNitin/Online-Medication-and-Doctor-Appointment",
+          "html_url": "https://github.com/BonuNitin/Online-Medication-and-Doctor-Appointment",
+          "description": "Full-stack medical portal featuring secure role-based dashboards (Patient, Doctor, Pharmacist, Admin), doctor scheduling, and medication reminders. Built with Flask & SQLite.",
+          "updated_at": "2026-06-25T09:43:14Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -244,14 +252,6 @@
           "updated_at": "2026-06-23T10:47:03Z",
           "stargazers_count": 1,
           "language": "Unknown"
-        },
-        {
-          "full_name": "dashusujainx/medical_assistant",
-          "html_url": "https://github.com/dashusujainx/medical_assistant",
-          "description": "Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.",
-          "updated_at": "2026-06-22T04:39:19Z",
-          "stargazers_count": 0,
-          "language": "Python"
         }
       ]
     },

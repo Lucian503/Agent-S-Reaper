@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-06-25 04:46:24 UTC
+- Generated: 2026-06-25 09:52:24 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [BonuNitin/Online-Medication-and-Doctor-Appointment](https://github.com/BonuNitin/Online-Medication-and-Doctor-Appointment) | stars=0 | lang=Unknown | updated=2026-06-25T09:43:14Z | Full-stack medical portal featuring secure role-based dashboards (Patient, Doctor, Pharmacist, Admin), doctor scheduling, and medication reminders. Built with Flask & SQLite.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-24T14:11:09Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-24T12:49:23Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-23T16:33:12Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
 - [AqibJaveed8/ai-voice-agent-for-medical-appoimtment](https://github.com/AqibJaveed8/ai-voice-agent-for-medical-appoimtment) | stars=1 | lang=Unknown | updated=2026-06-23T10:47:03Z | AI-powered Medical Appointment Voice Agent built with n8n. Automates patient appointment booking, scheduling, reminders, and healthcare inquiries through intelligent voice conversations
-- [dashusujainx/medical_assistant](https://github.com/dashusujainx/medical_assistant) | stars=0 | lang=Python | updated=2026-06-22T04:39:19Z | Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
