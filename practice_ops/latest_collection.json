@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25 09:52:24 UTC",
+  "generated_at_utc": "2026-06-25 15:24:04 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,8 +57,8 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-06-23T16:38:57Z",
-          "stargazers_count": 207,
+          "updated_at": "2026-06-25T10:17:29Z",
+          "stargazers_count": 208,
           "language": "Python"
         },
         {
@@ -214,18 +214,10 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
-          "full_name": "BonuNitin/Online-Medication-and-Doctor-Appointment",
-          "html_url": "https://github.com/BonuNitin/Online-Medication-and-Doctor-Appointment",
-          "description": "Full-stack medical portal featuring secure role-based dashboards (Patient, Doctor, Pharmacist, Admin), doctor scheduling, and medication reminders. Built with Flask & SQLite.",
-          "updated_at": "2026-06-25T09:43:14Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-06-24T14:11:09Z",
+          "updated_at": "2026-06-25T14:11:05Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -233,9 +225,17 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-06-24T12:49:23Z",
+          "updated_at": "2026-06-25T12:48:29Z",
           "stargazers_count": 0,
           "language": "Unknown"
+        },
+        {
+          "full_name": "BonuNitin/Online-Medication-and-Doctor-Appointment",
+          "html_url": "https://github.com/BonuNitin/Online-Medication-and-Doctor-Appointment",
+          "description": "Full-stack medical portal featuring secure role-based dashboards (Patient, Doctor, Pharmacist, Admin), doctor scheduling, and medication reminders. Built with Flask & SQLite.",
+          "updated_at": "2026-06-25T09:54:05Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
         },
         {
           "full_name": "GowthamiBolleni/medicare-plus",
