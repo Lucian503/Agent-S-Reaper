@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-30 04:46:13 UTC",
+  "generated_at_utc": "2026-06-30 10:10:39 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,22 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "Prat-codes3/Optimised_MedScribe",
+          "html_url": "https://github.com/Prat-codes3/Optimised_MedScribe",
+          "description": "AI-powered medical transcription and clinical note generation system that converts doctor\u2013patient conversations into structured medical documentation.",
+          "updated_at": "2026-06-30T10:06:38Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "chundurimanikanta/ScribeMD",
+          "html_url": "https://github.com/chundurimanikanta/ScribeMD",
+          "description": "An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.",
+          "updated_at": "2026-06-30T06:46:07Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
@@ -116,28 +132,12 @@
           "language": "TypeScript"
         },
         {
-          "full_name": "Prat-codes3/Optimised_MedScribe",
-          "html_url": "https://github.com/Prat-codes3/Optimised_MedScribe",
-          "description": "AI-powered medical transcription and clinical note generation system that converts doctor\u2013patient conversations into structured medical documentation.",
-          "updated_at": "2026-06-16T07:45:52Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
           "full_name": "qirail/ambient-scribe---indian-players",
           "html_url": "https://github.com/qirail/ambient-scribe---indian-players",
           "description": "Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market \u2014 covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.",
           "updated_at": "2026-06-12T03:32:37Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "ThatsKostellion/thatskostelion-medscribeai.github.io",
-          "html_url": "https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io",
-          "description": "Official website and landing page for MedScribe AI\u2014an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.",
-          "updated_at": "2026-06-07T16:41:55Z",
-          "stargazers_count": 0,
-          "language": "PHP"
         }
       ]
     },
