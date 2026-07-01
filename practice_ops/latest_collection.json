@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-01 10:30:04 UTC",
+  "generated_at_utc": "2026-07-01 15:19:25 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -103,7 +103,7 @@
           "full_name": "Prat-codes3/Optimised_MedScribe",
           "html_url": "https://github.com/Prat-codes3/Optimised_MedScribe",
           "description": "AI-powered medical transcription and clinical note generation system that converts doctor\u2013patient conversations into structured medical documentation.",
-          "updated_at": "2026-07-01T07:42:12Z",
+          "updated_at": "2026-07-01T13:34:02Z",
           "stargazers_count": 1,
           "language": "Python"
         },

@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-01 10:30:04 UTC
+- Generated: 2026-07-01 15:19:25 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,7 +30,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
-- [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-01T07:42:12Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
+- [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-01T13:34:02Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
 - [chundurimanikanta/ScribeMD](https://github.com/chundurimanikanta/ScribeMD) | stars=0 | lang=Unknown | updated=2026-07-01T03:09:56Z | An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-06-27T16:11:05Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-20T06:02:46Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
