@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02 04:41:11 UTC",
+  "generated_at_utc": "2026-07-02 09:43:25 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -103,7 +103,7 @@
           "full_name": "Prat-codes3/Optimised_MedScribe",
           "html_url": "https://github.com/Prat-codes3/Optimised_MedScribe",
           "description": "AI-powered medical transcription and clinical note generation system that converts doctor\u2013patient conversations into structured medical documentation.",
-          "updated_at": "2026-07-01T13:34:02Z",
+          "updated_at": "2026-07-02T09:15:19Z",
           "stargazers_count": 1,
           "language": "Python"
         },
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "maroco8774-mar/Tabeeb-AI",
+          "html_url": "https://github.com/maroco8774-mar/Tabeeb-AI",
+          "description": "Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes \u2014 the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.",
+          "updated_at": "2026-07-02T07:50:19Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -244,14 +252,6 @@
           "updated_at": "2026-06-23T16:33:12Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "AqibJaveed8/ai-voice-agent-for-medical-appoimtment",
-          "html_url": "https://github.com/AqibJaveed8/ai-voice-agent-for-medical-appoimtment",
-          "description": "AI-powered Medical Appointment Voice Agent built with n8n. Automates patient appointment booking, scheduling, reminders, and healthcare inquiries through intelligent voice conversations",
-          "updated_at": "2026-06-23T10:47:03Z",
-          "stargazers_count": 1,
-          "language": "Unknown"
         }
       ]
     },

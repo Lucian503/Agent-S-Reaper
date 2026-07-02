@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-02 04:41:11 UTC
+- Generated: 2026-07-02 09:43:25 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,7 +30,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
-- [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-01T13:34:02Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
+- [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-02T09:15:19Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
 - [chundurimanikanta/ScribeMD](https://github.com/chundurimanikanta/ScribeMD) | stars=0 | lang=Unknown | updated=2026-07-01T03:09:56Z | An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-06-27T16:11:05Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-20T06:02:46Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [maroco8774-mar/Tabeeb-AI](https://github.com/maroco8774-mar/Tabeeb-AI) | stars=0 | lang=HTML | updated=2026-07-02T07:50:19Z | Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes — the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-06-30T12:07:33Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-06-30T10:15:39Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [BonuNitin/Online-Medication-and-Doctor-Appointment](https://github.com/BonuNitin/Online-Medication-and-Doctor-Appointment) | stars=0 | lang=JavaScript | updated=2026-06-25T09:54:05Z | Full-stack medical portal featuring secure role-based dashboards (Patient, Doctor, Pharmacist, Admin), doctor scheduling, and medication reminders. Built with Flask & SQLite.
 - [GowthamiBolleni/medicare-plus](https://github.com/GowthamiBolleni/medicare-plus) | stars=0 | lang=JavaScript | updated=2026-06-23T16:33:12Z | AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.
-- [AqibJaveed8/ai-voice-agent-for-medical-appoimtment](https://github.com/AqibJaveed8/ai-voice-agent-for-medical-appoimtment) | stars=1 | lang=Unknown | updated=2026-06-23T10:47:03Z | AI-powered Medical Appointment Voice Agent built with n8n. Automates patient appointment booking, scheduling, reminders, and healthcare inquiries through intelligent voice conversations
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
