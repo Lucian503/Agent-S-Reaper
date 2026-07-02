@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-02 09:43:25 UTC",
+  "generated_at_utc": "2026-07-02 14:40:18 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "maroco8774-mar/tabeeb-al3",
+          "html_url": "https://github.com/maroco8774-mar/tabeeb-al3",
+          "description": "Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes \u2014 the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.",
+          "updated_at": "2026-07-02T14:27:12Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
           "full_name": "maroco8774-mar/Tabeeb-AI",
           "html_url": "https://github.com/maroco8774-mar/Tabeeb-AI",
           "description": "Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes \u2014 the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.",
@@ -242,14 +250,6 @@
           "html_url": "https://github.com/BonuNitin/Online-Medication-and-Doctor-Appointment",
           "description": "Full-stack medical portal featuring secure role-based dashboards (Patient, Doctor, Pharmacist, Admin), doctor scheduling, and medication reminders. Built with Flask & SQLite.",
           "updated_at": "2026-06-25T09:54:05Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
-        },
-        {
-          "full_name": "GowthamiBolleni/medicare-plus",
-          "html_url": "https://github.com/GowthamiBolleni/medicare-plus",
-          "description": "AI-powered healthcare management platform with medicine reminders, OCR bill scanning, health analytics, appointment scheduling, emergency SOS alerts, family contact management, and an intelligent medical assistant.",
-          "updated_at": "2026-06-23T16:33:12Z",
           "stargazers_count": 0,
           "language": "JavaScript"
         }
