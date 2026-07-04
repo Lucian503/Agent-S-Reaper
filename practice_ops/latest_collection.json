@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-04 09:05:22 UTC",
+  "generated_at_utc": "2026-07-04 14:10:01 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-07-04T13:24:45Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "maroco8774-mar/tabeeb-al3",
           "html_url": "https://github.com/maroco8774-mar/tabeeb-al3",
           "description": "Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes \u2014 the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.",
@@ -234,14 +242,6 @@
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
           "updated_at": "2026-06-30T12:07:33Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-06-30T10:15:39Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
