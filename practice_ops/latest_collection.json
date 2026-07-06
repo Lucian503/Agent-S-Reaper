@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-06 16:00:43 UTC",
+  "generated_at_utc": "2026-07-06 20:25:26 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -149,7 +149,7 @@
           "full_name": "ncreighton/10b698ff-medical-practice-management-kn",
           "html_url": "https://github.com/ncreighton/10b698ff-medical-practice-management-kn",
           "description": "HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.",
-          "updated_at": "2026-07-05T15:55:01Z",
+          "updated_at": "2026-07-06T16:17:28Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
