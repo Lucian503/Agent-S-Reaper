@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-06 11:12:47 UTC",
+  "generated_at_utc": "2026-07-06 16:00:43 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -195,7 +195,7 @@
           "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
           "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
           "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
-          "updated_at": "2026-07-05T14:56:18Z",
+          "updated_at": "2026-07-06T15:12:17Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -217,7 +217,7 @@
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-07-05T14:37:28Z",
+          "updated_at": "2026-07-06T14:54:07Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -225,9 +225,17 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-07-05T12:48:01Z",
+          "updated_at": "2026-07-06T12:50:47Z",
           "stargazers_count": 0,
           "language": "Unknown"
+        },
+        {
+          "full_name": "chaitanyashimpi05/Clinic-Appointment-Management-System",
+          "html_url": "https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System",
+          "description": "\"A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders.\"",
+          "updated_at": "2026-07-06T12:26:02Z",
+          "stargazers_count": 0,
+          "language": "Python"
         },
         {
           "full_name": "baranikarthick216/Mediverse-Ai",
@@ -242,14 +250,6 @@
           "html_url": "https://github.com/maroco8774-mar/tabeeb-al3",
           "description": "Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes \u2014 the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.",
           "updated_at": "2026-07-02T14:27:12Z",
-          "stargazers_count": 0,
-          "language": "HTML"
-        },
-        {
-          "full_name": "maroco8774-mar/Tabeeb-AI",
-          "html_url": "https://github.com/maroco8774-mar/Tabeeb-AI",
-          "description": "Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes \u2014 the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.",
-          "updated_at": "2026-07-02T07:50:19Z",
           "stargazers_count": 0,
           "language": "HTML"
         }
