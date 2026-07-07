@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-07 10:06:04 UTC",
+  "generated_at_utc": "2026-07-07 15:26:06 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -217,7 +217,7 @@
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-07-06T14:54:07Z",
+          "updated_at": "2026-07-07T15:07:54Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -225,7 +225,7 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-07-06T12:50:47Z",
+          "updated_at": "2026-07-07T12:58:12Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
