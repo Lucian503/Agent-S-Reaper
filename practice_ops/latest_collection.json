@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-07 15:26:06 UTC",
+  "generated_at_utc": "2026-07-07 20:25:48 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,7 +57,7 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-07-04T14:50:29Z",
+          "updated_at": "2026-07-07T19:31:44Z",
           "stargazers_count": 211,
           "language": "Python"
         },
@@ -149,7 +149,7 @@
           "full_name": "ncreighton/10b698ff-medical-practice-management-kn",
           "html_url": "https://github.com/ncreighton/10b698ff-medical-practice-management-kn",
           "description": "HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.",
-          "updated_at": "2026-07-06T16:17:28Z",
+          "updated_at": "2026-07-07T16:41:28Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -195,7 +195,7 @@
           "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
           "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
           "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
-          "updated_at": "2026-07-06T15:12:17Z",
+          "updated_at": "2026-07-07T15:31:00Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
