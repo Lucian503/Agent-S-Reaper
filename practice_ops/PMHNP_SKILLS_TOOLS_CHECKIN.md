@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-08 09:07:04 UTC
+- Generated: 2026-07-08 14:56:18 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,8 +51,8 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-08T12:53:33Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-07T15:07:54Z | Appointment booking, calendar sync, reminders, and waitlist management
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-07T12:58:12Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-07-06T12:26:02Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
 - [baranikarthick216/Mediverse-Ai](https://github.com/baranikarthick216/Mediverse-Ai) | stars=1 | lang=Kotlin | updated=2026-07-07T06:50:35Z | MediVerse AI is an AI-powered healthcare platform that helps patients and doctors manage medical information efficiently. It provides features such as symptom analysis, AI-assisted health guidance, patient record management, appointment scheduling, medicine reminders, and secure cloud storage of medical records. Built using React, Node.js, MongoDB,
 - [maroco8774-mar/tabeeb-al3](https://github.com/maroco8774-mar/tabeeb-al3) | stars=0 | lang=HTML | updated=2026-07-02T14:27:12Z | Tabeeb AI helps Arabic-speaking clinics automate patient communication through an intelligent chatbot. Doctors set up their clinic in minutes — the bot handles appointment booking, schedule inquiries, cancellations, and reminders automatically, while strictly avoiding any medical advice. Built for any Arabic-speaking country, any specialty.
