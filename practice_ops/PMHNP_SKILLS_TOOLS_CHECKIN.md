@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-10 10:00:11 UTC
+- Generated: 2026-07-10 15:12:56 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=211 | lang=Python | updated=2026-07-09T21:39:40Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=211 | lang=Python | updated=2026-07-10T10:46:31Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -51,9 +51,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-10T12:59:05Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
+- [shyamthammisetty23-code/MEDGUIDE](https://github.com/shyamthammisetty23-code/MEDGUIDE) | stars=0 | lang=HTML | updated=2026-07-10T11:03:05Z | MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-09T15:03:25Z | Appointment booking, calendar sync, reminders, and waitlist management
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-09T12:49:31Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
-- [shyamthammisetty23-code/MEDGUIDE](https://github.com/shyamthammisetty23-code/MEDGUIDE) | stars=0 | lang=Unknown | updated=2026-07-09T10:27:12Z | MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.
 - [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-07-06T12:26:02Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
 - [baranikarthick216/Mediverse-Ai](https://github.com/baranikarthick216/Mediverse-Ai) | stars=1 | lang=Kotlin | updated=2026-07-07T06:50:35Z | MediVerse AI is an AI-powered healthcare platform that helps patients and doctors manage medical information efficiently. It provides features such as symptom analysis, AI-assisted health guidance, patient record management, appointment scheduling, medicine reminders, and secure cloud storage of medical records. Built using React, Node.js, MongoDB,
 
