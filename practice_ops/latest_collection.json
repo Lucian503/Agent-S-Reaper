@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-11 08:20:05 UTC",
+  "generated_at_utc": "2026-07-11 14:01:14 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,7 +57,7 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-07-10T10:46:31Z",
+          "updated_at": "2026-07-11T13:05:08Z",
           "stargazers_count": 211,
           "language": "Python"
         },
@@ -214,18 +214,18 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
-          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-07-10T15:21:20Z",
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-07-11T12:51:28Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
         {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-07-10T12:59:05Z",
+          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
+          "updated_at": "2026-07-10T15:21:20Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
