@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-11 14:01:14 UTC
+- Generated: 2026-07-11 19:42:12 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,7 +14,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
-- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-07-10T20:12:19Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
+- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-07-11T16:10:47Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [Rupasai22/prior-authorization-rules-engine](https://github.com/Rupasai22/prior-authorization-rules-engine) | stars=0 | lang=Java | updated=2026-06-21T12:23:48Z | A rules-based prior authorization engine for healthcare automation - Spring Boot, React, PostgreSQL, DynamoDB
 - [omesh-s/claimshield-ai](https://github.com/omesh-s/claimshield-ai) | stars=0 | lang=Python | updated=2026-06-06T17:12:31Z | AI-powered prior authorization automation for U.S. healthcare — LangGraph + Gemini + RAG + Next.js
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-06-01T16:14:21Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=211 | lang=Python | updated=2026-07-11T13:05:08Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=211 | lang=Python | updated=2026-07-11T17:17:24Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -38,7 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-10T17:15:01Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
+- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-11T16:55:06Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [Ogbenibiyi/cpt-code-ghl-automation-n8n](https://github.com/Ogbenibiyi/cpt-code-ghl-automation-n8n) | stars=0 | lang=Unknown | updated=2026-06-29T11:36:11Z | I automated patient intake for a medical group to stop manual CPT code lookups and claim denials. GoHighLevel CRM captures form submissions and routes them to n8n webhooks. An AI agent analyzes the procedure description, determines the correct billing codes, and updates a Google Sheet. This cut out data entry and improved billing accuracy.
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
@@ -46,13 +46,13 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
-- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-07-10T15:46:10Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
+- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-07-11T15:35:11Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
 - [anisulislamkiron/healthcare-appointment-automation](https://github.com/anisulislamkiron/healthcare-appointment-automation) | stars=0 | lang=Unknown | updated=2026-05-23T14:24:21Z | A production-ready healthcare automation system built with n8n that synchronizes patient intake forms with Notion, manages bilingual communications via Gmail, and implements a high-priority emergency alert system via Telegram.
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-11T15:06:44Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-11T12:51:28Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
-- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-10T15:21:20Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [shyamthammisetty23-code/MEDGUIDE](https://github.com/shyamthammisetty23-code/MEDGUIDE) | stars=0 | lang=HTML | updated=2026-07-10T11:03:05Z | MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.
 - [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-07-06T12:26:02Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
 - [baranikarthick216/Mediverse-Ai](https://github.com/baranikarthick216/Mediverse-Ai) | stars=1 | lang=Kotlin | updated=2026-07-07T06:50:35Z | MediVerse AI is an AI-powered healthcare platform that helps patients and doctors manage medical information efficiently. It provides features such as symptom analysis, AI-assisted health guidance, patient record management, appointment scheduling, medicine reminders, and secure cloud storage of medical records. Built using React, Node.js, MongoDB,
