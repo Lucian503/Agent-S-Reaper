@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-11 19:42:12 UTC
+- Generated: 2026-07-12 04:06:52 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,7 +22,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=211 | lang=Python | updated=2026-07-11T17:17:24Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=212 | lang=Python | updated=2026-07-12T00:04:30Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
@@ -30,9 +30,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-07-12T00:12:17Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-02T09:15:19Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
 - [chundurimanikanta/ScribeMD](https://github.com/chundurimanikanta/ScribeMD) | stars=0 | lang=Unknown | updated=2026-07-01T03:09:56Z | An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.
-- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-06-27T16:11:05Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-20T06:02:46Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
 - [qirail/ambient-scribe---indian-players](https://github.com/qirail/ambient-scribe---indian-players) | stars=0 | lang=HTML | updated=2026-06-12T03:32:37Z | Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market — covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.
 
