@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-14 08:36:18 UTC
+- Generated: 2026-07-14 14:24:52 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=0 | lang=TypeScript | updated=2026-07-14T11:20:52Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-13T17:32:44Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-13T14:51:34Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [shyamthammisetty23-code/MEDGUIDE](https://github.com/shyamthammisetty23-code/MEDGUIDE) | stars=0 | lang=HTML | updated=2026-07-10T11:03:05Z | MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.
 - [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-07-06T12:26:02Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
-- [baranikarthick216/Mediverse-Ai](https://github.com/baranikarthick216/Mediverse-Ai) | stars=1 | lang=Kotlin | updated=2026-07-07T06:50:35Z | MediVerse AI is an AI-powered healthcare platform that helps patients and doctors manage medical information efficiently. It provides features such as symptom analysis, AI-assisted health guidance, patient record management, appointment scheduling, medicine reminders, and secure cloud storage of medical records. Built using React, Node.js, MongoDB,
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
