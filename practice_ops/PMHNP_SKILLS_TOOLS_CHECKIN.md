@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-13 19:59:20 UTC
+- Generated: 2026-07-14 03:44:27 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -32,9 +32,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - Query: `medical scribe clinical documentation ai`
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-07-13T17:52:23Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-02T09:15:19Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
-- [chundurimanikanta/ScribeMD](https://github.com/chundurimanikanta/ScribeMD) | stars=0 | lang=Unknown | updated=2026-07-01T03:09:56Z | An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.
 - [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-20T06:02:46Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
 - [qirail/ambient-scribe---indian-players](https://github.com/qirail/ambient-scribe---indian-players) | stars=0 | lang=HTML | updated=2026-06-12T03:32:37Z | Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market — covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.
+- [ThatsKostellion/thatskostelion-medscribeai.github.io](https://github.com/ThatsKostellion/thatskostelion-medscribeai.github.io) | stars=0 | lang=PHP | updated=2026-06-07T16:41:55Z | Official website and landing page for MedScribe AI—an intelligent medical scribe solution designed to streamline clinical documentation and medical history from a single dialogue consultation.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
