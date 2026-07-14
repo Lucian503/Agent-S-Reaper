@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-14 14:24:52 UTC",
+  "generated_at_utc": "2026-07-14 19:51:26 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -57,8 +57,8 @@
           "full_name": "healthchainai/HealthChain",
           "html_url": "https://github.com/healthchainai/HealthChain",
           "description": "Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax \ud83d\udcab \ud83c\udfe5",
-          "updated_at": "2026-07-13T16:30:34Z",
-          "stargazers_count": 214,
+          "updated_at": "2026-07-14T17:23:54Z",
+          "stargazers_count": 215,
           "language": "Python"
         },
         {
@@ -149,7 +149,7 @@
           "full_name": "ncreighton/10b698ff-medical-practice-management-kn",
           "html_url": "https://github.com/ncreighton/10b698ff-medical-practice-management-kn",
           "description": "HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.",
-          "updated_at": "2026-07-13T19:34:38Z",
+          "updated_at": "2026-07-14T18:50:15Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -195,7 +195,7 @@
           "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
           "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
           "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
-          "updated_at": "2026-07-13T18:03:47Z",
+          "updated_at": "2026-07-14T17:20:15Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -214,18 +214,10 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
-          "full_name": "Usman-Developer-64/Doctor-Appointment-System",
-          "html_url": "https://github.com/Usman-Developer-64/Doctor-Appointment-System",
-          "description": "A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A",
-          "updated_at": "2026-07-14T11:20:52Z",
-          "stargazers_count": 0,
-          "language": "TypeScript"
-        },
-        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-07-13T17:32:44Z",
+          "updated_at": "2026-07-14T16:51:29Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -233,9 +225,17 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-07-13T14:51:34Z",
+          "updated_at": "2026-07-14T14:35:24Z",
           "stargazers_count": 0,
           "language": "Unknown"
+        },
+        {
+          "full_name": "Usman-Developer-64/Doctor-Appointment-System",
+          "html_url": "https://github.com/Usman-Developer-64/Doctor-Appointment-System",
+          "description": "A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A",
+          "updated_at": "2026-07-14T11:20:52Z",
+          "stargazers_count": 0,
+          "language": "TypeScript"
         },
         {
           "full_name": "shyamthammisetty23-code/MEDGUIDE",
