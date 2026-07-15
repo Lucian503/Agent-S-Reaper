@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-15 08:54:37 UTC
+- Generated: 2026-07-15 14:20:07 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -22,11 +22,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
-- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain) | stars=215 | lang=Python | updated=2026-07-14T17:23:54Z | Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥
 - [harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems](https://github.com/harithardy/FHIR-Based-ETL-Pipeline-HL7-Integration-for-EHR-Systems) | stars=0 | lang=Unknown | updated=2026-05-05T03:23:30Z | Python-based ETL pipeline using FHIR APIs to extract, transform, and load patient data, including HL7 v2 integration for interoperability.
 - [cardonajsebas/ehr-integration-pipeline](https://github.com/cardonajsebas/ehr-integration-pipeline) | stars=2 | lang=Jupyter Notebook | updated=2026-04-14T14:23:46Z | Python ETL pipeline integrating FHIR-compliant EHR data with Salesforce Health Cloud via the HAPI FHIR API.
 - [drkaushiksarkar/health-informatics-toolkit](https://github.com/drkaushiksarkar/health-informatics-toolkit) | stars=0 | lang=Python | updated=2026-04-05T11:57:51Z | Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability
 - [shreyaredd/FHIR-Healthcare-Data-Integration](https://github.com/shreyaredd/FHIR-Healthcare-Data-Integration) | stars=0 | lang=Python | updated=2026-03-10T07:28:57Z | Python-based mapping engine that transforms legacy hospital data into standardized HL7 FHIR R4 resources. Focused on healthcare data interoperability and EHR compatibility.
+- [Medamineelkhattabi/AIAgentsMedical](https://github.com/Medamineelkhattabi/AIAgentsMedical) | stars=1 | lang=Python | updated=2025-12-02T14:24:03Z | Advanced Clinical Decision Support System is a Python–Flask app that integrates AI with EHR (FHIR/HL7) for diagnosis, 5-level triage, and real-time patient assessment. With 90%+ accuracy, live analytics, and a modern dashboard, it demonstrates how AI enhances clinical decision-making.
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
