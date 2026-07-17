@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-17 14:12:42 UTC",
+  "generated_at_utc": "2026-07-17 19:40:15 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -195,7 +195,7 @@
           "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
           "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
           "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
-          "updated_at": "2026-07-16T17:55:18Z",
+          "updated_at": "2026-07-17T17:55:04Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -217,7 +217,7 @@
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-07-16T17:25:12Z",
+          "updated_at": "2026-07-17T17:19:54Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -225,7 +225,7 @@
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-07-16T15:00:42Z",
+          "updated_at": "2026-07-17T14:46:18Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
