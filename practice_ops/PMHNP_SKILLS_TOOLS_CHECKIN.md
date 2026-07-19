@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-19 14:02:01 UTC
+- Generated: 2026-07-19 19:41:38 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,7 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-18T19:27:13Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
+- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-19T19:33:18Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [Ogbenibiyi/cpt-code-ghl-automation-n8n](https://github.com/Ogbenibiyi/cpt-code-ghl-automation-n8n) | stars=0 | lang=Unknown | updated=2026-06-29T11:36:11Z | I automated patient intake for a medical group to stop manual CPT code lookups and claim denials. GoHighLevel CRM captures form submissions and routes them to n8n webhooks. An AI agent analyzes the procedure description, determines the correct billing codes, and updates a Google Sheet. This cut out data entry and improved billing accuracy.
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
@@ -46,13 +46,13 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
-- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-07-18T17:44:04Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
+- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-07-19T17:45:24Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
 - [anisulislamkiron/healthcare-appointment-automation](https://github.com/anisulislamkiron/healthcare-appointment-automation) | stars=0 | lang=Unknown | updated=2026-05-23T14:24:21Z | A production-ready healthcare automation system built with n8n that synchronizes patient intake forms with Notion, manages bilingual communications via Gmail, and implements a high-priority emergency alert system via Telegram.
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-18T17:03:17Z | Appointment booking, calendar sync, reminders, and waitlist management
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-18T14:34:37Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
+- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-19T17:14:38Z | Appointment booking, calendar sync, reminders, and waitlist management
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-19T14:38:43Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=0 | lang=TypeScript | updated=2026-07-14T11:20:52Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
 - [shyamthammisetty23-code/MEDGUIDE](https://github.com/shyamthammisetty23-code/MEDGUIDE) | stars=0 | lang=HTML | updated=2026-07-10T11:03:05Z | MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.
 - [chaitanyashimpi05/Clinic-Appointment-Management-System](https://github.com/chaitanyashimpi05/Clinic-Appointment-Management-System) | stars=0 | lang=Python | updated=2026-07-06T12:26:02Z | "A FastAPI application secured with JWT authentication that enables  patient registration, doctor scheduling, appointment booking, medical  record management, and automated appointment reminders."
