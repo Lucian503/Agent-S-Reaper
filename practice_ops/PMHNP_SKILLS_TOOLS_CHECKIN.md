@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-23 19:55:43 UTC
+- Generated: 2026-07-24 03:54:02 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,7 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-22T20:24:17Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
+- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-23T20:37:11Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [Ogbenibiyi/cpt-code-ghl-automation-n8n](https://github.com/Ogbenibiyi/cpt-code-ghl-automation-n8n) | stars=0 | lang=Unknown | updated=2026-06-29T11:36:11Z | I automated patient intake for a medical group to stop manual CPT code lookups and claim denials. GoHighLevel CRM captures form submissions and routes them to n8n webhooks. An AI agent analyzes the procedure description, determines the correct billing codes, and updates a Google Sheet. This cut out data entry and improved billing accuracy.
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
@@ -51,10 +51,10 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=0 | lang=TypeScript | updated=2026-07-23T19:56:33Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-23T18:06:52Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-23T15:27:46Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [neelimaneela/AI-Healthcare-Assistant](https://github.com/neelimaneela/AI-Healthcare-Assistant) | stars=0 | lang=TypeScript | updated=2026-07-23T10:14:00Z | AI-powered Healthcare Assistant built with React, Vite, TypeScript, and Supabase. Features include AI symptom checking, medical record management, medication reminders, hospital finder, emergency SOS, appointment scheduling, and personalized health recommendations
-- [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=0 | lang=TypeScript | updated=2026-07-14T11:20:52Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
 - [shyamthammisetty23-code/MEDGUIDE](https://github.com/shyamthammisetty23-code/MEDGUIDE) | stars=0 | lang=HTML | updated=2026-07-10T11:03:05Z | MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.
 
 ### Telehealth Workflow Support
