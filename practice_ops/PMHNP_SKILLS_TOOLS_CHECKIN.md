@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-26 14:09:18 UTC
+- Generated: 2026-07-26 19:44:18 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [chmaidev/medflow-automate](https://github.com/chmaidev/medflow-automate) | stars=0 | lang=Python | updated=2026-07-26T16:16:58Z | A modular healthcare administration automation platform that provides production-ready APIs for patient intake, scheduling, eligibility verification, prior authorization, referrals, chart prep, messaging, lab follow-up, refill routing, records requests, recalls, and billing denial support.
 - [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-07-14T05:02:10Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [Rupasai22/prior-authorization-rules-engine](https://github.com/Rupasai22/prior-authorization-rules-engine) | stars=0 | lang=Java | updated=2026-06-21T12:23:48Z | A rules-based prior authorization engine for healthcare automation - Spring Boot, React, PostgreSQL, DynamoDB
 - [omesh-s/claimshield-ai](https://github.com/omesh-s/claimshield-ai) | stars=0 | lang=Python | updated=2026-06-06T17:12:31Z | AI-powered prior authorization automation for U.S. healthcare — LangGraph + Gemini + RAG + Next.js
 - [ranjitnk/healthcare-auth](https://github.com/ranjitnk/healthcare-auth) | stars=1 | lang=Python | updated=2026-06-01T16:14:21Z | Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.
-- [ankitakarbhari/healthauth-ai](https://github.com/ankitakarbhari/healthauth-ai) | stars=1 | lang=TypeScript | updated=2026-06-14T17:14:45Z | AI-powered healthcare prior authorization automation system that analyzes medical documents, extracts ICD/CPT codes, verifies insurance requirements, and generates automated approval or denial decisions using FastAPI, React, and AI models.
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -46,14 +46,14 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
-- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-07-25T19:31:49Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
+- [ncreighton/80b0eaf3-healthcare-medical-client-on](https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on) | stars=0 | lang=Unknown | updated=2026-07-26T19:31:24Z | Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely—automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i
 - [anisulislamkiron/healthcare-appointment-automation](https://github.com/anisulislamkiron/healthcare-appointment-automation) | stars=0 | lang=Unknown | updated=2026-05-23T14:24:21Z | A production-ready healthcare automation system built with n8n that synchronizes patient intake forms with Notion, manages bilingual communications via Gmail, and implements a high-priority emergency alert system via Telegram.
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=1 | lang=Unknown | updated=2026-07-26T18:54:41Z | Appointment booking, calendar sync, reminders, and waitlist management
+- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-26T16:14:35Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [lasya2941/Doctor-Appointment-Agent](https://github.com/lasya2941/Doctor-Appointment-Agent) | stars=0 | lang=Unknown | updated=2026-07-26T06:50:57Z | The Doctor Appointment Agent helps users book and manage medical appointments by collecting details such as symptoms, preferred doctor, specialty, date, and time. It organizes appointment requests, sends confirmations and reminders, and simplifies the scheduling process without providing medical diagnosis or treatment.
-- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-25T18:55:33Z | Appointment booking, calendar sync, reminders, and waitlist management
-- [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-25T15:34:43Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=0 | lang=TypeScript | updated=2026-07-23T19:56:33Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
 - [neelimaneela/AI-Healthcare-Assistant](https://github.com/neelimaneela/AI-Healthcare-Assistant) | stars=0 | lang=TypeScript | updated=2026-07-23T10:14:00Z | AI-powered Healthcare Assistant built with React, Vite, TypeScript, and Supabase. Features include AI symptom checking, medical record management, medication reminders, hospital finder, emergency SOS, appointment scheduling, and personalized health recommendations
 
