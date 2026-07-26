@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-26 04:06:39 UTC",
+  "generated_at_utc": "2026-07-26 08:57:13 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "lasya2941/Doctor-Appointment-Agent",
+          "html_url": "https://github.com/lasya2941/Doctor-Appointment-Agent",
+          "description": "The Doctor Appointment Agent helps users book and manage medical appointments by collecting details such as symptoms, preferred doctor, specialty, date, and time. It organizes appointment requests, sends confirmations and reminders, and simplifies the scheduling process without providing medical diagnosis or treatment.",
+          "updated_at": "2026-07-26T06:50:57Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
           "description": "Appointment booking, calendar sync, reminders, and waitlist management",
@@ -244,14 +252,6 @@
           "updated_at": "2026-07-23T10:14:00Z",
           "stargazers_count": 0,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "shyamthammisetty23-code/MEDGUIDE",
-          "html_url": "https://github.com/shyamthammisetty23-code/MEDGUIDE",
-          "description": "MedGuide is a digital healthcare platform that helps users manage their health by providing appointment scheduling, medication reminders, health record management, and access to medical information in one convenient application.",
-          "updated_at": "2026-07-10T11:03:05Z",
-          "stargazers_count": 0,
-          "language": "HTML"
         }
       ]
     },
