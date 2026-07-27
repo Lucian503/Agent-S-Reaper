@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-26 19:44:18 UTC
+- Generated: 2026-07-27 04:22:51 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -38,7 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-25T22:13:10Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
+- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-07-26T22:34:57Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [Ogbenibiyi/cpt-code-ghl-automation-n8n](https://github.com/Ogbenibiyi/cpt-code-ghl-automation-n8n) | stars=0 | lang=Unknown | updated=2026-06-29T11:36:11Z | I automated patient intake for a medical group to stop manual CPT code lookups and claim denials. GoHighLevel CRM captures form submissions and routes them to n8n webhooks. An AI agent analyzes the procedure description, determines the correct billing codes, and updates a Google Sheet. This cut out data entry and improved billing accuracy.
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
@@ -59,6 +59,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
+- [ncreighton/58c38c2b-healthtech-telehealth-expens](https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens) | stars=0 | lang=Unknown | updated=2026-07-26T22:48:20Z | manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Hea
+- [ncreighton/d92942ca-healthtech-telehealth-invoic](https://github.com/ncreighton/d92942ca-healthtech-telehealth-invoic) | stars=0 | lang=Unknown | updated=2026-07-26T22:47:47Z | manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Healthtech & Te
+- [ncreighton/d9bf3f41-healthtech-telehealth-report](https://github.com/ncreighton/d9bf3f41-healthtech-telehealth-report) | stars=0 | lang=Unknown | updated=2026-07-26T22:47:36Z | Professional healthtech telehealth n8n automation workflow — without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Healthtech & Telehealth Report Generation And Delivery Automation — fully c
 - [hamzahelhafdaoui/AppointmentLinkSender](https://github.com/hamzahelhafdaoui/AppointmentLinkSender) | stars=0 | lang=JavaScript | updated=2025-12-30T00:57:11Z | The Doxy Link Sender is a lightweight automation tool designed to streamline telehealth workflows by automatically sending secure  video visit links to patients via SMS. It pulls appointment data from a Google Sheet, matches patients to their scheduled provider , generates the correct Doxy link, and sends it out at the appropriate moment
 
 ## 4) Agent-S Skill Backlog for Solo PMHNP
