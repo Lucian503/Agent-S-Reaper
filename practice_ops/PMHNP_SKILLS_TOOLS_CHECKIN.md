@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-29 09:22:04 UTC
+- Generated: 2026-07-29 14:51:13 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
-- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-07-28T22:40:21Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
+- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-07-29T10:28:32Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
+- [mtravassos96/akesios-scribe](https://github.com/mtravassos96/akesios-scribe) | stars=0 | lang=Unknown | updated=2026-07-29T11:32:02Z | Transform clinical conversations into structured medical documentation using local AI.
 - [Snehagupta13/MediScribe_AI](https://github.com/Snehagupta13/MediScribe_AI) | stars=1 | lang=JavaScript | updated=2026-07-28T05:46:32Z | MediScribe AI is a voice-based clinical assistant that turns a recorded doctor–patient conversation into structured medical documentation. It transcribes and diarizes the audio (WhisperX + speaker diarization), then runs the transcript through LLM agents that generate a clinical note, flag urgent symptoms, produce a plain-language summary, and opti
 - [Prat-codes3/Optimised_MedScribe](https://github.com/Prat-codes3/Optimised_MedScribe) | stars=1 | lang=Python | updated=2026-07-02T09:15:19Z | AI-powered medical transcription and clinical note generation system that converts doctor–patient conversations into structured medical documentation.
 - [danidea1997-cell/clinicalscribe-ai](https://github.com/danidea1997-cell/clinicalscribe-ai) | stars=1 | lang=TypeScript | updated=2026-06-20T06:02:46Z | AI-powered medical scribe that converts doctor-patient conversations into structured clinical documentation, including SOAP notes, clinical summaries, and key findings.
-- [qirail/ambient-scribe---indian-players](https://github.com/qirail/ambient-scribe---indian-players) | stars=0 | lang=HTML | updated=2026-06-12T03:32:37Z | Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market — covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-29 09:22:04 UTC",
+  "generated_at_utc": "2026-07-29 14:51:13 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -103,7 +103,15 @@
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
-          "updated_at": "2026-07-28T22:40:21Z",
+          "updated_at": "2026-07-29T10:28:32Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "mtravassos96/akesios-scribe",
+          "html_url": "https://github.com/mtravassos96/akesios-scribe",
+          "description": "Transform clinical conversations into structured medical documentation using local AI.",
+          "updated_at": "2026-07-29T11:32:02Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -130,14 +138,6 @@
           "updated_at": "2026-06-20T06:02:46Z",
           "stargazers_count": 1,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "qirail/ambient-scribe---indian-players",
-          "html_url": "https://github.com/qirail/ambient-scribe---indian-players",
-          "description": "Curated landscape scan of 16 ambient clinical documentation tools, AI medical scribes, and voice-to-discrete-data (V2DD) products for the Indian healthcare market \u2014 covering pricing, Indian language support, ambient vs. dictation classification, multi-speaker capability, and validation evidence.",
-          "updated_at": "2026-06-12T03:32:37Z",
-          "stargazers_count": 0,
-          "language": "HTML"
         }
       ]
     },
