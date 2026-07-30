@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-07-30 09:14:37 UTC
+- Generated: 2026-07-30 14:42:16 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,10 +51,10 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=1 | lang=Unknown | updated=2026-07-28T19:13:54Z | Appointment booking, calendar sync, reminders, and waitlist management
+- [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=1 | lang=TypeScript | updated=2026-07-30T13:45:19Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
+- [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-07-30T12:32:26Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-07-28T16:24:01Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [lasya2941/Doctor-Appointment-Agent](https://github.com/lasya2941/Doctor-Appointment-Agent) | stars=0 | lang=Unknown | updated=2026-07-26T06:50:57Z | The Doctor Appointment Agent helps users book and manage medical appointments by collecting details such as symptoms, preferred doctor, specialty, date, and time. It organizes appointment requests, sends confirmations and reminders, and simplifies the scheduling process without providing medical diagnosis or treatment.
-- [Usman-Developer-64/Doctor-Appointment-System](https://github.com/Usman-Developer-64/Doctor-Appointment-System) | stars=0 | lang=TypeScript | updated=2026-07-23T19:56:33Z | A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A
 - [neelimaneela/AI-Healthcare-Assistant](https://github.com/neelimaneela/AI-Healthcare-Assistant) | stars=0 | lang=TypeScript | updated=2026-07-23T10:14:00Z | AI-powered Healthcare Assistant built with React, Vite, TypeScript, and Supabase. Features include AI symptom checking, medical record management, medication reminders, hospital finder, emergency SOS, appointment scheduling, and personalized health recommendations
 
 ### Telehealth Workflow Support
