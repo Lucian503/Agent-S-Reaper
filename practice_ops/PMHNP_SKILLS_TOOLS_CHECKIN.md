@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-01 04:01:34 UTC
+- Generated: 2026-08-01 08:41:36 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,7 +30,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
-- [Syed-Mohsin-Ali786/MediScribe-AI](https://github.com/Syed-Mohsin-Ali786/MediScribe-AI) | stars=0 | lang=Python | updated=2026-07-31T17:39:45Z | MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.
+- [Syed-Mohsin-Ali786/MediScribe-AI](https://github.com/Syed-Mohsin-Ali786/MediScribe-AI) | stars=0 | lang=Python | updated=2026-08-01T04:19:36Z | MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.
 - [Snehagupta13/MediScribe_AI](https://github.com/Snehagupta13/MediScribe_AI) | stars=1 | lang=JavaScript | updated=2026-07-31T04:50:34Z | MediScribe AI is a voice-based clinical assistant that turns a recorded doctor–patient conversation into structured medical documentation. It transcribes and diarizes the audio (WhisperX + speaker diarization), then runs the transcript through LLM agents that generate a clinical note, flag urgent symptoms, produce a plain-language summary, and opti
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=0 | lang=Unknown | updated=2026-07-30T02:49:17Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was…
 - [mtravassos96/akesios-scribe](https://github.com/mtravassos96/akesios-scribe) | stars=0 | lang=Python | updated=2026-07-30T01:07:31Z | Transform clinical conversations into structured medical documentation using local AI.
