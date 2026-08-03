@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-02 19:43:22 UTC",
+  "generated_at_utc": "2026-08-03 04:06:27 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,43 +8,43 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
+          "full_name": "api-evangelist/clicks",
+          "html_url": "https://github.com/api-evangelist/clicks",
+          "description": "Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denials management, and patient refunds), patient access, and other repetitive tasks by\u2026",
+          "updated_at": "2026-08-02T21:58:56Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/bookend",
+          "html_url": "https://github.com/api-evangelist/bookend",
+          "description": "Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, eligibility, benefits, and reimbursement requirements from hundreds of medical and pharmacy\u2026",
+          "updated_at": "2026-08-02T21:17:15Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/akasa",
+          "html_url": "https://github.com/api-evangelist/akasa",
+          "description": "AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
+          "updated_at": "2026-08-02T20:38:24Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/candid-health",
+          "html_url": "https://github.com/api-evangelist/candid-health",
+          "description": "Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue cycle management for healthcare providers.",
+          "updated_at": "2026-08-02T21:46:57Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "chmaidev/medflow-automate",
           "html_url": "https://github.com/chmaidev/medflow-automate",
           "description": "A modular healthcare administration automation platform that provides production-ready APIs for patient intake, scheduling, eligibility verification, prior authorization, referrals, chart prep, messaging, lab follow-up, refill routing, records requests, recalls, and billing denial support.",
           "updated_at": "2026-07-26T16:16:58Z",
           "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
-          "description": "Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.",
-          "updated_at": "2026-07-14T05:02:10Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "Rupasai22/prior-authorization-rules-engine",
-          "html_url": "https://github.com/Rupasai22/prior-authorization-rules-engine",
-          "description": "A rules-based prior authorization engine for healthcare automation - Spring Boot, React, PostgreSQL, DynamoDB",
-          "updated_at": "2026-06-21T12:23:48Z",
-          "stargazers_count": 0,
-          "language": "Java"
-        },
-        {
-          "full_name": "omesh-s/claimshield-ai",
-          "html_url": "https://github.com/omesh-s/claimshield-ai",
-          "description": "AI-powered prior authorization automation for U.S. healthcare \u2014 LangGraph + Gemini + RAG + Next.js",
-          "updated_at": "2026-06-06T17:12:31Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "ranjitnk/healthcare-auth",
-          "html_url": "https://github.com/ranjitnk/healthcare-auth",
-          "description": "Production-grade Healthcare Prior Authorization framework featuring AI-driven OCR pipelines, HIPAA-compliant architecture, and secure JWT authentication.",
-          "updated_at": "2026-06-01T16:14:21Z",
-          "stargazers_count": 1,
           "language": "Python"
         }
       ]
@@ -100,44 +100,44 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
-          "full_name": "api-evangelist/augmedix",
-          "html_url": "https://github.com/api-evangelist/augmedix",
-          "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry. Founded in 2012, the company went public on Nasdaq in 2021 (AUGX) and was\u2026",
-          "updated_at": "2026-08-02T14:29:58Z",
+          "full_name": "Syed-Mohsin-Ali786/MediScribe-AI",
+          "html_url": "https://github.com/Syed-Mohsin-Ali786/MediScribe-AI",
+          "description": "MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.",
+          "updated_at": "2026-08-03T02:21:33Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
+          "full_name": "api-evangelist/deepscribe",
+          "html_url": "https://github.com/api-evangelist/deepscribe",
+          "description": "DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured\u2026",
+          "updated_at": "2026-08-02T22:42:46Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
         {
-          "full_name": "Syed-Mohsin-Ali786/MediScribe-AI",
-          "html_url": "https://github.com/Syed-Mohsin-Ali786/MediScribe-AI",
-          "description": "MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.",
-          "updated_at": "2026-08-02T11:23:47Z",
+          "full_name": "api-evangelist/freed-ai",
+          "html_url": "https://github.com/api-evangelist/freed-ai",
+          "description": "Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referral letters, and ICD-10 / CPT coding suggestions, then transfers the finalized note\u2026",
+          "updated_at": "2026-08-02T23:19:07Z",
           "stargazers_count": 0,
-          "language": "Python"
+          "language": "Unknown"
         },
         {
-          "full_name": "Snehagupta13/MediScribe_AI",
-          "html_url": "https://github.com/Snehagupta13/MediScribe_AI",
-          "description": "MediScribe AI is a voice-based clinical assistant that turns a recorded doctor\u2013patient conversation into structured medical documentation. It transcribes and diarizes the audio (WhisperX + speaker diarization), then runs the transcript through LLM agents that generate a clinical note, flag urgent symptoms, produce a plain-language summary, and opti",
-          "updated_at": "2026-07-31T04:50:34Z",
-          "stargazers_count": 1,
-          "language": "JavaScript"
-        },
-        {
-          "full_name": "mtravassos96/akesios-scribe",
-          "html_url": "https://github.com/mtravassos96/akesios-scribe",
-          "description": "Transform clinical conversations into structured medical documentation using local AI.",
-          "updated_at": "2026-07-30T01:07:31Z",
+          "full_name": "api-evangelist/heidi-health",
+          "html_url": "https://github.com/api-evangelist/heidi-health",
+          "description": "Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and\u2026",
+          "updated_at": "2026-08-03T00:00:31Z",
           "stargazers_count": 0,
-          "language": "Python"
+          "language": "Unknown"
         },
         {
-          "full_name": "Prat-codes3/Optimised_MedScribe",
-          "html_url": "https://github.com/Prat-codes3/Optimised_MedScribe",
-          "description": "AI-powered medical transcription and clinical note generation system that converts doctor\u2013patient conversations into structured medical documentation.",
-          "updated_at": "2026-07-02T09:15:19Z",
-          "stargazers_count": 1,
-          "language": "Python"
+          "full_name": "api-evangelist/augmedix",
+          "html_url": "https://github.com/api-evangelist/augmedix",
+          "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry.",
+          "updated_at": "2026-08-02T20:59:19Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
         }
       ]
     },
@@ -149,7 +149,7 @@
           "full_name": "ncreighton/10b698ff-medical-practice-management-kn",
           "html_url": "https://github.com/ncreighton/10b698ff-medical-practice-management-kn",
           "description": "HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.",
-          "updated_at": "2026-07-28T22:04:45Z",
+          "updated_at": "2026-08-02T23:12:40Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -195,7 +195,7 @@
           "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
           "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
           "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
-          "updated_at": "2026-07-28T19:56:49Z",
+          "updated_at": "2026-08-02T19:47:34Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -230,6 +230,14 @@
           "language": "Unknown"
         },
         {
+          "full_name": "api-evangelist/klara",
+          "html_url": "https://github.com/api-evangelist/klara",
+          "description": "Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.",
+          "updated_at": "2026-08-03T00:50:13Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
           "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
@@ -244,14 +252,6 @@
           "updated_at": "2026-07-30T13:45:19Z",
           "stargazers_count": 1,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "lasya2941/Doctor-Appointment-Agent",
-          "html_url": "https://github.com/lasya2941/Doctor-Appointment-Agent",
-          "description": "The Doctor Appointment Agent helps users book and manage medical appointments by collecting details such as symptoms, preferred doctor, specialty, date, and time. It organizes appointment requests, sends confirmations and reminders, and simplifies the scheduling process without providing medical diagnosis or treatment.",
-          "updated_at": "2026-07-26T06:50:57Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
@@ -259,6 +259,14 @@
       "label": "Telehealth Workflow Support",
       "query": "telehealth workflow automation",
       "repos": [
+        {
+          "full_name": "ncreighton/58c38c2b-healthtech-telehealth-expens",
+          "html_url": "https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens",
+          "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Hea",
+          "updated_at": "2026-08-02T20:36:11Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "ncreighton/d92942ca-healthtech-telehealth-invoic",
           "html_url": "https://github.com/ncreighton/d92942ca-healthtech-telehealth-invoic",
@@ -272,14 +280,6 @@
           "html_url": "https://github.com/ncreighton/d9bf3f41-healthtech-telehealth-report",
           "description": "Professional healthtech telehealth n8n automation workflow \u2014 without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed.  ## What's Included  - Healthtech & Telehealth Report Generation And Delivery Automation \u2014 fully c",
           "updated_at": "2026-08-02T16:40:38Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/58c38c2b-healthtech-telehealth-expens",
-          "html_url": "https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens",
-          "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Hea",
-          "updated_at": "2026-07-28T20:41:38Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
