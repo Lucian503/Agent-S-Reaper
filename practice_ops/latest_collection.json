@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-04 03:48:57 UTC",
+  "generated_at_utc": "2026-08-04 09:20:37 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -27,8 +27,8 @@
           "full_name": "api-evangelist/ruma-care",
           "html_url": "https://github.com/api-evangelist/ruma-care",
           "description": "Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical\u2026",
-          "updated_at": "2026-08-04T01:32:04Z",
-          "stargazers_count": 0,
+          "updated_at": "2026-08-04T08:59:27Z",
+          "stargazers_count": 1,
           "language": "Unknown"
         },
         {
@@ -127,8 +127,8 @@
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry.",
-          "updated_at": "2026-08-03T16:37:02Z",
-          "stargazers_count": 0,
+          "updated_at": "2026-08-04T09:01:40Z",
+          "stargazers_count": 1,
           "language": "Unknown"
         },
         {
