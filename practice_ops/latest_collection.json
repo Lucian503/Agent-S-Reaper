@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-04 15:02:15 UTC",
+  "generated_at_utc": "2026-08-04 20:09:14 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -192,18 +192,18 @@
       "query": "patient intake form automation healthcare",
       "repos": [
         {
-          "full_name": "api-evangelist/roger",
-          "html_url": "https://github.com/api-evangelist/roger",
-          "description": "Roger (operated by Sanos Services GmbH, Berlin, Germany) is a B2B SaaS practice-management platform for dental clinics. It layers automation and AI onto existing German dental practice-management systems (PVS) such as CGM Z1, Charly, Dampsoft, Evident and Dento Office, adding patient recall, digital intake forms, WhatsApp/SMS communication\u2026",
-          "updated_at": "2026-08-04T01:31:47Z",
+          "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
+          "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
+          "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
+          "updated_at": "2026-08-04T19:34:11Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
         {
-          "full_name": "ncreighton/80b0eaf3-healthcare-medical-client-on",
-          "html_url": "https://github.com/ncreighton/80b0eaf3-healthcare-medical-client-on",
-          "description": "Your medical practice is drowning in manual patient intake forms, redundant data entry, and compliance bottlenecks that delay care. The Healthcare & Medical Client Onboarding Automation N8N Workflow eliminates these friction points entirely\u2014automating every step from patient inquiry to verified enrollment while maintaining HIPAA compliance.  This i",
-          "updated_at": "2026-08-03T19:08:13Z",
+          "full_name": "api-evangelist/roger",
+          "html_url": "https://github.com/api-evangelist/roger",
+          "description": "Roger (operated by Sanos Services GmbH, Berlin, Germany) is a B2B SaaS practice-management platform for dental clinics. It layers automation and AI onto existing German dental practice-management systems (PVS) such as CGM Z1, Charly, Dampsoft, Evident and Dento Office, adding patient recall, digital intake forms, WhatsApp/SMS communication\u2026",
+          "updated_at": "2026-08-04T01:31:47Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -222,18 +222,34 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
-          "full_name": "api-evangelist/klara",
-          "html_url": "https://github.com/api-evangelist/klara",
-          "description": "Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.",
-          "updated_at": "2026-08-04T01:11:16Z",
+          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
+          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
+          "updated_at": "2026-08-04T18:49:29Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
         {
-          "full_name": "ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "html_url": "https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot",
-          "description": "Appointment booking, calendar sync, reminders, and waitlist management",
-          "updated_at": "2026-08-03T18:26:03Z",
+          "full_name": "Thisurika/Medi-care",
+          "html_url": "https://github.com/Thisurika/Medi-care",
+          "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
+          "updated_at": "2026-08-04T18:03:50Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
+          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
+          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
+          "updated_at": "2026-08-04T15:49:02Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/klara",
+          "html_url": "https://github.com/api-evangelist/klara",
+          "description": "Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.",
+          "updated_at": "2026-08-04T01:11:16Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -244,22 +260,6 @@
           "updated_at": "2026-08-03T16:53:20Z",
           "stargazers_count": 1,
           "language": "TypeScript"
-        },
-        {
-          "full_name": "ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "html_url": "https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul",
-          "description": "Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.",
-          "updated_at": "2026-08-03T15:31:30Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "neelimaneela/medisync",
-          "html_url": "https://github.com/neelimaneela/medisync",
-          "description": "AI-powered Healthcare Assistant built with React, Vite, TypeScript, and Supabase. Features include AI symptom checking, medical record management, medication reminders, hospital finder, emergency SOS, appointment scheduling, and personalized health recommendations",
-          "updated_at": "2026-08-03T13:35:55Z",
-          "stargazers_count": 0,
-          "language": "TypeScript"
         }
       ]
     },
@@ -268,18 +268,10 @@
       "query": "telehealth workflow automation",
       "repos": [
         {
-          "full_name": "ncreighton/58c38c2b-healthtech-telehealth-expens",
-          "html_url": "https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens",
-          "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Hea",
-          "updated_at": "2026-08-03T20:00:07Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
           "full_name": "ncreighton/d92942ca-healthtech-telehealth-invoic",
           "html_url": "https://github.com/ncreighton/d92942ca-healthtech-telehealth-invoic",
           "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed.  ## What's Included  - Healthtech & Te",
-          "updated_at": "2026-08-03T17:15:48Z",
+          "updated_at": "2026-08-04T17:38:52Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -287,7 +279,15 @@
           "full_name": "ncreighton/d9bf3f41-healthtech-telehealth-report",
           "html_url": "https://github.com/ncreighton/d9bf3f41-healthtech-telehealth-report",
           "description": "Professional healthtech telehealth n8n automation workflow \u2014 without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed.  ## What's Included  - Healthtech & Telehealth Report Generation And Delivery Automation \u2014 fully c",
-          "updated_at": "2026-08-03T17:15:10Z",
+          "updated_at": "2026-08-04T17:40:07Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "ncreighton/58c38c2b-healthtech-telehealth-expens",
+          "html_url": "https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens",
+          "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Hea",
+          "updated_at": "2026-08-03T20:00:07Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
