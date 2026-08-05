@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-05 03:44:13 UTC",
+  "generated_at_utc": "2026-08-05 09:18:57 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -254,11 +254,11 @@
           "language": "Unknown"
         },
         {
-          "full_name": "Usman-Developer-64/Doctor-Appointment-System",
-          "html_url": "https://github.com/Usman-Developer-64/Doctor-Appointment-System",
-          "description": "A **Doctor Appointment System** is a smart digital platform that lets patients find specialists, view real-time schedules, and book appointments 24/7. By automating reminders and managing medical records, it eliminates long queues for patients and streamlines daily schedules for healthcare providers.A",
-          "updated_at": "2026-08-03T16:53:20Z",
-          "stargazers_count": 1,
+          "full_name": "neelimaneela/medisync",
+          "html_url": "https://github.com/neelimaneela/medisync",
+          "description": "AI-powered Healthcare Assistant built with React, Vite, TypeScript, and Supabase. Features include AI symptom checking, medical record management, medication reminders, hospital finder, emergency SOS, appointment scheduling, and personalized health recommendations",
+          "updated_at": "2026-08-03T13:35:55Z",
+          "stargazers_count": 0,
           "language": "TypeScript"
         }
       ]
