@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-05 20:08:51 UTC
+- Generated: 2026-08-06 03:50:10 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,7 +14,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
-- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-08-05T19:41:10Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
+- [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-08-06T00:07:46Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [api-evangelist/standard-practice](https://github.com/api-evangelist/standard-practice) | stars=0 | lang=Unknown | updated=2026-08-04T01:37:32Z | Standard Practice builds voice AI for healthcare revenue cycle management (RCM) teams. Its AI agents place and handle outbound phone calls to insurance payers to automate administrative work — claim status follow-up, benefits verification, prior authorization, and EDI enrollment — so billing teams can scale collections and get paid more, faster.
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-08-04T01:34:56Z | Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-08-04T08:59:27Z | Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical…
@@ -38,7 +38,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
-- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-08-04T21:56:54Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
+- [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-08-05T21:40:11Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [Ogbenibiyi/cpt-code-ghl-automation-n8n](https://github.com/Ogbenibiyi/cpt-code-ghl-automation-n8n) | stars=0 | lang=Unknown | updated=2026-06-29T11:36:11Z | I automated patient intake for a medical group to stop manual CPT code lookups and claim denials. GoHighLevel CRM captures form submissions and routes them to n8n webhooks. An AI agent analyzes the procedure description, determines the correct billing codes, and updates a Google Sheet. This cut out data entry and improved billing accuracy.
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
