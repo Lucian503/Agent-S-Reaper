@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-07 07:51:58 UTC
+- Generated: 2026-08-07 13:49:50 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -52,11 +52,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [prashant-cr/Clinic-front-desk-MCP-server](https://github.com/prashant-cr/Clinic-front-desk-MCP-server) | stars=0 | lang=Python | updated=2026-08-07T12:23:33Z | AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs — local SQLite, no clinical advice.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-08-05T18:31:08Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-08-05T15:24:59Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-08-04T18:03:50Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-08-04T01:11:16Z | Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.
-- [neelimaneela/medisync](https://github.com/neelimaneela/medisync) | stars=0 | lang=TypeScript | updated=2026-08-03T13:35:55Z | AI-powered Healthcare Assistant built with React, Vite, TypeScript, and Supabase. Features include AI symptom checking, medical record management, medication reminders, hospital finder, emergency SOS, appointment scheduling, and personalized health recommendations
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
