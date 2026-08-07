@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07 13:49:50 UTC",
+  "generated_at_utc": "2026-08-07 19:30:26 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "vgarg1234/Medical-Website-",
+          "html_url": "https://github.com/vgarg1234/Medical-Website-",
+          "description": "MedCare Solutions is an AI-powered healthcare platform that streamlines medical billing, coding, provider credentialing, insurance eligibility verification, prior authorization, and revenue cycle management to enhance operational efficiency, ensure compliance, accelerate reimbursements, and improve patient care through intelligent automation.",
+          "updated_at": "2026-08-07T14:18:02Z",
+          "stargazers_count": 0,
+          "language": "CSS"
+        },
         {
           "full_name": "AlanBuildsAI/authflow-ai-pa-readiness-case-study",
           "html_url": "https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study",
@@ -37,14 +45,6 @@
           "description": "Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical\u2026",
           "updated_at": "2026-08-04T08:59:27Z",
           "stargazers_count": 1,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
-          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
-          "description": "Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth requirements entirely through payer-provider collaboration), and a shared dashboard for tracking\u2026",
-          "updated_at": "2026-08-04T01:31:22Z",
-          "stargazers_count": 0,
           "language": "Unknown"
         }
       ]
@@ -146,6 +146,14 @@
       "query": "medical billing coding automation",
       "repos": [
         {
+          "full_name": "vgarg1234/Medical-Website-",
+          "html_url": "https://github.com/vgarg1234/Medical-Website-",
+          "description": "MedCare Solutions is an AI-powered healthcare platform that streamlines medical billing, coding, provider credentialing, insurance eligibility verification, prior authorization, and revenue cycle management to enhance operational efficiency, ensure compliance, accelerate reimbursements, and improve patient care through intelligent automation.",
+          "updated_at": "2026-08-07T14:18:02Z",
+          "stargazers_count": 0,
+          "language": "CSS"
+        },
+        {
           "full_name": "ncreighton/10b698ff-medical-practice-management-kn",
           "html_url": "https://github.com/ncreighton/10b698ff-medical-practice-management-kn",
           "description": "HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.",
@@ -175,14 +183,6 @@
           "description": "Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system",
           "updated_at": "2026-04-04T13:38:07Z",
           "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "saydainsk/medical-coding-automation",
-          "html_url": "https://github.com/saydainsk/medical-coding-automation",
-          "description": "ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.",
-          "updated_at": "2026-03-05T20:20:14Z",
-          "stargazers_count": 1,
           "language": "Python"
         }
       ]
@@ -222,6 +222,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Thisurika/Medi-care",
+          "html_url": "https://github.com/Thisurika/Medi-care",
+          "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
+          "updated_at": "2026-08-07T18:06:39Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "prashant-cr/Clinic-front-desk-MCP-server",
           "html_url": "https://github.com/prashant-cr/Clinic-front-desk-MCP-server",
           "description": "AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs \u2014 local SQLite, no clinical advice.",
@@ -244,14 +252,6 @@
           "updated_at": "2026-08-05T15:24:59Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "Thisurika/Medi-care",
-          "html_url": "https://github.com/Thisurika/Medi-care",
-          "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
-          "updated_at": "2026-08-04T18:03:50Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         },
         {
           "full_name": "api-evangelist/klara",

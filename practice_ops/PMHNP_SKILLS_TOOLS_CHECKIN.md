@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-07 13:49:50 UTC
+- Generated: 2026-08-07 19:30:26 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [vgarg1234/Medical-Website-](https://github.com/vgarg1234/Medical-Website-) | stars=0 | lang=CSS | updated=2026-08-07T14:18:02Z | MedCare Solutions is an AI-powered healthcare platform that streamlines medical billing, coding, provider credentialing, insurance eligibility verification, prior authorization, and revenue cycle management to enhance operational efficiency, ensure compliance, accelerate reimbursements, and improve patient care through intelligent automation.
 - [AlanBuildsAI/authflow-ai-pa-readiness-case-study](https://github.com/AlanBuildsAI/authflow-ai-pa-readiness-case-study) | stars=0 | lang=Python | updated=2026-08-06T00:07:46Z | Healthcare workflow automation case study for prior authorization readiness using Python, JSON-style contracts, and rule-based validation.
 - [api-evangelist/standard-practice](https://github.com/api-evangelist/standard-practice) | stars=0 | lang=Unknown | updated=2026-08-04T01:37:32Z | Standard Practice builds voice AI for healthcare revenue cycle management (RCM) teams. Its AI agents place and handle outbound phone calls to insurance payers to automate administrative work — claim status follow-up, benefits verification, prior authorization, and EDI enrollment — so billing teams can scale collections and get paid more, faster.
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-08-04T01:34:56Z | Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-08-04T08:59:27Z | Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical…
-- [api-evangelist/rhyme-fka-priorauthnow](https://github.com/api-evangelist/rhyme-fka-priorauthnow) | stars=0 | lang=Unknown | updated=2026-08-04T01:31:22Z | Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth requirements entirely through payer-provider collaboration), and a shared dashboard for tracking…
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -38,11 +38,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
+- [vgarg1234/Medical-Website-](https://github.com/vgarg1234/Medical-Website-) | stars=0 | lang=CSS | updated=2026-08-07T14:18:02Z | MedCare Solutions is an AI-powered healthcare platform that streamlines medical billing, coding, provider credentialing, insurance eligibility verification, prior authorization, and revenue cycle management to enhance operational efficiency, ensure compliance, accelerate reimbursements, and improve patient care through intelligent automation.
 - [ncreighton/10b698ff-medical-practice-management-kn](https://github.com/ncreighton/10b698ff-medical-practice-management-kn) | stars=0 | lang=Unknown | updated=2026-08-05T21:40:11Z | HIPAA-compliant Discord bot for instant ICD-10 lookups, medical billing codes, and searchable practice management knowledge base. Keep your clinic organized.
 - [Ogbenibiyi/cpt-code-ghl-automation-n8n](https://github.com/Ogbenibiyi/cpt-code-ghl-automation-n8n) | stars=0 | lang=Unknown | updated=2026-06-29T11:36:11Z | I automated patient intake for a medical group to stop manual CPT code lookups and claim denials. GoHighLevel CRM captures form submissions and routes them to n8n webhooks. An AI agent analyzes the procedure description, determines the correct billing codes, and updates a Google Sheet. This cut out data entry and improved billing accuracy.
 - [zzzDavis/medical-document-automation](https://github.com/zzzDavis/medical-document-automation) | stars=0 | lang=Python | updated=2026-04-30T01:42:46Z | Python-based medical document automation workflow that extracts structured data from clinical notes, including patient info, diagnosis codes, provider details, and treatment plans. Includes validation checks, confidence scoring, and JSON output for reporting, billing, and workflow automation.
 - [SandeepM-GitHub/MediCodeAgent](https://github.com/SandeepM-GitHub/MediCodeAgent) | stars=0 | lang=Python | updated=2026-04-04T13:38:07Z | Transparent and Robust Agent for medical coding, billing, and revenue cycle end-to-end automation system
-- [saydainsk/medical-coding-automation](https://github.com/saydainsk/medical-coding-automation) | stars=1 | lang=Python | updated=2026-03-05T20:20:14Z | ICD-10-CM Medical coding assistant: suggest codes from a clinical note with rationale highlights, negation handling, and billing-aware post-processing.
 
 ### Patient Intake + Forms Automation
 - Query: `patient intake form automation healthcare`
@@ -52,10 +52,10 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-08-07T18:06:39Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [prashant-cr/Clinic-front-desk-MCP-server](https://github.com/prashant-cr/Clinic-front-desk-MCP-server) | stars=0 | lang=Python | updated=2026-08-07T12:23:33Z | AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs — local SQLite, no clinical advice.
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-08-05T18:31:08Z | Appointment booking, calendar sync, reminders, and waitlist management
 - [ncreighton/f18ebfc7-healthcare-appointment-schedul](https://github.com/ncreighton/f18ebfc7-healthcare-appointment-schedul) | stars=0 | lang=Unknown | updated=2026-08-05T15:24:59Z | Automate healthcare appointment scheduling, confirmations & reminders. Reduce no-shows 40%, cut admin time 80%. HIPAA-compliant workflow.
-- [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-08-04T18:03:50Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-08-04T01:11:16Z | Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.
 
 ### Telehealth Workflow Support
