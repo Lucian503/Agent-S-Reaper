@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09 13:31:15 UTC",
+  "generated_at_utc": "2026-08-09 19:11:31 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "Sachinyadav8953/ZenScribeAI-backend",
+          "html_url": "https://github.com/Sachinyadav8953/ZenScribeAI-backend",
+          "description": "ZenScribe AI \u2013 An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.",
+          "updated_at": "2026-08-09T17:42:20Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "api-evangelist/heidi-health",
           "html_url": "https://github.com/api-evangelist/heidi-health",
           "description": "Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and\u2026",
@@ -130,14 +138,6 @@
           "updated_at": "2026-08-08T00:37:26Z",
           "stargazers_count": 1,
           "language": "Unknown"
-        },
-        {
-          "full_name": "Sachinyadav8953/ZenScribeAI-backend",
-          "html_url": "https://github.com/Sachinyadav8953/ZenScribeAI-backend",
-          "description": "ZenScribe AI \u2013 An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.",
-          "updated_at": "2026-08-06T18:29:42Z",
-          "stargazers_count": 0,
-          "language": "Python"
         }
       ]
     },
