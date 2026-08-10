@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-10 02:41:16 UTC
+- Generated: 2026-08-10 08:13:24 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,7 +30,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
-- [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-09T17:42:20Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
+- [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-10T06:38:38Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
 - [api-evangelist/heidi-health](https://github.com/api-evangelist/heidi-health) | stars=0 | lang=Unknown | updated=2026-08-08T01:06:13Z | Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and…
 - [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-08-08T01:01:02Z | Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referral letters, and ICD-10 / CPT coding suggestions, then transfers the finalized note…
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-08-08T00:52:14Z | DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured…
