@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-14 19:29:08 UTC
+- Generated: 2026-08-15 01:56:59 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-08-14T20:55:17Z | Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue cycle management for healthcare providers.
 - [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-08-14T01:41:23Z | Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical…
 - [api-evangelist/rhyme-fka-priorauthnow](https://github.com/api-evangelist/rhyme-fka-priorauthnow) | stars=0 | lang=Unknown | updated=2026-08-14T01:39:22Z | Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth requirements entirely through payer-provider collaboration), and a shared dashboard for tracking…
 - [api-evangelist/plena-health](https://github.com/api-evangelist/plena-health) | stars=0 | lang=Unknown | updated=2026-08-14T01:33:06Z | Plena Health is an AI operating system for specialty medical practices, founded in 2025 and part of Y Combinator's Spring 2026 batch. Plena automates the complex administrative workflows a clinic's staff shouldn't have to do — referrals, fax intake, patient calls, scheduling, prior authorization, procedure compliance, and collections — end to end…
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-08-14T00:44:12Z | Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denials management, and patient refunds), patient access, and other repetitive tasks by…
-- [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-08-14T00:40:49Z | Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue cycle management for healthcare providers.
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-14T21:21:40Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
 - [api-evangelist/heidi-health](https://github.com/api-evangelist/heidi-health) | stars=0 | lang=Unknown | updated=2026-08-14T01:05:15Z | Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and…
 - [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-08-14T00:59:51Z | Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referral letters, and ICD-10 / CPT coding suggestions, then transfers the finalized note…
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-08-14T00:50:11Z | DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured…
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-08-14T00:33:50Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry.
-- [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-11T19:35:29Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
