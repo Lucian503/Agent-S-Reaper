@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 01:56:59 UTC",
+  "generated_at_utc": "2026-08-15 07:07:24 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -103,7 +103,7 @@
           "full_name": "Sachinyadav8953/ZenScribeAI-backend",
           "html_url": "https://github.com/Sachinyadav8953/ZenScribeAI-backend",
           "description": "ZenScribe AI \u2013 An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.",
-          "updated_at": "2026-08-14T21:21:40Z",
+          "updated_at": "2026-08-15T07:03:47Z",
           "stargazers_count": 0,
           "language": "Python"
         },
