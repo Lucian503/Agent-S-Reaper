@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15 13:08:10 UTC",
+  "generated_at_utc": "2026-08-15 18:56:40 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -241,8 +241,8 @@
           "full_name": "prashant-cr/Clinic-front-desk-MCP-server",
           "html_url": "https://github.com/prashant-cr/Clinic-front-desk-MCP-server",
           "description": "AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs \u2014 local SQLite, no clinical advice.",
-          "updated_at": "2026-08-09T07:47:34Z",
-          "stargazers_count": 0,
+          "updated_at": "2026-08-15T18:26:10Z",
+          "stargazers_count": 1,
           "language": "Python"
         },
         {

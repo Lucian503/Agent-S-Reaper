@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-15 13:08:10 UTC
+- Generated: 2026-08-15 18:56:40 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -54,7 +54,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 - Query: `medical appointment scheduling reminders`
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-08-14T01:12:50Z | Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.
 - [sergiomartinezsanjuan7-debug/MyDoctor-app](https://github.com/sergiomartinezsanjuan7-debug/MyDoctor-app) | stars=0 | lang=JavaScript | updated=2026-08-12T23:32:41Z | Full-stack medical management web app connecting patients and doctors. Built with React, Node.js, Express and PostgreSQL. Features JWT authentication, role-based access, appointment scheduling, treatment tracking, medication reminders, clinical notes and real-time notifications. Proyecto Integrador II — UNIPOLI Durango 2026.
-- [prashant-cr/Clinic-front-desk-MCP-server](https://github.com/prashant-cr/Clinic-front-desk-MCP-server) | stars=0 | lang=Python | updated=2026-08-09T07:47:34Z | AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs — local SQLite, no clinical advice.
+- [prashant-cr/Clinic-front-desk-MCP-server](https://github.com/prashant-cr/Clinic-front-desk-MCP-server) | stars=1 | lang=Python | updated=2026-08-15T18:26:10Z | AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs — local SQLite, no clinical advice.
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-08-07T18:06:39Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot](https://github.com/ncreighton/medical-practice-management-scheduling-and-booking-telegram-bot) | stars=0 | lang=Unknown | updated=2026-08-05T18:31:08Z | Appointment booking, calendar sync, reminders, and waitlist management
 
