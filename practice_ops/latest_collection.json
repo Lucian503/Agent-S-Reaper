@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-18 13:24:16 UTC",
+  "generated_at_utc": "2026-08-18 19:07:12 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "ai-summer2025/prior-auth-agent",
+          "html_url": "https://github.com/ai-summer2025/prior-auth-agent",
+          "description": "Agentic prior authorization automation system for healthcare \u2014 state machine, criteria evaluation, appeal drafting, and audit trail.",
+          "updated_at": "2026-08-18T18:46:32Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
         {
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/bookend",
           "description": "Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, eligibility, benefits, and reimbursement requirements from hundreds of medical and pharmacy\u2026",
           "updated_at": "2026-08-16T14:31:06Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/akasa",
-          "html_url": "https://github.com/api-evangelist/akasa",
-          "description": "AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
-          "updated_at": "2026-08-16T14:23:50Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }

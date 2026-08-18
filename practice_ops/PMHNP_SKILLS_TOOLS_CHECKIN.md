@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-18 13:24:16 UTC
+- Generated: 2026-08-18 19:07:12 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [ai-summer2025/prior-auth-agent](https://github.com/ai-summer2025/prior-auth-agent) | stars=0 | lang=Python | updated=2026-08-18T18:46:32Z | Agentic prior authorization automation system for healthcare — state machine, criteria evaluation, appeal drafting, and audit trail.
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-08-16T16:57:28Z | Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-08-16T14:33:35Z | Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denials management, and patient refunds), patient access, and other repetitive tasks by…
 - [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-08-16T14:31:41Z | Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue cycle management for healthcare providers.
 - [api-evangelist/bookend](https://github.com/api-evangelist/bookend) | stars=0 | lang=Unknown | updated=2026-08-16T14:31:06Z | Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, eligibility, benefits, and reimbursement requirements from hundreds of medical and pharmacy…
-- [api-evangelist/akasa](https://github.com/api-evangelist/akasa) | stars=0 | lang=Unknown | updated=2026-08-16T14:23:50Z | AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
