@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 02:07:46 UTC",
+  "generated_at_utc": "2026-08-24 07:37:52 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -222,6 +222,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Thisurika/Medi-care",
+          "html_url": "https://github.com/Thisurika/Medi-care",
+          "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
+          "updated_at": "2026-08-24T05:14:18Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "api-evangelist/klara",
           "html_url": "https://github.com/api-evangelist/klara",
           "description": "Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.",
@@ -252,14 +260,6 @@
           "updated_at": "2026-08-15T18:26:10Z",
           "stargazers_count": 1,
           "language": "Python"
-        },
-        {
-          "full_name": "Thisurika/Medi-care",
-          "html_url": "https://github.com/Thisurika/Medi-care",
-          "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
-          "updated_at": "2026-08-07T18:06:39Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         }
       ]
     },
