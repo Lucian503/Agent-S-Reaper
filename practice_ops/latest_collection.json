@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24 19:09:48 UTC",
+  "generated_at_utc": "2026-08-25 02:03:14 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -11,7 +11,7 @@
           "full_name": "api-evangelist/standard-practice",
           "html_url": "https://github.com/api-evangelist/standard-practice",
           "description": "Standard Practice builds voice AI for healthcare revenue cycle management (RCM) teams. Its AI agents place and handle outbound phone calls to insurance payers to automate administrative work \u2014 claim status follow-up, benefits verification, prior authorization, and EDI enrollment \u2014 so billing teams can scale collections and get paid more, faster.",
-          "updated_at": "2026-08-22T13:23:32Z",
+          "updated_at": "2026-08-25T01:35:59Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -19,7 +19,7 @@
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
           "description": "Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
-          "updated_at": "2026-08-22T13:19:03Z",
+          "updated_at": "2026-08-25T01:32:24Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -27,7 +27,7 @@
           "full_name": "api-evangelist/ruma-care",
           "html_url": "https://github.com/api-evangelist/ruma-care",
           "description": "Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical\u2026",
-          "updated_at": "2026-08-22T13:15:11Z",
+          "updated_at": "2026-08-25T01:29:23Z",
           "stargazers_count": 1,
           "language": "Unknown"
         },
@@ -35,7 +35,7 @@
           "full_name": "api-evangelist/rhyme-fka-priorauthnow",
           "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
           "description": "Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth requirements entirely through payer-provider collaboration), and a shared dashboard for tracking\u2026",
-          "updated_at": "2026-08-22T13:13:51Z",
+          "updated_at": "2026-08-25T01:26:59Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -43,7 +43,7 @@
           "full_name": "api-evangelist/plena-health",
           "html_url": "https://github.com/api-evangelist/plena-health",
           "description": "Plena Health is an AI operating system for specialty medical practices, founded in 2025 and part of Y Combinator's Spring 2026 batch. Plena automates the complex administrative workflows a clinic's staff shouldn't have to do \u2014 referrals, fax intake, patient calls, scheduling, prior authorization, procedure compliance, and collections \u2014 end to end\u2026",
-          "updated_at": "2026-08-22T13:08:31Z",
+          "updated_at": "2026-08-25T01:20:10Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
@@ -100,18 +100,10 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
-          "full_name": "Sachinyadav8953/ZenScribeAI-backend",
-          "html_url": "https://github.com/Sachinyadav8953/ZenScribeAI-backend",
-          "description": "ZenScribe AI \u2013 An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.",
-          "updated_at": "2026-08-22T19:36:44Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
           "full_name": "api-evangelist/heidi-health",
           "html_url": "https://github.com/api-evangelist/heidi-health",
           "description": "Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and\u2026",
-          "updated_at": "2026-08-22T12:44:20Z",
+          "updated_at": "2026-08-25T00:46:19Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -119,15 +111,7 @@
           "full_name": "api-evangelist/freed-ai",
           "html_url": "https://github.com/api-evangelist/freed-ai",
           "description": "Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referral letters, and ICD-10 / CPT coding suggestions, then transfers the finalized note\u2026",
-          "updated_at": "2026-08-22T12:39:23Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/deepscribe",
-          "html_url": "https://github.com/api-evangelist/deepscribe",
-          "description": "DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured\u2026",
-          "updated_at": "2026-08-22T12:31:06Z",
+          "updated_at": "2026-08-25T00:40:10Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -135,9 +119,25 @@
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry.",
-          "updated_at": "2026-08-22T12:16:41Z",
+          "updated_at": "2026-08-25T00:32:18Z",
           "stargazers_count": 1,
           "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/deepscribe",
+          "html_url": "https://github.com/api-evangelist/deepscribe",
+          "description": "DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured\u2026",
+          "updated_at": "2026-08-25T00:29:45Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "Sachinyadav8953/ZenScribeAI-backend",
+          "html_url": "https://github.com/Sachinyadav8953/ZenScribeAI-backend",
+          "description": "ZenScribe AI \u2013 An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.",
+          "updated_at": "2026-08-22T19:36:44Z",
+          "stargazers_count": 0,
+          "language": "Python"
         }
       ]
     },
@@ -195,7 +195,7 @@
           "full_name": "api-evangelist/roger",
           "html_url": "https://github.com/api-evangelist/roger",
           "description": "Roger (operated by Sanos Services GmbH, Berlin, Germany) is a B2B SaaS practice-management platform for dental clinics. It layers automation and AI onto existing German dental practice-management systems (PVS) such as CGM Z1, Charly, Dampsoft, Evident and Dento Office, adding patient recall, digital intake forms, WhatsApp/SMS communication\u2026",
-          "updated_at": "2026-08-22T13:14:23Z",
+          "updated_at": "2026-08-25T01:27:48Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -222,20 +222,28 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "api-evangelist/klara",
+          "html_url": "https://github.com/api-evangelist/klara",
+          "description": "Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.",
+          "updated_at": "2026-08-25T00:58:37Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis",
+          "html_url": "https://github.com/KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis",
+          "description": "SQL healthcare analytics project analysing medical appointment no-shows, patient demographics, scheduling, SMS reminders and operational performance using multiple analytical approaches.",
+          "updated_at": "2026-08-24T21:20:34Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Thisurika/Medi-care",
           "html_url": "https://github.com/Thisurika/Medi-care",
           "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
           "updated_at": "2026-08-24T05:14:18Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "api-evangelist/klara",
-          "html_url": "https://github.com/api-evangelist/klara",
-          "description": "Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and automated workflow tools to reduce phone volume and staff workload.",
-          "updated_at": "2026-08-22T12:50:49Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         },
         {
           "full_name": "mentor98/CarePoint-Medical-Booking-Health-Portal",
@@ -252,14 +260,6 @@
           "updated_at": "2026-08-12T23:32:41Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "prashant-cr/Clinic-front-desk-MCP-server",
-          "html_url": "https://github.com/prashant-cr/Clinic-front-desk-MCP-server",
-          "description": "AI receptionist for a small medical clinic, as an MCP server: appointment booking, rescheduling, patient intake, reminders and clinic FAQs \u2014 local SQLite, no clinical advice.",
-          "updated_at": "2026-08-15T18:26:10Z",
-          "stargazers_count": 1,
-          "language": "Python"
         }
       ]
     },
