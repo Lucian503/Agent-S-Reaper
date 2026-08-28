@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-08-28 11:40:38 UTC
+- Generated: 2026-08-28 22:32:43 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [api-evangelist/akasa](https://github.com/api-evangelist/akasa) | stars=0 | lang=Unknown | updated=2026-08-28T21:24:02Z | AKASA — independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.
 - [api-evangelist/standard-practice](https://github.com/api-evangelist/standard-practice) | stars=0 | lang=Unknown | updated=2026-08-27T21:14:40Z | Standard Practice builds voice AI for healthcare revenue cycle management (RCM) teams. Its AI agents place and handle outbound phone calls to insurance payers to automate administrative work — claim status follow-up, benefits verification, prior authorization, and EDI enrollment — so billing teams can scale collections and get paid more, faster.
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-08-27T21:11:04Z | Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-08-27T21:06:03Z | Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify payer requirements, auto-populates payer-specific prior authorization forms with clinical…
 - [api-evangelist/rhyme-fka-priorauthnow](https://github.com/api-evangelist/rhyme-fka-priorauthnow) | stars=0 | lang=Unknown | updated=2026-08-27T21:14:30Z | Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth requirements entirely through payer-provider collaboration), and a shared dashboard for tracking…
-- [api-evangelist/plena-health](https://github.com/api-evangelist/plena-health) | stars=0 | lang=Unknown | updated=2026-08-27T20:57:11Z | Plena Health is an AI operating system for specialty medical practices, founded in 2025 and part of Y Combinator's Spring 2026 batch. Plena automates the complex administrative workflows a clinic's staff shouldn't have to do — referrals, fax intake, patient calls, scheduling, prior authorization, procedure compliance, and collections — end to end…
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -30,10 +30,10 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-08-28T22:01:00Z | Augmedix — independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e
 - [api-evangelist/heidi-health](https://github.com/api-evangelist/heidi-health) | stars=0 | lang=Unknown | updated=2026-08-27T20:22:32Z | Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and…
 - [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-08-27T20:15:17Z | Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referral letters, and ICD-10 / CPT coding suggestions, then transfers the finalized note…
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-08-27T20:05:19Z | DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured…
-- [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-08-27T19:39:35Z | Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry.
 - [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-22T19:36:44Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
 
 ### Medical Coding + Revenue Cycle

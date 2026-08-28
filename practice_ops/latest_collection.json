@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-28 11:40:38 UTC",
+  "generated_at_utc": "2026-08-28 22:32:43 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/akasa",
+          "html_url": "https://github.com/api-evangelist/akasa",
+          "description": "AKASA \u2014 independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
+          "updated_at": "2026-08-28T21:24:02Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/standard-practice",
           "html_url": "https://github.com/api-evangelist/standard-practice",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
           "description": "Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth requirements entirely through payer-provider collaboration), and a shared dashboard for tracking\u2026",
           "updated_at": "2026-08-27T21:14:30Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/plena-health",
-          "html_url": "https://github.com/api-evangelist/plena-health",
-          "description": "Plena Health is an AI operating system for specialty medical practices, founded in 2025 and part of Y Combinator's Spring 2026 batch. Plena automates the complex administrative workflows a clinic's staff shouldn't have to do \u2014 referrals, fax intake, patient calls, scheduling, prior authorization, procedure compliance, and collections \u2014 end to end\u2026",
-          "updated_at": "2026-08-27T20:57:11Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "api-evangelist/augmedix",
+          "html_url": "https://github.com/api-evangelist/augmedix",
+          "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
+          "updated_at": "2026-08-28T22:01:00Z",
+          "stargazers_count": 1,
+          "language": "Unknown"
+        },
+        {
           "full_name": "api-evangelist/heidi-health",
           "html_url": "https://github.com/api-evangelist/heidi-health",
           "description": "Heidi Health is a Melbourne, Australia-founded AI care partner for clinicians, founded in 2019 by Dr. Tom Kelly (CEO), Waleed Mussa (CFO), and Yu Liu (CTO). The product began as an ambient AI medical scribe and now spans four capability surfaces: Scribe (real-time clinical documentation from audio), Evidence (clinical decision support and\u2026",
@@ -121,14 +129,6 @@
           "description": "DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe captures the natural conversation between clinician and patient and produces structured\u2026",
           "updated_at": "2026-08-27T20:05:19Z",
           "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/augmedix",
-          "html_url": "https://github.com/api-evangelist/augmedix",
-          "description": "Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data entry.",
-          "updated_at": "2026-08-27T19:39:35Z",
-          "stargazers_count": 1,
           "language": "Unknown"
         },
         {
