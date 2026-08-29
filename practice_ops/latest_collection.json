@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-29 07:17:01 UTC",
+  "generated_at_utc": "2026-08-29 16:50:06 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/candid-health",
+          "html_url": "https://github.com/api-evangelist/candid-health",
+          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
+          "updated_at": "2026-08-29T12:32:11Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/clicks",
           "description": "Clicks \u2014 independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial",
           "updated_at": "2026-08-28T23:09:27Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/candid-health",
-          "html_url": "https://github.com/api-evangelist/candid-health",
-          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
-          "updated_at": "2026-08-28T22:47:43Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
