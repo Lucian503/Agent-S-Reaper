@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-29 21:04:45 UTC",
+  "generated_at_utc": "2026-08-30 05:40:53 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,34 +8,26 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
-          "full_name": "api-evangelist/ruma-care",
-          "html_url": "https://github.com/api-evangelist/ruma-care",
-          "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
-          "updated_at": "2026-08-29T20:51:20Z",
-          "stargazers_count": 1,
-          "language": "Unknown"
-        },
-        {
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
           "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
-          "updated_at": "2026-08-29T18:41:09Z",
+          "updated_at": "2026-08-30T02:11:01Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
         {
-          "full_name": "api-evangelist/candid-health",
-          "html_url": "https://github.com/api-evangelist/candid-health",
-          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
-          "updated_at": "2026-08-29T18:38:03Z",
-          "stargazers_count": 0,
+          "full_name": "api-evangelist/ruma-care",
+          "html_url": "https://github.com/api-evangelist/ruma-care",
+          "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
+          "updated_at": "2026-08-30T02:06:54Z",
+          "stargazers_count": 1,
           "language": "Unknown"
         },
         {
           "full_name": "api-evangelist/rhyme-fka-priorauthnow",
           "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
           "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
-          "updated_at": "2026-08-29T05:31:10Z",
+          "updated_at": "2026-08-30T02:05:52Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -43,7 +35,15 @@
           "full_name": "api-evangelist/clicks",
           "html_url": "https://github.com/api-evangelist/clicks",
           "description": "Clicks \u2014 independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial",
-          "updated_at": "2026-08-28T23:09:27Z",
+          "updated_at": "2026-08-30T01:09:15Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/candid-health",
+          "html_url": "https://github.com/api-evangelist/candid-health",
+          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
+          "updated_at": "2026-08-30T01:06:04Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
@@ -103,7 +103,7 @@
           "full_name": "api-evangelist/freed-ai",
           "html_url": "https://github.com/api-evangelist/freed-ai",
           "description": "Freed \u2014 independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr",
-          "updated_at": "2026-08-29T00:53:32Z",
+          "updated_at": "2026-08-30T01:24:55Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -111,7 +111,7 @@
           "full_name": "api-evangelist/deepscribe",
           "html_url": "https://github.com/api-evangelist/deepscribe",
           "description": "DeepScribe \u2014 independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture",
-          "updated_at": "2026-08-28T23:52:17Z",
+          "updated_at": "2026-08-30T01:15:23Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -119,7 +119,7 @@
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
-          "updated_at": "2026-08-28T22:01:00Z",
+          "updated_at": "2026-08-30T00:58:52Z",
           "stargazers_count": 1,
           "language": "Unknown"
         },
@@ -214,20 +214,20 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "api-evangelist/klara",
+          "html_url": "https://github.com/api-evangelist/klara",
+          "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
+          "updated_at": "2026-08-30T01:38:10Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "JocaMgtt0/Medical-clinic-management-system",
           "html_url": "https://github.com/JocaMgtt0/Medical-clinic-management-system",
           "description": "Desktop management system for a medical clinic, built in Java with Swing, JPA/Hibernate and Apache Derby. Handles patient records, appointment scheduling, medical charts and automated appointment reminders. Object oriented programming coursework at UEM.",
           "updated_at": "2026-08-29T03:08:50Z",
           "stargazers_count": 0,
           "language": "Java"
-        },
-        {
-          "full_name": "api-evangelist/klara",
-          "html_url": "https://github.com/api-evangelist/klara",
-          "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
-          "updated_at": "2026-08-29T02:21:46Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         },
         {
           "full_name": "KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis",
