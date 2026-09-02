@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-01 21:13:57 UTC",
+  "generated_at_utc": "2026-09-02 04:56:02 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -259,6 +259,14 @@
       "label": "Telehealth Workflow Support",
       "query": "telehealth workflow automation",
       "repos": [
+        {
+          "full_name": "rangumallikarjun/Healthcare-Practice-Management-EHR-Platform",
+          "html_url": "https://github.com/rangumallikarjun/Healthcare-Practice-Management-EHR-Platform",
+          "description": "Healthcare Practice Management & EHR Platform - A scalable backend platform for independent healthcare practices, designed to streamline EHR workflows, patient management, billing, automation, and telehealth through secure REST APIs and cloud-based services.",
+          "updated_at": "2026-09-02T02:28:08Z",
+          "stargazers_count": 0,
+          "language": "Java"
+        },
         {
           "full_name": "ncreighton/58c38c2b-healthtech-telehealth-expens",
           "html_url": "https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens",
