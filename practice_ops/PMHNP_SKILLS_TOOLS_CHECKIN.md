@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-02 04:56:02 UTC
+- Generated: 2026-09-02 11:35:49 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [sasadanger/clinical-ai-documentation-copilot](https://github.com/sasadanger/clinical-ai-documentation-copilot) | stars=0 | lang=TypeScript | updated=2026-09-02T07:48:27Z | Real-time ambient medical scribe demo: speech-to-FHIR (Medplum), 4-state hallucination grounding overlay, and multi-specialty note templates. Portfolio project extending open-source OpenScribe. Not for clinical use.
 - [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-09-01T20:29:14Z | Freed — independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-09-01T20:11:13Z | DeepScribe — independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-09-01T19:53:47Z | Augmedix — independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e
 - [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-22T19:36:44Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
-- [beamhonor0911/MediScribe-Assistant](https://github.com/beamhonor0911/MediScribe-Assistant) | stars=0 | lang=JavaScript | updated=2026-08-15T07:21:52Z | AI medical assistant for intelligent clinical documentation, information retrieval, and healthcare support.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
