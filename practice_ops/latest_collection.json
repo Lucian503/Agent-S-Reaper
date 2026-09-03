@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-03 04:53:10 UTC",
+  "generated_at_utc": "2026-09-03 11:34:19 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "swapnil10mbc-dot/Opencare-Automate",
+          "html_url": "https://github.com/swapnil10mbc-dot/Opencare-Automate",
+          "description": "OpenCare-Automate is a privacy-first, self-hosted healthcare automation platform designed for local deployment. It streamlines administrative workflows\u2014including AI medical scribing, FHIR data ingestion, and automated insurance prior-authorization\u2014without transmitting Patient Health Information (PHI) to third-party cloud services.",
+          "updated_at": "2026-09-03T09:51:12Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
         {
           "full_name": "api-evangelist/clicks",
           "html_url": "https://github.com/api-evangelist/clicks",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/akasa",
           "description": "AKASA \u2014 independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
           "updated_at": "2026-09-01T19:47:55Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/silna",
-          "html_url": "https://github.com/api-evangelist/silna",
-          "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
-          "updated_at": "2026-09-01T16:13:55Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
