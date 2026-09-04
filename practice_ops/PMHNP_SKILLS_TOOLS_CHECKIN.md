@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-04 04:57:56 UTC
+- Generated: 2026-09-04 11:35:51 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [DHARSHINEV/AI-Medical-Scribe](https://github.com/DHARSHINEV/AI-Medical-Scribe) | stars=0 | lang=Unknown | updated=2026-09-04T09:00:50Z | MediScribe — AI-powered medical scribe for clinical documentation and safety validation
 - [sasadanger/clinical-ai-documentation-copilot](https://github.com/sasadanger/clinical-ai-documentation-copilot) | stars=0 | lang=TypeScript | updated=2026-09-02T07:48:27Z | Real-time ambient medical scribe demo: speech-to-FHIR (Medplum), 4-state hallucination grounding overlay, and multi-specialty note templates. Portfolio project extending open-source OpenScribe. Not for clinical use.
 - [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-09-01T20:29:14Z | Freed — independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-09-01T20:11:13Z | DeepScribe — independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-09-01T19:53:47Z | Augmedix — independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e
-- [Sachinyadav8953/ZenScribeAI-backend](https://github.com/Sachinyadav8953/ZenScribeAI-backend) | stars=0 | lang=Python | updated=2026-08-22T19:36:44Z | ZenScribe AI – An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [zalaso/Confermo](https://github.com/zalaso/Confermo) | stars=0 | lang=TypeScript | updated=2026-09-04T10:00:23Z | Automated WhatsApp appointment reminders for medical and dental practices: patients confirm or cancel with one tap, and the schedule updates itself
+- [oguri-kaslana/HealthReminder](https://github.com/oguri-kaslana/HealthReminder) | stars=1 | lang=Python | updated=2026-09-04T09:57:06Z | A local‑first Windows reminder application for water intake, medication, daily to‑dos and medical follow‑up checks. It resides in the system tray, can auto‑schedule water‑drinking intervals, manage flexible medication cycles, log daily tasks, support follow‑up appointment scheduling, consolidated alerts, and local backup capabilities.
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-01T20:38:03Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [JocaMgtt0/Medical-clinic-management-system](https://github.com/JocaMgtt0/Medical-clinic-management-system) | stars=0 | lang=Java | updated=2026-08-29T03:08:50Z | Desktop management system for a medical clinic, built in Java with Swing, JPA/Hibernate and Apache Derby. Handles patient records, appointment scheduling, medical charts and automated appointment reminders. Object oriented programming coursework at UEM.
 - [KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis](https://github.com/KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis) | stars=0 | lang=Unknown | updated=2026-08-24T21:20:34Z | SQL healthcare analytics project analysing medical appointment no-shows, patient demographics, scheduling, SMS reminders and operational performance using multiple analytical approaches.
-- [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-08-24T05:14:18Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
-- [mentor98/CarePoint-Medical-Booking-Health-Portal](https://github.com/mentor98/CarePoint-Medical-Booking-Health-Portal) | stars=0 | lang=TypeScript | updated=2026-08-20T15:18:06Z | Modern healthcare appointment booking, physician schedule management, automated reminders, electronic patient health records, and digital prescription history.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`

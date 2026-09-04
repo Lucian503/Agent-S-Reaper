@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-04 04:57:56 UTC",
+  "generated_at_utc": "2026-09-04 11:35:51 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "DHARSHINEV/AI-Medical-Scribe",
+          "html_url": "https://github.com/DHARSHINEV/AI-Medical-Scribe",
+          "description": "MediScribe \u2014 AI-powered medical scribe for clinical documentation and safety validation",
+          "updated_at": "2026-09-04T09:00:50Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "sasadanger/clinical-ai-documentation-copilot",
           "html_url": "https://github.com/sasadanger/clinical-ai-documentation-copilot",
           "description": "Real-time ambient medical scribe demo: speech-to-FHIR (Medplum), 4-state hallucination grounding overlay, and multi-specialty note templates. Portfolio project extending open-source OpenScribe. Not for clinical use.",
@@ -130,14 +138,6 @@
           "updated_at": "2026-09-01T19:53:47Z",
           "stargazers_count": 1,
           "language": "Unknown"
-        },
-        {
-          "full_name": "Sachinyadav8953/ZenScribeAI-backend",
-          "html_url": "https://github.com/Sachinyadav8953/ZenScribeAI-backend",
-          "description": "ZenScribe AI \u2013 An AI-powered clinical documentation copilot that converts doctor-patient conversations into structured SOAP notes, medical summaries, and EHR-ready records.",
-          "updated_at": "2026-08-22T19:36:44Z",
-          "stargazers_count": 0,
-          "language": "Python"
         }
       ]
     },
@@ -214,6 +214,22 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "zalaso/Confermo",
+          "html_url": "https://github.com/zalaso/Confermo",
+          "description": "Automated WhatsApp appointment reminders for medical and dental practices: patients confirm or cancel with one tap, and the schedule updates itself",
+          "updated_at": "2026-09-04T10:00:23Z",
+          "stargazers_count": 0,
+          "language": "TypeScript"
+        },
+        {
+          "full_name": "oguri-kaslana/HealthReminder",
+          "html_url": "https://github.com/oguri-kaslana/HealthReminder",
+          "description": "A local\u2011first Windows reminder application for water intake, medication, daily to\u2011dos and medical follow\u2011up checks. It resides in the system tray, can auto\u2011schedule water\u2011drinking intervals, manage flexible medication cycles, log daily tasks, support follow\u2011up appointment scheduling, consolidated alerts, and local backup capabilities.",
+          "updated_at": "2026-09-04T09:57:06Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
+        {
           "full_name": "api-evangelist/klara",
           "html_url": "https://github.com/api-evangelist/klara",
           "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
@@ -236,22 +252,6 @@
           "updated_at": "2026-08-24T21:20:34Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "Thisurika/Medi-care",
-          "html_url": "https://github.com/Thisurika/Medi-care",
-          "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
-          "updated_at": "2026-08-24T05:14:18Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
-        },
-        {
-          "full_name": "mentor98/CarePoint-Medical-Booking-Health-Portal",
-          "html_url": "https://github.com/mentor98/CarePoint-Medical-Booking-Health-Portal",
-          "description": "Modern healthcare appointment booking, physician schedule management, automated reminders, electronic patient health records, and digital prescription history.",
-          "updated_at": "2026-08-20T15:18:06Z",
-          "stargazers_count": 0,
-          "language": "TypeScript"
         }
       ]
     },
