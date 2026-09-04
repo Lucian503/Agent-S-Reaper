@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-04 11:35:51 UTC",
+  "generated_at_utc": "2026-09-04 16:32:08 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -217,7 +217,7 @@
           "full_name": "zalaso/Confermo",
           "html_url": "https://github.com/zalaso/Confermo",
           "description": "Automated WhatsApp appointment reminders for medical and dental practices: patients confirm or cancel with one tap, and the schedule updates itself",
-          "updated_at": "2026-09-04T10:00:23Z",
+          "updated_at": "2026-09-04T13:51:05Z",
           "stargazers_count": 0,
           "language": "TypeScript"
         },
