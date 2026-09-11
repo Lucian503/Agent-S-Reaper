@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-10 21:05:43 UTC
+- Generated: 2026-09-11 05:01:47 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Teja-vardhan67/MediTrack](https://github.com/Teja-vardhan67/MediTrack) | stars=0 | lang=JavaScript | updated=2026-09-11T04:36:02Z | MediTrack is a modern solution to help you manage your health effortlessly.  ✔️ Medication reminders Prescription tracking & reordering ✔️ Medical appointment scheduling
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-04T19:29:50Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [zalaso/Confermo](https://github.com/zalaso/Confermo) | stars=0 | lang=TypeScript | updated=2026-09-04T13:51:05Z | Automated WhatsApp appointment reminders for medical and dental practices: patients confirm or cancel with one tap, and the schedule updates itself
 - [oguri-kaslana/HealthReminder](https://github.com/oguri-kaslana/HealthReminder) | stars=1 | lang=Python | updated=2026-09-04T09:57:06Z | A local‑first Windows reminder application for water intake, medication, daily to‑dos and medical follow‑up checks. It resides in the system tray, can auto‑schedule water‑drinking intervals, manage flexible medication cycles, log daily tasks, support follow‑up appointment scheduling, consolidated alerts, and local backup capabilities.
 - [JocaMgtt0/Medical-clinic-management-system](https://github.com/JocaMgtt0/Medical-clinic-management-system) | stars=0 | lang=Java | updated=2026-08-29T03:08:50Z | Desktop management system for a medical clinic, built in Java with Swing, JPA/Hibernate and Apache Derby. Handles patient records, appointment scheduling, medical charts and automated appointment reminders. Object oriented programming coursework at UEM.
-- [KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis](https://github.com/KishoorDataLab/Healthcare-Appointment-NoShow-SQL-Analysis) | stars=0 | lang=Unknown | updated=2026-08-24T21:20:34Z | SQL healthcare analytics project analysing medical appointment no-shows, patient demographics, scheduling, SMS reminders and operational performance using multiple analytical approaches.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
