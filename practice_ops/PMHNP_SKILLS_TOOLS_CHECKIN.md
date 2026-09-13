@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-12 20:48:40 UTC
+- Generated: 2026-09-13 05:13:50 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-09-12T21:25:08Z | Silna — independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
+- [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-09-12T21:21:07Z | Ruma Care — independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye
+- [api-evangelist/rhyme-fka-priorauthnow](https://github.com/api-evangelist/rhyme-fka-priorauthnow) | stars=0 | lang=Unknown | updated=2026-09-12T21:20:00Z | Rhyme (fka PriorAuthNow) — independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-09-12T20:21:31Z | Clicks — independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial
 - [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-09-12T20:17:56Z | Candid Health — independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue
-- [api-evangelist/bookend](https://github.com/api-evangelist/bookend) | stars=0 | lang=Unknown | updated=2026-09-12T20:15:35Z | Bookend AI — independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig
-- [api-evangelist/akasa](https://github.com/api-evangelist/akasa) | stars=0 | lang=Unknown | updated=2026-09-12T20:04:34Z | AKASA — independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.
-- [git-bonda108/agentic-healthcare-prior-auth](https://github.com/git-bonda108/agentic-healthcare-prior-auth) | stars=0 | lang=Python | updated=2026-09-12T20:35:04Z | Streamlit prior-authorization automation: medical-document parsing, CPT/ICD-10 extraction with LLM plus regex validation, submission-ready requests
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -51,9 +51,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-12T20:51:24Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-09-12T18:14:07Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [Teja-vardhan67/MediTrack](https://github.com/Teja-vardhan67/MediTrack) | stars=0 | lang=JavaScript | updated=2026-09-11T05:15:12Z | MediTrack is a modern solution to help you manage your health effortlessly.  ✔️ Medication reminders Prescription tracking & reordering ✔️ Medical appointment scheduling
-- [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-04T19:29:50Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [zalaso/Confermo](https://github.com/zalaso/Confermo) | stars=0 | lang=TypeScript | updated=2026-09-04T13:51:05Z | Automated WhatsApp appointment reminders for medical and dental practices: patients confirm or cancel with one tap, and the schedule updates itself
 - [oguri-kaslana/HealthReminder](https://github.com/oguri-kaslana/HealthReminder) | stars=1 | lang=Python | updated=2026-09-04T09:57:06Z | A local‑first Windows reminder application for water intake, medication, daily to‑dos and medical follow‑up checks. It resides in the system tray, can auto‑schedule water‑drinking intervals, manage flexible medication cycles, log daily tasks, support follow‑up appointment scheduling, consolidated alerts, and local backup capabilities.
 
