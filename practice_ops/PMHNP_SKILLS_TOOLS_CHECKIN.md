@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-14 21:57:14 UTC
+- Generated: 2026-09-15 05:10:14 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Dells27/medic-appointment](https://github.com/Dells27/medic-appointment) | stars=0 | lang=C# | updated=2026-09-15T00:20:56Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-12T20:51:24Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-09-12T18:14:07Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [Teja-vardhan67/MediTrack](https://github.com/Teja-vardhan67/MediTrack) | stars=0 | lang=JavaScript | updated=2026-09-11T05:15:12Z | MediTrack is a modern solution to help you manage your health effortlessly.  ✔️ Medication reminders Prescription tracking & reordering ✔️ Medical appointment scheduling
 - [zalaso/Confermo](https://github.com/zalaso/Confermo) | stars=0 | lang=TypeScript | updated=2026-09-04T13:51:05Z | Automated WhatsApp appointment reminders for medical and dental practices: patients confirm or cancel with one tap, and the schedule updates itself
-- [oguri-kaslana/HealthReminder](https://github.com/oguri-kaslana/HealthReminder) | stars=1 | lang=Python | updated=2026-09-04T09:57:06Z | A local‑first Windows reminder application for water intake, medication, daily to‑dos and medical follow‑up checks. It resides in the system tray, can auto‑schedule water‑drinking intervals, manage flexible medication cycles, log daily tasks, support follow‑up appointment scheduling, consolidated alerts, and local backup capabilities.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
