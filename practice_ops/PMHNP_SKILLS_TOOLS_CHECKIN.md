@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-19 16:00:22 UTC
+- Generated: 2026-09-19 20:55:07 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-09-19T16:01:52Z | Silna — independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-09-19T15:57:50Z | Ruma Care — independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye
 - [api-evangelist/rhyme-fka-priorauthnow](https://github.com/api-evangelist/rhyme-fka-priorauthnow) | stars=0 | lang=Unknown | updated=2026-09-19T15:56:44Z | Rhyme (fka PriorAuthNow) — independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-09-19T14:59:17Z | Clicks — independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial
 - [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-09-19T14:55:53Z | Candid Health — independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue
-- [api-evangelist/bookend](https://github.com/api-evangelist/bookend) | stars=0 | lang=Unknown | updated=2026-09-19T14:53:37Z | Bookend AI — independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`

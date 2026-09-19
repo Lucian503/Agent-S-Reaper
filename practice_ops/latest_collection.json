@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-19 16:00:22 UTC",
+  "generated_at_utc": "2026-09-19 20:55:07 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/silna",
+          "html_url": "https://github.com/api-evangelist/silna",
+          "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
+          "updated_at": "2026-09-19T16:01:52Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/ruma-care",
           "html_url": "https://github.com/api-evangelist/ruma-care",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/candid-health",
           "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
           "updated_at": "2026-09-19T14:55:53Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/bookend",
-          "html_url": "https://github.com/api-evangelist/bookend",
-          "description": "Bookend AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig",
-          "updated_at": "2026-09-19T14:53:37Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
