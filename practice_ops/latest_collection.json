@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-19 04:53:45 UTC",
+  "generated_at_utc": "2026-09-19 11:22:01 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -260,6 +260,14 @@
       "query": "telehealth workflow automation",
       "repos": [
         {
+          "full_name": "amoghsamji/Vitalis",
+          "html_url": "https://github.com/amoghsamji/Vitalis",
+          "description": "Vitalis is an enterprise-grade, AWS-native healthcare workflow automation and telehealth orchestration platform engineered completely from scratch.",
+          "updated_at": "2026-09-19T07:04:25Z",
+          "stargazers_count": 0,
+          "language": "TypeScript"
+        },
+        {
           "full_name": "rangumallikarjun/Healthcare-Practice-Management-EHR-Platform",
           "html_url": "https://github.com/rangumallikarjun/Healthcare-Practice-Management-EHR-Platform",
           "description": "Healthcare Practice Management & EHR Platform - A scalable backend platform for independent healthcare practices, designed to streamline EHR workflows, patient management, billing, automation, and telehealth through secure REST APIs and cloud-based services.",
@@ -290,14 +298,6 @@
           "updated_at": "2026-08-05T17:16:28Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "hamzahelhafdaoui/AppointmentLinkSender",
-          "html_url": "https://github.com/hamzahelhafdaoui/AppointmentLinkSender",
-          "description": "The Doxy Link Sender is a lightweight automation tool designed to streamline telehealth workflows by automatically sending secure  video visit links to patients via SMS. It pulls appointment data from a Google Sheet, matches patients to their scheduled provider , generates the correct Doxy link, and sends it out at the appropriate moment",
-          "updated_at": "2025-12-30T00:57:11Z",
-          "stargazers_count": 0,
-          "language": "JavaScript"
         }
       ]
     }
