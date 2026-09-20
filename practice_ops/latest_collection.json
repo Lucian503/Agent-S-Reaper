@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-20 16:23:33 UTC",
+  "generated_at_utc": "2026-09-20 20:59:55 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -11,7 +11,23 @@
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
           "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
-          "updated_at": "2026-09-20T15:35:08Z",
+          "updated_at": "2026-09-20T16:39:23Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/ruma-care",
+          "html_url": "https://github.com/api-evangelist/ruma-care",
+          "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
+          "updated_at": "2026-09-20T16:35:09Z",
+          "stargazers_count": 1,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
+          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
+          "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
+          "updated_at": "2026-09-20T16:34:00Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -28,22 +44,6 @@
           "html_url": "https://github.com/api-evangelist/candid-health",
           "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
           "updated_at": "2026-09-20T15:30:57Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/bookend",
-          "html_url": "https://github.com/api-evangelist/bookend",
-          "description": "Bookend AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig",
-          "updated_at": "2026-09-20T15:28:40Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/akasa",
-          "html_url": "https://github.com/api-evangelist/akasa",
-          "description": "AKASA \u2014 independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
-          "updated_at": "2026-09-20T15:17:23Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
@@ -214,20 +214,20 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Labbouyat/medical-appointment-no-shows",
+          "html_url": "https://github.com/Labbouyat/medical-appointment-no-shows",
+          "description": "Python analysis of 110,521 medical appointments, exploring SMS reminders, age, and scheduling lead time.",
+          "updated_at": "2026-09-20T18:32:05Z",
+          "stargazers_count": 0,
+          "language": "HTML"
+        },
+        {
           "full_name": "api-evangelist/klara",
           "html_url": "https://github.com/api-evangelist/klara",
           "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
           "updated_at": "2026-09-20T16:05:05Z",
           "stargazers_count": 0,
           "language": "Unknown"
-        },
-        {
-          "full_name": "Labbouyat/medical-appointment-no-shows",
-          "html_url": "https://github.com/Labbouyat/medical-appointment-no-shows",
-          "description": "Python analysis of 110,521 medical appointments, exploring SMS reminders, age, and scheduling lead time.",
-          "updated_at": "2026-09-20T15:40:36Z",
-          "stargazers_count": 0,
-          "language": "Jupyter Notebook"
         },
         {
           "full_name": "mary-diana/medical_reminder_app",
