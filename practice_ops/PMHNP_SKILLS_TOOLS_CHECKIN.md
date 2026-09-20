@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-20 05:15:06 UTC
+- Generated: 2026-09-20 11:43:32 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -59,7 +59,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
-- [amoghsamji/Vitalis](https://github.com/amoghsamji/Vitalis) | stars=0 | lang=TypeScript | updated=2026-09-19T12:09:26Z | Vitalis is an enterprise-grade, AWS-native healthcare workflow automation and telehealth orchestration platform engineered completely from scratch.
+- [amoghsamji/Vitalis](https://github.com/amoghsamji/Vitalis) | stars=0 | lang=TypeScript | updated=2026-09-20T09:57:55Z | Vitalis is an enterprise-grade, AWS-native healthcare workflow automation and telehealth orchestration platform engineered completely from scratch.
 - [rangumallikarjun/Healthcare-Practice-Management-EHR-Platform](https://github.com/rangumallikarjun/Healthcare-Practice-Management-EHR-Platform) | stars=0 | lang=Java | updated=2026-09-02T02:28:08Z | Healthcare Practice Management & EHR Platform - A scalable backend platform for independent healthcare practices, designed to streamline EHR workflows, patient management, billing, automation, and telehealth through secure REST APIs and cloud-based services.
 - [ncreighton/58c38c2b-healthtech-telehealth-expens](https://github.com/ncreighton/58c38c2b-healthtech-telehealth-expens) | stars=0 | lang=Unknown | updated=2026-08-05T20:08:16Z | manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Connects to 400+ apps via n8n's built-in integrations — no custom code needed. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Hea
 - [ncreighton/d92942ca-healthtech-telehealth-invoic](https://github.com/ncreighton/d92942ca-healthtech-telehealth-invoic) | stars=0 | lang=Unknown | updated=2026-08-05T17:17:22Z | manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Healthtech & Te

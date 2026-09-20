@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-20 05:15:06 UTC",
+  "generated_at_utc": "2026-09-20 11:43:32 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -263,7 +263,7 @@
           "full_name": "amoghsamji/Vitalis",
           "html_url": "https://github.com/amoghsamji/Vitalis",
           "description": "Vitalis is an enterprise-grade, AWS-native healthcare workflow automation and telehealth orchestration platform engineered completely from scratch.",
-          "updated_at": "2026-09-19T12:09:26Z",
+          "updated_at": "2026-09-20T09:57:55Z",
           "stargazers_count": 0,
           "language": "TypeScript"
         },
