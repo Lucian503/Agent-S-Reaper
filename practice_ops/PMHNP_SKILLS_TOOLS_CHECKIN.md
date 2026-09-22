@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-22 17:10:43 UTC
+- Generated: 2026-09-22 21:34:53 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-09-22T18:12:36Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-22T13:55:23Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Labbouyat/medical-appointment-no-shows](https://github.com/Labbouyat/medical-appointment-no-shows) | stars=0 | lang=HTML | updated=2026-09-20T18:32:05Z | Python analysis of 110,521 medical appointments, exploring SMS reminders, age, and scheduling lead time.
 - [mary-diana/medical_reminder_app](https://github.com/mary-diana/medical_reminder_app) | stars=0 | lang=Dart | updated=2026-09-17T23:05:03Z | Cross-platform Flutter mobile application integrated with hospital systems via Firebase for automated medication reminders, real-time prescription tracking, and appointment scheduling. Features secure cloud sync and proactive push notifications.
 - [prince2310-97/Medical_appointment_No_Show_Analysis](https://github.com/prince2310-97/Medical_appointment_No_Show_Analysis) | stars=0 | lang=Jupyter Notebook | updated=2026-09-17T11:35:08Z | Medical Appointment No-Show Analysis | 110K+ Brazil healthcare records | 20% no-show rate diagnosed | Python EDA + Chi-Square validation | SMS reminders associated with lower no-shows across wait-time groups | Actionable scheduling rec🏥 Medical Appointment No-Show Analysis | 📊 110K+ Brazil healthcare records | 📈 20% no-show rate diagommendations
-- [Dells27/medic-appointment](https://github.com/Dells27/medic-appointment) | stars=0 | lang=C# | updated=2026-09-16T01:09:05Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
