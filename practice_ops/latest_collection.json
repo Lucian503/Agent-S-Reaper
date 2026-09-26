@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-25 21:45:20 UTC",
+  "generated_at_utc": "2026-09-26 05:18:55 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -217,7 +217,7 @@
           "full_name": "Thisurika/Medi-care",
           "html_url": "https://github.com/Thisurika/Medi-care",
           "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
-          "updated_at": "2026-09-25T12:28:22Z",
+          "updated_at": "2026-09-26T01:58:38Z",
           "stargazers_count": 0,
           "language": "JavaScript"
         },
@@ -238,20 +238,20 @@
           "language": "HTML"
         },
         {
+          "full_name": "Dells27/medical-appointment",
+          "html_url": "https://github.com/Dells27/medical-appointment",
+          "description": "A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.",
+          "updated_at": "2026-09-26T00:38:17Z",
+          "stargazers_count": 0,
+          "language": "C#"
+        },
+        {
           "full_name": "mary-diana/medical_reminder_app",
           "html_url": "https://github.com/mary-diana/medical_reminder_app",
           "description": "Cross-platform Flutter mobile application integrated with hospital systems via Firebase for automated medication reminders, real-time prescription tracking, and appointment scheduling. Features secure cloud sync and proactive push notifications.",
           "updated_at": "2026-09-17T23:05:03Z",
           "stargazers_count": 0,
           "language": "Dart"
-        },
-        {
-          "full_name": "prince2310-97/Medical_appointment_No_Show_Analysis",
-          "html_url": "https://github.com/prince2310-97/Medical_appointment_No_Show_Analysis",
-          "description": "Medical Appointment No-Show Analysis | 110K+ Brazil healthcare records | 20% no-show rate diagnosed | Python EDA + Chi-Square validation | SMS reminders associated with lower no-shows across wait-time groups | Actionable scheduling rec\ud83c\udfe5 Medical Appointment No-Show Analysis | \ud83d\udcca 110K+ Brazil healthcare records | \ud83d\udcc8 20% no-show rate diagommendations",
-          "updated_at": "2026-09-17T11:35:08Z",
-          "stargazers_count": 0,
-          "language": "Jupyter Notebook"
         }
       ]
     },
