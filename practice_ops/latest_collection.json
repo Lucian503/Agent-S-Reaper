@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28 23:26:19 UTC",
+  "generated_at_utc": "2026-09-29 06:01:20 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Dells27/medical-appointment",
+          "html_url": "https://github.com/Dells27/medical-appointment",
+          "description": "A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.",
+          "updated_at": "2026-09-29T03:20:41Z",
+          "stargazers_count": 0,
+          "language": "C#"
+        },
+        {
           "full_name": "Thisurika/Medi-care",
           "html_url": "https://github.com/Thisurika/Medi-care",
           "description": "A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience",
@@ -236,14 +244,6 @@
           "updated_at": "2026-09-20T18:32:05Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "Dells27/medical-appointment",
-          "html_url": "https://github.com/Dells27/medical-appointment",
-          "description": "A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.",
-          "updated_at": "2026-09-26T00:38:17Z",
-          "stargazers_count": 0,
-          "language": "C#"
         },
         {
           "full_name": "mary-diana/medical_reminder_app",
