@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29 06:01:20 UTC",
+  "generated_at_utc": "2026-09-29 13:13:30 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -11,7 +11,7 @@
           "full_name": "Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues",
           "html_url": "https://github.com/Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues",
           "description": "An AI-powered healthcare platform that automates prior authorization, verifies documents, tracks approvals, and manages smart patient queues, reducing delays, administrative workload, waiting times, and improving healthcare efficiency.",
-          "updated_at": "2026-09-28T08:53:16Z",
+          "updated_at": "2026-09-29T08:37:12Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "udayasri10435/SynapseMD---AI-Medical-Scribe-Autonomous-Coding",
+          "html_url": "https://github.com/udayasri10435/SynapseMD---AI-Medical-Scribe-Autonomous-Coding",
+          "description": "Ambient clinical documentation, automated ICD-10/CPT coding, E/M MDM leveling, and seamless EHR FHIR integration saving physicians 2+ hours daily.",
+          "updated_at": "2026-09-29T08:40:28Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
@@ -130,14 +138,6 @@
           "updated_at": "2026-09-14T11:18:14Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "zaidsaleh-zx/clinical-scribe-ai",
-          "html_url": "https://github.com/zaidsaleh-zx/clinical-scribe-ai",
-          "description": "Clinical Scribe AI is an intelligent healthcare assistant that listens to doctor-patient conversations and converts speech into structured clinical notes. It uses AI and speech recognition to reduce documentation time, improve accuracy, organize medical information, and help healthcare professionals focus more on patient care.",
-          "updated_at": "2026-09-05T19:34:28Z",
-          "stargazers_count": 0,
-          "language": "Python"
         }
       ]
     },

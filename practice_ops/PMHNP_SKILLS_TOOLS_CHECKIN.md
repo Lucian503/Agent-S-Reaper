@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-29 06:01:20 UTC
+- Generated: 2026-09-29 13:13:30 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,7 +14,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
-- [Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues](https://github.com/Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues) | stars=0 | lang=Unknown | updated=2026-09-28T08:53:16Z | An AI-powered healthcare platform that automates prior authorization, verifies documents, tracks approvals, and manages smart patient queues, reducing delays, administrative workload, waiting times, and improving healthcare efficiency.
+- [Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues](https://github.com/Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues) | stars=0 | lang=Unknown | updated=2026-09-29T08:37:12Z | An AI-powered healthcare platform that automates prior authorization, verifies documents, tracks approvals, and manages smart patient queues, reducing delays, administrative workload, waiting times, and improving healthcare efficiency.
 - [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-09-27T11:02:19Z | Candid Health — independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-09-27T10:53:23Z | Silna — independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-09-25T18:41:25Z | Clicks — independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [udayasri10435/SynapseMD---AI-Medical-Scribe-Autonomous-Coding](https://github.com/udayasri10435/SynapseMD---AI-Medical-Scribe-Autonomous-Coding) | stars=0 | lang=Unknown | updated=2026-09-29T08:40:28Z | Ambient clinical documentation, automated ICD-10/CPT coding, E/M MDM leveling, and seamless EHR FHIR integration saving physicians 2+ hours daily.
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-09-25T17:22:04Z | Augmedix — independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e
 - [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-09-23T00:33:37Z | Freed — independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-09-23T00:25:18Z | DeepScribe — independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture
 - [Amxnnn/HealthScribe](https://github.com/Amxnnn/HealthScribe) | stars=0 | lang=JavaScript | updated=2026-09-14T11:18:14Z | AI-powered medical documentation assistant that converts doctor's voice notes into structured clinical records in real-time.
-- [zaidsaleh-zx/clinical-scribe-ai](https://github.com/zaidsaleh-zx/clinical-scribe-ai) | stars=0 | lang=Python | updated=2026-09-05T19:34:28Z | Clinical Scribe AI is an intelligent healthcare assistant that listens to doctor-patient conversations and converts speech into structured clinical notes. It uses AI and speech recognition to reduce documentation time, improve accuracy, organize medical information, and help healthcare professionals focus more on patient care.
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
