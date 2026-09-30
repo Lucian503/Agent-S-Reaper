@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-09-29 22:31:40 UTC
+- Generated: 2026-09-30 05:50:16 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,7 +51,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-09-29T03:20:41Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
+- [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-09-30T01:21:02Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-09-27T18:22:18Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-23T00:46:16Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Labbouyat/medical-appointment-no-shows](https://github.com/Labbouyat/medical-appointment-no-shows) | stars=0 | lang=HTML | updated=2026-09-20T18:32:05Z | Python analysis of 110,521 medical appointments, exploring SMS reminders, age, and scheduling lead time.
