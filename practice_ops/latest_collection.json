@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01 06:23:39 UTC",
+  "generated_at_utc": "2026-10-01 13:45:56 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "anjaliPatel06/AuthFlow-AI",
+          "html_url": "https://github.com/anjaliPatel06/AuthFlow-AI",
+          "description": "Multi-Agent Healthcare Prior Authorization Automation System",
+          "updated_at": "2026-10-01T13:16:13Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues",
           "html_url": "https://github.com/Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/clicks",
           "description": "Clicks \u2014 independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial",
           "updated_at": "2026-09-25T18:41:25Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/bookend",
-          "html_url": "https://github.com/api-evangelist/bookend",
-          "description": "Bookend AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig",
-          "updated_at": "2026-09-25T17:58:08Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "hh0115600213-sudo/digital-clinic-appointment-system",
+          "html_url": "https://github.com/hh0115600213-sudo/digital-clinic-appointment-system",
+          "description": "Digital Clinic Appointment Management System for Hakika Medical Clinic - A comprehensive web-based platform for automating scheduling, reminders, and patient flow",
+          "updated_at": "2026-10-01T12:51:41Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Dells27/medical-appointment",
           "html_url": "https://github.com/Dells27/medical-appointment",
           "description": "A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.",
@@ -244,14 +252,6 @@
           "updated_at": "2026-09-20T18:32:05Z",
           "stargazers_count": 0,
           "language": "HTML"
-        },
-        {
-          "full_name": "mary-diana/medical_reminder_app",
-          "html_url": "https://github.com/mary-diana/medical_reminder_app",
-          "description": "Cross-platform Flutter mobile application integrated with hospital systems via Firebase for automated medication reminders, real-time prescription tracking, and appointment scheduling. Features secure cloud sync and proactive push notifications.",
-          "updated_at": "2026-09-17T23:05:03Z",
-          "stargazers_count": 0,
-          "language": "Dart"
         }
       ]
     },

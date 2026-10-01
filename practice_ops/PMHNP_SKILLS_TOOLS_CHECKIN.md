@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-10-01 06:23:39 UTC
+- Generated: 2026-10-01 13:45:56 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,11 +14,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [anjaliPatel06/AuthFlow-AI](https://github.com/anjaliPatel06/AuthFlow-AI) | stars=0 | lang=Unknown | updated=2026-10-01T13:16:13Z | Multi-Agent Healthcare Prior Authorization Automation System
 - [Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues](https://github.com/Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues) | stars=0 | lang=Unknown | updated=2026-09-29T08:37:12Z | An AI-powered healthcare platform that automates prior authorization, verifies documents, tracks approvals, and manages smart patient queues, reducing delays, administrative workload, waiting times, and improving healthcare efficiency.
 - [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-09-27T11:02:19Z | Candid Health — independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-09-27T10:53:23Z | Silna — independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-09-25T18:41:25Z | Clicks — independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial
-- [api-evangelist/bookend](https://github.com/api-evangelist/bookend) | stars=0 | lang=Unknown | updated=2026-09-25T17:58:08Z | Bookend AI — independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig
 
 ### EHR / FHIR Integration Libraries
 - Query: `fhir python ehr integration`
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [hh0115600213-sudo/digital-clinic-appointment-system](https://github.com/hh0115600213-sudo/digital-clinic-appointment-system) | stars=0 | lang=Unknown | updated=2026-10-01T12:51:41Z | Digital Clinic Appointment Management System for Hakika Medical Clinic - A comprehensive web-based platform for automating scheduling, reminders, and patient flow
 - [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-09-30T01:21:02Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-09-27T18:22:18Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-09-23T00:46:16Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Labbouyat/medical-appointment-no-shows](https://github.com/Labbouyat/medical-appointment-no-shows) | stars=0 | lang=HTML | updated=2026-09-20T18:32:05Z | Python analysis of 110,521 medical appointments, exploring SMS reminders, age, and scheduling lead time.
-- [mary-diana/medical_reminder_app](https://github.com/mary-diana/medical_reminder_app) | stars=0 | lang=Dart | updated=2026-09-17T23:05:03Z | Cross-platform Flutter mobile application integrated with hospital systems via Firebase for automated medication reminders, real-time prescription tracking, and appointment scheduling. Features secure cloud sync and proactive push notifications.
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`
