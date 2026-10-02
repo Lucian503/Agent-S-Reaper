@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-10-01 22:50:16 UTC
+- Generated: 2026-10-02 06:01:10 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,10 +51,10 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-10-02T02:52:49Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=1 | lang=TypeScript | updated=2026-10-01T17:52:45Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 - [anujsandhu/parcimic](https://github.com/anujsandhu/parcimic) | stars=0 | lang=JavaScript | updated=2026-10-01T17:16:52Z | Intelligent medical appointment scheduling, emergency hospital maps, and health reminder platform.
 - [hh0115600213-sudo/digital-clinic-appointment-system](https://github.com/hh0115600213-sudo/digital-clinic-appointment-system) | stars=0 | lang=Unknown | updated=2026-10-01T12:51:41Z | Digital Clinic Appointment Management System for Hakika Medical Clinic - A comprehensive web-based platform for automating scheduling, reminders, and patient flow
-- [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-09-30T01:21:02Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [Thisurika/Medi-care](https://github.com/Thisurika/Medi-care) | stars=0 | lang=JavaScript | updated=2026-09-27T18:22:18Z | A modern healthcare management system that connects Patients, Doctors, and Administrators in one platform. Medicare simplifies appointment scheduling, medical record management, prescriptions, and medicine reminders while providing an efficient healthcare experience
 
 ### Telehealth Workflow Support
