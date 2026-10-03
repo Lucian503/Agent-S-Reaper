@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-02 22:27:30 UTC",
+  "generated_at_utc": "2026-10-03 05:36:22 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,22 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/silna",
+          "html_url": "https://github.com/api-evangelist/silna",
+          "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
+          "updated_at": "2026-10-03T03:26:41Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/candid-health",
+          "html_url": "https://github.com/api-evangelist/candid-health",
+          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
+          "updated_at": "2026-10-03T03:10:31Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "anjaliPatel06/AuthFlow-AI",
           "html_url": "https://github.com/anjaliPatel06/AuthFlow-AI",
@@ -20,22 +36,6 @@
           "html_url": "https://github.com/Kris0721/Prior-Authorization-Automation-A-Healthcare-Platform-for-Smart-Queues",
           "description": "An AI-powered healthcare platform that automates prior authorization, verifies documents, tracks approvals, and manages smart patient queues, reducing delays, administrative workload, waiting times, and improving healthcare efficiency.",
           "updated_at": "2026-09-29T08:37:12Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/candid-health",
-          "html_url": "https://github.com/api-evangelist/candid-health",
-          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
-          "updated_at": "2026-09-27T11:02:19Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/silna",
-          "html_url": "https://github.com/api-evangelist/silna",
-          "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
-          "updated_at": "2026-09-27T10:53:23Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
