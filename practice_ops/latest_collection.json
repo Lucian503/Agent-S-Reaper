@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-03 21:39:38 UTC",
+  "generated_at_utc": "2026-10-04 06:12:18 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -260,6 +260,14 @@
       "query": "telehealth workflow automation",
       "repos": [
         {
+          "full_name": "aviralawasthi2005/Job-Portal",
+          "html_url": "https://github.com/aviralawasthi2005/Job-Portal",
+          "description": "An enterprise-grade healthcare recruitment & telehealth job platform. Features a Svelte reactive client, AdonisJS v6 TypeScript backend, Python strict clinical classifier, and n8n event-driven workflow automations.",
+          "updated_at": "2026-10-04T06:00:34Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "amoghsamji/Vitalis",
           "html_url": "https://github.com/amoghsamji/Vitalis",
           "description": "Vitalis is an enterprise-grade, AWS-native healthcare workflow automation and telehealth orchestration platform engineered completely from scratch.",
@@ -288,14 +296,6 @@
           "html_url": "https://github.com/ncreighton/d92942ca-healthtech-telehealth-invoic",
           "description": "manually copying data between apps and rebuilding the same process every time costs you real money. This n8n automation workflow pays for itself in one use.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed.  ## What's Included  - Healthtech & Te",
           "updated_at": "2026-08-05T17:17:22Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "ncreighton/d9bf3f41-healthtech-telehealth-report",
-          "html_url": "https://github.com/ncreighton/d9bf3f41-healthtech-telehealth-report",
-          "description": "Professional healthtech telehealth n8n automation workflow \u2014 without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Connects to 400+ apps via n8n's built-in integrations \u2014 no custom code needed.  ## What's Included  - Healthtech & Telehealth Report Generation And Delivery Automation \u2014 fully c",
-          "updated_at": "2026-08-05T17:16:28Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
