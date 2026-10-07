@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06 18:32:36 UTC",
+  "generated_at_utc": "2026-10-07 06:19:39 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
+          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
+          "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
+          "updated_at": "2026-10-06T22:45:31Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
@@ -29,14 +37,6 @@
           "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
           "updated_at": "2026-10-04T20:16:50Z",
           "stargazers_count": 1,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
-          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
-          "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
-          "updated_at": "2026-10-04T20:15:34Z",
-          "stargazers_count": 0,
           "language": "Unknown"
         },
         {
