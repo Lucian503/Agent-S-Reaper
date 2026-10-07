@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-10-07 06:19:39 UTC
+- Generated: 2026-10-07 13:45:00 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,11 +51,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
+- [Nanleeuwu/Medimate](https://github.com/Nanleeuwu/Medimate) | stars=0 | lang=JavaScript | updated=2026-10-07T10:46:14Z | A React Native mobile app for personal health monitoring, featuring blood pressure and blood sugar tracking, scheduled reminder notifications, and medical appointment scanning using AI OCR.
 - [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-10-04T19:37:14Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-10-02T02:52:49Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=1 | lang=TypeScript | updated=2026-10-01T17:52:45Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
 - [anujsandhu/parcimic](https://github.com/anujsandhu/parcimic) | stars=0 | lang=JavaScript | updated=2026-10-01T17:16:52Z | Intelligent medical appointment scheduling, emergency hospital maps, and health reminder platform.
-- [hh0115600213-sudo/digital-clinic-appointment-system](https://github.com/hh0115600213-sudo/digital-clinic-appointment-system) | stars=0 | lang=Unknown | updated=2026-10-01T12:51:41Z | Digital Clinic Appointment Management System for Hakika Medical Clinic - A comprehensive web-based platform for automating scheduling, reminders, and patient flow
 
 ### Telehealth Workflow Support
 - Query: `telehealth workflow automation`

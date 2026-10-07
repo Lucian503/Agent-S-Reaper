@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-07 06:19:39 UTC",
+  "generated_at_utc": "2026-10-07 13:45:00 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -214,6 +214,14 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "Nanleeuwu/Medimate",
+          "html_url": "https://github.com/Nanleeuwu/Medimate",
+          "description": "A React Native mobile app for personal health monitoring, featuring blood pressure and blood sugar tracking, scheduled reminder notifications, and medical appointment scanning using AI OCR.",
+          "updated_at": "2026-10-07T10:46:14Z",
+          "stargazers_count": 0,
+          "language": "JavaScript"
+        },
+        {
           "full_name": "api-evangelist/klara",
           "html_url": "https://github.com/api-evangelist/klara",
           "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
@@ -244,14 +252,6 @@
           "updated_at": "2026-10-01T17:16:52Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "hh0115600213-sudo/digital-clinic-appointment-system",
-          "html_url": "https://github.com/hh0115600213-sudo/digital-clinic-appointment-system",
-          "description": "Digital Clinic Appointment Management System for Hakika Medical Clinic - A comprehensive web-based platform for automating scheduling, reminders, and patient flow",
-          "updated_at": "2026-10-01T12:51:41Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         }
       ]
     },
