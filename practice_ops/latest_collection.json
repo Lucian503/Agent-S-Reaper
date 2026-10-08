@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08 06:31:00 UTC",
+  "generated_at_utc": "2026-10-08 18:57:38 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -263,7 +263,7 @@
           "full_name": "aviralawasthi2005/Job-Portal",
           "html_url": "https://github.com/aviralawasthi2005/Job-Portal",
           "description": "An enterprise-grade healthcare recruitment & telehealth job platform. Features a Svelte reactive client, AdonisJS v6 TypeScript backend, Python strict clinical classifier, and n8n event-driven workflow automations.",
-          "updated_at": "2026-10-04T06:00:34Z",
+          "updated_at": "2026-10-08T15:52:11Z",
           "stargazers_count": 0,
           "language": "JavaScript"
         },
