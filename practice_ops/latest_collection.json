@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-09 18:27:44 UTC",
+  "generated_at_utc": "2026-10-09 22:50:20 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -8,26 +8,10 @@
       "query": "prior authorization healthcare automation",
       "repos": [
         {
-          "full_name": "api-evangelist/candid-health",
-          "html_url": "https://github.com/api-evangelist/candid-health",
-          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
-          "updated_at": "2026-10-09T18:16:26Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
-          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
-          "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
-          "updated_at": "2026-10-06T22:45:31Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
           "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
-          "updated_at": "2026-10-04T23:38:19Z",
+          "updated_at": "2026-10-09T19:04:49Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -35,8 +19,24 @@
           "full_name": "api-evangelist/ruma-care",
           "html_url": "https://github.com/api-evangelist/ruma-care",
           "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
-          "updated_at": "2026-10-04T20:16:50Z",
+          "updated_at": "2026-10-09T19:01:19Z",
           "stargazers_count": 1,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
+          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
+          "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
+          "updated_at": "2026-10-09T19:00:17Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
+          "full_name": "api-evangelist/candid-health",
+          "html_url": "https://github.com/api-evangelist/candid-health",
+          "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
+          "updated_at": "2026-10-09T18:16:26Z",
+          "stargazers_count": 0,
           "language": "Unknown"
         },
         {
@@ -214,20 +214,20 @@
       "query": "medical appointment scheduling reminders",
       "repos": [
         {
+          "full_name": "api-evangelist/klara",
+          "html_url": "https://github.com/api-evangelist/klara",
+          "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
+          "updated_at": "2026-10-09T18:36:20Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
+        {
           "full_name": "Nanleeuwu/Medimate",
           "html_url": "https://github.com/Nanleeuwu/Medimate",
           "description": "A React Native mobile app for personal health monitoring, featuring blood pressure and blood sugar tracking, scheduled reminder notifications, and medical appointment scanning using AI OCR.",
           "updated_at": "2026-10-07T10:46:14Z",
           "stargazers_count": 0,
           "language": "JavaScript"
-        },
-        {
-          "full_name": "api-evangelist/klara",
-          "html_url": "https://github.com/api-evangelist/klara",
-          "description": "Klara \u2014 independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom",
-          "updated_at": "2026-10-04T19:37:14Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
         },
         {
           "full_name": "Dells27/medical-appointment",
