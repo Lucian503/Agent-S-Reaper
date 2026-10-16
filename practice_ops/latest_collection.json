@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15 21:38:52 UTC",
+  "generated_at_utc": "2026-10-16 04:51:10 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "HomenShum/LLM-Prior-Authorization-Form-Auto-Fill-System-With-Eval",
+          "html_url": "https://github.com/HomenShum/LLM-Prior-Authorization-Form-Auto-Fill-System-With-Eval",
+          "description": "LLMs auto-fill regulated prior-authorization forms from patient notes \u2014 with a validation pass and an LLM-as-a-Judge eval that scores correctness on clinical knowledge, not string matching. FastAPI + Streamlit, GPT structured outputs, SSE field streaming, F1 pipeline that exposed a flawed golden dataset.",
+          "updated_at": "2026-10-16T00:43:16Z",
+          "stargazers_count": 1,
+          "language": "Python"
+        },
         {
           "full_name": "api-evangelist/silna",
           "html_url": "https://github.com/api-evangelist/silna",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/candid-health",
           "description": "Candid Health \u2014 independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue",
           "updated_at": "2026-10-09T18:16:26Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/clicks",
-          "html_url": "https://github.com/api-evangelist/clicks",
-          "description": "Clicks \u2014 independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial",
-          "updated_at": "2026-10-04T17:31:15Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
