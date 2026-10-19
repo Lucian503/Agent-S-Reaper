@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-18 20:57:26 UTC",
+  "generated_at_utc": "2026-10-19 05:06:32 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/ruma-care",
+          "html_url": "https://github.com/api-evangelist/ruma-care",
+          "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
+          "updated_at": "2026-10-18T21:35:18Z",
+          "stargazers_count": 1,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/candid-health",
           "html_url": "https://github.com/api-evangelist/candid-health",
@@ -21,14 +29,6 @@
           "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
           "updated_at": "2026-10-16T20:37:37Z",
           "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/ruma-care",
-          "html_url": "https://github.com/api-evangelist/ruma-care",
-          "description": "Ruma Care \u2014 independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye",
-          "updated_at": "2026-10-16T20:33:43Z",
-          "stargazers_count": 1,
           "language": "Unknown"
         },
         {
