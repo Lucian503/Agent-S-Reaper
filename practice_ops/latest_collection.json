@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21 12:12:39 UTC",
+  "generated_at_utc": "2026-10-21 17:33:58 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/akasa",
+          "html_url": "https://github.com/api-evangelist/akasa",
+          "description": "AKASA \u2014 independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
+          "updated_at": "2026-10-21T14:23:35Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/clicks",
           "html_url": "https://github.com/api-evangelist/clicks",
@@ -36,14 +44,6 @@
           "html_url": "https://github.com/api-evangelist/silna",
           "description": "Silna \u2014 independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.",
           "updated_at": "2026-10-16T20:37:37Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/rhyme-fka-priorauthnow",
-          "html_url": "https://github.com/api-evangelist/rhyme-fka-priorauthnow",
-          "description": "Rhyme (fka PriorAuthNow) \u2014 independent third-party profile of a public API surface, by API Evangelist. Rhyme (formerly PriorAuthNow) is a healthcare technology company that eliminates prior authorization burden by automating the exchange between payers and providers. Its platform delivers touchless prior authorization, gold carding (removing auth r",
-          "updated_at": "2026-10-16T20:32:44Z",
           "stargazers_count": 0,
           "language": "Unknown"
         }
@@ -100,18 +100,10 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
-          "full_name": "Syed-Mohsin-Ali786/MediScribe-AI",
-          "html_url": "https://github.com/Syed-Mohsin-Ali786/MediScribe-AI",
-          "description": "MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.",
-          "updated_at": "2026-10-20T09:19:54Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
           "full_name": "api-evangelist/freed-ai",
           "html_url": "https://github.com/api-evangelist/freed-ai",
           "description": "Freed \u2014 independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr",
-          "updated_at": "2026-10-16T19:55:10Z",
+          "updated_at": "2026-10-21T17:10:41Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -119,9 +111,17 @@
           "full_name": "api-evangelist/deepscribe",
           "html_url": "https://github.com/api-evangelist/deepscribe",
           "description": "DeepScribe \u2014 independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture",
-          "updated_at": "2026-10-16T19:45:58Z",
+          "updated_at": "2026-10-21T14:38:21Z",
           "stargazers_count": 0,
           "language": "Unknown"
+        },
+        {
+          "full_name": "Syed-Mohsin-Ali786/MediScribe-AI",
+          "html_url": "https://github.com/Syed-Mohsin-Ali786/MediScribe-AI",
+          "description": "MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.",
+          "updated_at": "2026-10-20T09:19:54Z",
+          "stargazers_count": 0,
+          "language": "Python"
         },
         {
           "full_name": "api-evangelist/augmedix",
