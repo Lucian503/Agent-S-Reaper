@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-10-22 12:15:23 UTC
+- Generated: 2026-10-22 17:29:50 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -14,9 +14,9 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 ## 3) Collected Tools (GitHub Signals)
 ### Prior Authorization + CoverMyMeds Adjacent Workflow Tools
 - Query: `prior authorization healthcare automation`
+- [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-10-22T16:53:49Z | Candid Health — independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue
 - [api-evangelist/akasa](https://github.com/api-evangelist/akasa) | stars=0 | lang=Unknown | updated=2026-10-21T14:23:35Z | AKASA — independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.
 - [api-evangelist/clicks](https://github.com/api-evangelist/clicks) | stars=0 | lang=Unknown | updated=2026-10-21T05:16:38Z | Clicks — independent third-party profile of a public API surface, by API Evangelist. Clicks (Clicks Health) is an AI-native operations company that deploys AI agents to run complete healthcare back-office workflows. Its agents handle revenue cycle management (eligibility and insurance verification, prior authorization, claim status checking, denial
-- [api-evangelist/candid-health](https://github.com/api-evangelist/candid-health) | stars=0 | lang=Unknown | updated=2026-10-19T11:08:47Z | Candid Health — independent third-party profile of a public API surface, by API Evangelist. Candid Health is a medical billing automation platform providing REST APIs for submitting claims, checking real-time eligibility, managing encounters, processing remittances, handling prior authorizations, patient collections, credentialing, and full revenue
 - [api-evangelist/ruma-care](https://github.com/api-evangelist/ruma-care) | stars=1 | lang=Unknown | updated=2026-10-18T21:35:18Z | Ruma Care — independent third-party profile of a public API surface, by API Evangelist. Ruma Care is a healthcare software company that streamlines the prior authorization process for biologic and infusion medications in infusion clinics. Its AI-powered platform pulls patient and insurance data from electronic health records (EHRs) to identify paye
 - [api-evangelist/silna](https://github.com/api-evangelist/silna) | stars=0 | lang=Unknown | updated=2026-10-16T20:37:37Z | Silna — independent third-party profile of a public API surface, by API Evangelist. Silna Health is a healthcare automation platform that handles prior authorizations, benefit checks, eligibility verification, and insurance monitoring upfront so providers can confirm patients are clear to receive care.
 
