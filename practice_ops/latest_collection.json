@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-23 11:56:47 UTC",
+  "generated_at_utc": "2026-10-23 17:21:40 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -7,6 +7,14 @@
       "label": "Prior Authorization + CoverMyMeds Adjacent Workflow Tools",
       "query": "prior authorization healthcare automation",
       "repos": [
+        {
+          "full_name": "api-evangelist/akasa",
+          "html_url": "https://github.com/api-evangelist/akasa",
+          "description": "AKASA \u2014 independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
+          "updated_at": "2026-10-23T17:14:14Z",
+          "stargazers_count": 0,
+          "language": "Unknown"
+        },
         {
           "full_name": "api-evangelist/clicks",
           "html_url": "https://github.com/api-evangelist/clicks",
@@ -28,14 +36,6 @@
           "html_url": "https://github.com/api-evangelist/bookend",
           "description": "Bookend AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Bookend AI is a healthcare automation company building a Gastroenterology Practice Automation Platform that combines Payer Policy Intelligence with intelligent workflow automation. Its Universal Policy Library aggregates and interprets prior authorization, elig",
           "updated_at": "2026-10-23T06:52:11Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/akasa",
-          "html_url": "https://github.com/api-evangelist/akasa",
-          "description": "AKASA \u2014 independent third-party profile of a public API surface, by API Evangelist. AKASA is a generative AI company for healthcare revenue cycle management (RCM), building AI-powered products that automate coding, clinical documentation integrity (CDI), prior authorization status, and claim status work for hospitals and health systems.",
-          "updated_at": "2026-10-23T02:46:18Z",
           "stargazers_count": 0,
           "language": "Unknown"
         },
@@ -100,19 +100,19 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "api-evangelist/augmedix",
+          "html_url": "https://github.com/api-evangelist/augmedix",
+          "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
+          "updated_at": "2026-10-23T17:20:12Z",
+          "stargazers_count": 1,
+          "language": "Unknown"
+        },
+        {
           "full_name": "api-evangelist/deepscribe",
           "html_url": "https://github.com/api-evangelist/deepscribe",
           "description": "DeepScribe \u2014 independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture",
           "updated_at": "2026-10-23T10:07:27Z",
           "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/augmedix",
-          "html_url": "https://github.com/api-evangelist/augmedix",
-          "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
-          "updated_at": "2026-10-23T04:58:21Z",
-          "stargazers_count": 1,
           "language": "Unknown"
         },
         {
