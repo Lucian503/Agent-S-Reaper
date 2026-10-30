@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-10-30 13:22:33 UTC
+- Generated: 2026-10-30 22:34:36 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -51,7 +51,7 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Scheduling + No-Show Reduction
 - Query: `medical appointment scheduling reminders`
-- [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-10-26T04:48:26Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
+- [api-evangelist/klara](https://github.com/api-evangelist/klara) | stars=0 | lang=Unknown | updated=2026-10-30T13:23:18Z | Klara — independent third-party profile of a public API surface, by API Evangelist. Klara is a US healthcare patient-engagement and communication platform, now part of Modernizing Medicine (ModMed), that gives medical practices two-way secure messaging, patient texting, appointment reminders and scheduling, intake and forms, telemedicine, and autom
 - [Nanleeuwu/Medimate](https://github.com/Nanleeuwu/Medimate) | stars=0 | lang=JavaScript | updated=2026-10-07T10:46:14Z | A React Native mobile app for personal health monitoring, featuring blood pressure and blood sugar tracking, scheduled reminder notifications, and medical appointment scanning using AI OCR.
 - [Dells27/medical-appointment](https://github.com/Dells27/medical-appointment) | stars=0 | lang=C# | updated=2026-10-02T02:52:49Z | A web platform where patients can search for doctors by specialty, schedule appointments, and manage their medical history, while doctors manage their agenda, attend consultations, and document clinical notes. All automated with notifications, reminders, and a robust microservices system.
 - [knarayanareddy/CareBinder](https://github.com/knarayanareddy/CareBinder) | stars=1 | lang=TypeScript | updated=2026-10-01T17:52:45Z | A caregiver-focused medical organizer that simplifies managing parents/kids: medication schedules, doctor notes, lab results, symptom logs, and appointment reminders
