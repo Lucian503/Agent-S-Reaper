@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-10-29 22:54:46 UTC
+- Generated: 2026-10-30 06:16:58 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,10 +30,10 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-10-30T03:12:44Z | Freed — independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr
 - [api-evangelist/deepscribe](https://github.com/api-evangelist/deepscribe) | stars=0 | lang=Unknown | updated=2026-10-29T19:53:51Z | DeepScribe — independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture
 - [chundurimanikanta/LIPI-AI](https://github.com/chundurimanikanta/LIPI-AI) | stars=0 | lang=Unknown | updated=2026-10-29T13:49:29Z | An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.
 - [api-evangelist/augmedix](https://github.com/api-evangelist/augmedix) | stars=1 | lang=Unknown | updated=2026-10-29T02:31:00Z | Augmedix — independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e
-- [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-10-26T04:23:06Z | Freed — independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr
 - [Syed-Mohsin-Ali786/MediScribe-AI](https://github.com/Syed-Mohsin-Ali786/MediScribe-AI) | stars=0 | lang=Python | updated=2026-10-20T09:19:54Z | MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.
 
 ### Medical Coding + Revenue Cycle
