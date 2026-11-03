@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-02 21:52:05 UTC",
+  "generated_at_utc": "2026-11-03 07:07:21 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -124,20 +124,20 @@
           "language": "Unknown"
         },
         {
-          "full_name": "chundurimanikanta/LIPI-AI",
-          "html_url": "https://github.com/chundurimanikanta/LIPI-AI",
-          "description": "An AI-powered medical scribe application that seamlessly transcribes and structures doctor-patient consultations into clinical documentation. Built with a React frontend hosted on Vercel and connected to a Hugging Face backend running Whisper and Qwen 2.5, it securely generates real-time transcripts, SOAP notes, and ICD codes.",
-          "updated_at": "2026-10-29T13:49:29Z",
-          "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
           "full_name": "api-evangelist/augmedix",
           "html_url": "https://github.com/api-evangelist/augmedix",
           "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
           "updated_at": "2026-10-29T02:31:00Z",
           "stargazers_count": 1,
           "language": "Unknown"
+        },
+        {
+          "full_name": "Syed-Mohsin-Ali786/MediScribe-AI",
+          "html_url": "https://github.com/Syed-Mohsin-Ali786/MediScribe-AI",
+          "description": "MediScribe AI is an AI-powered healthcare documentation assistant that converts doctor-patient conversation recordings into structured medical records. It reduces manual documentation work for doctors by automatically generating SOAP notes and important clinical insights.",
+          "updated_at": "2026-10-20T09:19:54Z",
+          "stargazers_count": 0,
+          "language": "Python"
         }
       ]
     },
