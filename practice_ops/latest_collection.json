@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-04 19:57:45 UTC",
+  "generated_at_utc": "2026-11-05 07:11:51 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -54,6 +54,14 @@
       "query": "fhir python ehr integration",
       "repos": [
         {
+          "full_name": "Amanverma1011/hl7-fhir-bridge",
+          "html_url": "https://github.com/Amanverma1011/hl7-fhir-bridge",
+          "description": "HL7 v2 to FHIR R4 integration engine (like Mirth/Rhapsody): MLLP listener, REST API, ACKs, idempotent FHIR transactions. Python, FastAPI, Docker.",
+          "updated_at": "2026-11-04T23:13:24Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "jayashree-kanukollu/EHR-FHIR-Clinical-Analytics",
           "html_url": "https://github.com/jayashree-kanukollu/EHR-FHIR-Clinical-Analytics",
           "description": "End-to-end healthcare analytics project integrating FHIR R4 API data, Python, MySQL, and Power BI for clinical and laboratory analytics.",
@@ -82,14 +90,6 @@
           "html_url": "https://github.com/drkaushiksarkar/health-informatics-toolkit",
           "description": "Health informatics platform - FHIR/HL7 integration, clinical data pipelines, EHR interoperability",
           "updated_at": "2026-04-05T11:57:51Z",
-          "stargazers_count": 0,
-          "language": "Python"
-        },
-        {
-          "full_name": "shreyaredd/FHIR-Healthcare-Data-Integration",
-          "html_url": "https://github.com/shreyaredd/FHIR-Healthcare-Data-Integration",
-          "description": "Python-based mapping engine that transforms legacy hospital data into standardized HL7 FHIR R4 resources. Focused on healthcare data interoperability and EHR compatibility.",
-          "updated_at": "2026-03-10T07:28:57Z",
           "stargazers_count": 0,
           "language": "Python"
         }
