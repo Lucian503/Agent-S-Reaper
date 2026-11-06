@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-06 07:11:59 UTC",
+  "generated_at_utc": "2026-11-06 19:37:44 UTC",
   "practice_profile": "Solo PMHNP outpatient practice",
   "collection_goal": "Continuously collect and curate skills and tools that improve prior authorizations, clinical documentation, scheduling, billing readiness, and patient communication workflows.",
   "buckets": [
@@ -100,6 +100,14 @@
       "query": "medical scribe clinical documentation ai",
       "repos": [
         {
+          "full_name": "zaidsaleh-zx/clinical-scribe-ai",
+          "html_url": "https://github.com/zaidsaleh-zx/clinical-scribe-ai",
+          "description": "Clinical Scribe AI is an intelligent healthcare assistant that listens to doctor-patient conversations and converts speech into structured clinical notes. It uses AI and speech recognition to reduce documentation time, improve accuracy, organize medical information, and help healthcare professionals focus more on patient care.",
+          "updated_at": "2026-11-06T10:27:29Z",
+          "stargazers_count": 0,
+          "language": "Python"
+        },
+        {
           "full_name": "Aregawit1/ClinicalScribe-AI",
           "html_url": "https://github.com/Aregawit1/ClinicalScribe-AI",
           "description": "AI-powered multilingual medical documentation assistant supporting Tigrinya and Amharic.",
@@ -129,14 +137,6 @@
           "description": "DeepScribe \u2014 independent third-party profile of a public API surface, by API Evangelist. DeepScribe is a San Francisco, California ambient AI medical scribe company that automates clinical documentation and coding for specialty healthcare providers. Founded in 2017 (incorporated 2019) by Matthew Ko, Kairui Zeng, and Akilesh Bapu, DeepScribe capture",
           "updated_at": "2026-10-29T19:53:51Z",
           "stargazers_count": 0,
-          "language": "Unknown"
-        },
-        {
-          "full_name": "api-evangelist/augmedix",
-          "html_url": "https://github.com/api-evangelist/augmedix",
-          "description": "Augmedix \u2014 independent third-party profile of a public API surface, by API Evangelist. Augmedix is a San Francisco-based health technology company providing ambient AI medical documentation (AI scribe) services that capture patient-clinician conversations and generate clinical notes so that physicians can focus on patient care instead of EHR data e",
-          "updated_at": "2026-10-29T02:31:00Z",
-          "stargazers_count": 1,
           "language": "Unknown"
         }
       ]
