@@ -1,6 +1,6 @@
 # CHECK IN (PMHNP Skills + Tools Collector)
 
-- Generated: 2026-11-22 07:17:59 UTC
+- Generated: 2026-11-22 19:55:00 UTC
 - Practice Profile: Solo PMHNP outpatient practice
 
 ## 1) Mission
@@ -30,11 +30,11 @@ Continuously collect and curate skills and tools that improve prior authorizatio
 
 ### Clinical Documentation + Dictation
 - Query: `medical scribe clinical documentation ai`
+- [Gone2023/Medical-Scribe](https://github.com/Gone2023/Medical-Scribe) | stars=0 | lang=JavaScript | updated=2026-11-22T11:04:19Z | Medical scribe is a production-grade, real-time clinical AI scribe application designed to simplify medical documentation for healthcare providers. By listening to doctor-patient consultations, AscribeMD streams audio over WebSockets to transcribe speech in real time.
 - [sohailahmed-bsrh/medi-scribe-sage](https://github.com/sohailahmed-bsrh/medi-scribe-sage) | stars=0 | lang=TypeScript | updated=2026-11-22T02:44:51Z | AI-powered medical documentation and clinical transcription assistant.
 - [zaidsaleh-zx/clinical-scribe-ai](https://github.com/zaidsaleh-zx/clinical-scribe-ai) | stars=0 | lang=Python | updated=2026-11-06T10:27:29Z | Clinical Scribe AI is an intelligent healthcare assistant that listens to doctor-patient conversations and converts speech into structured clinical notes. It uses AI and speech recognition to reduce documentation time, improve accuracy, organize medical information, and help healthcare professionals focus more on patient care.
 - [Aregawit1/ClinicalScribe-AI](https://github.com/Aregawit1/ClinicalScribe-AI) | stars=0 | lang=TypeScript | updated=2026-11-04T07:43:51Z | AI-powered multilingual medical documentation assistant supporting Tigrinya and Amharic.
 - [sparsh-karna/medical-scribe-ai-patent-v2](https://github.com/sparsh-karna/medical-scribe-ai-patent-v2) | stars=0 | lang=Python | updated=2026-11-02T17:21:57Z | Confidence-gated clinical documentation: a safety gate between AI-drafted notes and the chart
-- [api-evangelist/freed-ai](https://github.com/api-evangelist/freed-ai) | stars=0 | lang=Unknown | updated=2026-10-30T03:12:44Z | Freed — independent third-party profile of a public API surface, by API Evangelist. Freed is a San Francisco-based AI medical scribe and clinician assistant designed to reduce the documentation burden on healthcare providers. The product listens to patient visits and generates SOAP-style clinical notes, visit summaries, patient instructions, referr
 
 ### Medical Coding + Revenue Cycle
 - Query: `medical billing coding automation`
